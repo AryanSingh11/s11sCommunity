@@ -1,0 +1,1450 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783027.839959",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "5582d5ac-ba4b-4089-b20c-0afe2000ffa4",
+    "type": "message",
+    "text": "Anyone participating in SHRM India next month? I need help.",
+    "user": "U02ULN6EFNV",
+    "ts": "1650536364.518019",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XjDMy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone participating in SHRM India next month? I need help."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650536364.518019",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650536712.738089",
+    "reply_users": [
+      "U02UEA78EDU"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "f682fc3e-0465-4ab4-b4d3-d38894d5f9ae",
+    "type": "message",
+    "text": "Any suggestions on Agencies/Vendors that can help run end-to-end webinars/Panel Discussion/RoundTable specifically in North America?",
+    "user": "U02V7TLU5HT",
+    "ts": "1650512983.003829",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OvFW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any suggestions on Agencies/Vendors that can help run end-to-end webinars/Panel Discussion/RoundTable specifically in North America?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650512983.003829",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650607593.708629",
+    "reply_users": [
+      "U0363DZU3QF",
+      "U03AJ8BHKNC",
+      "U03BZJ0KK1R"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "subtype": "tombstone",
+    "text": "This message was deleted.",
+    "user": "USLACKBOT",
+    "hidden": true,
+    "ts": "1650269704.923549",
+    "thread_ts": "1650269704.923549",
+    "parent_user_id": "USLACKBOT",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650271613.369929",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U03A2UNJJDD"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "f3edc2de-44ca-464d-8fe4-de4ca21ef627",
+    "type": "message",
+    "text": "Anyone here visiting SaaSBoomi Growth Conf this weekend in Chennai? Would love to catch up!",
+    "user": "U02V9A0470S",
+    "ts": "1650263416.187479",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yL/a9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone here visiting SaaSBoomi Growth Conf this weekend in Chennai? Would love to catch up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650263416.187479",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1650705766.251449",
+    "reply_users": [
+      "U02UUCE1ASD",
+      "U038W1678JX",
+      "U039H3ZSRD3",
+      "U02UU8Q5F9R"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "df14787b-da7d-4360-b477-f6aad0ef156a",
+    "type": "message",
+    "text": "Cross Posting\n\n<https://s11s.slack.com/archives/C02PS0CGPU1/p1650079191182989>",
+    "user": "U02UGB8DERY",
+    "ts": "1650079205.927249",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://s11s.slack.com/archives/C02PS0CGPU1/p1650079191182989",
+        "ts": "1650079191.182989",
+        "author_id": "U02UGB8DERY",
+        "channel_team": "T02PFK13YLC",
+        "channel_id": "C02PS0CGPU1",
+        "channel_name": "general",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T02PFK13YLC",
+            "channel": "C02PS0CGPU1",
+            "ts": "1650079191.182989",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "Iph",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "Confused what to binge on the weekend? "
+                        },
+                        {
+                          "type": "emoji",
+                          "name": "tv"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n\nWe got your back "
+                        },
+                        {
+                          "type": "emoji",
+                          "name": "raised_hands"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\nLast week, We had "
+                        },
+                        {
+                          "type": "user",
+                          "user_id": "U038XFCC598"
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Global Field Marketing Lead at VWO ",
+                          "style": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "with us on our DeepDive Session.\n\nYou are in for an absolute banger with this one ---> The build up starts with talking about pre and post pandemic event world and the climax with a some controversy "
+                        },
+                        {
+                          "type": "emoji",
+                          "name": "eyes"
+                        },
+                        {
+                          "type": "emoji",
+                          "name": "stuck_out_tongue"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n\nFrom Pre Event Playbook, Booth locations to Measuring Success Paddy has spilled it all.\n\nPost your key takeaways from the session in this thread\n\n"
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://s11s.notion.site/s11s-DeepDive-Library-137fee0f4a9d4e668d0ccf41d125fb88",
+                          "text": "Link to session notes"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n\nSpecial shoutout to "
+                        },
+                        {
+                          "type": "user",
+                          "user_id": "U02VBNKU9T6"
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "user",
+                          "user_id": "U02UMJJJALA"
+                        },
+                        {
+                          "type": "text",
+                          "text": " Bhavna for their super smart questions.\n\n "
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://www.youtube.com/watch?v=CYjtINz7mFg"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://s11s.slack.com/archives/C02PS0CGPU1/p1650079191182989",
+        "fallback": "[April 15th, 2022 8:19 PM] rahulrajvanshi2501: Confused what to binge on the weekend? :tv:\n\nWe got your back :raised_hands:\nLast week, We had <@U038XFCC598> *Global Field Marketing Lead at VWO* with us on our DeepDive Session.\n\nYou are in for an absolute banger with this one ---&gt; The build up starts with talking about pre and post pandemic event world and the climax with a some controversy :eyes::stuck_out_tongue:\n\nFrom Pre Event Playbook, Booth locations to Measuring Success Paddy has spilled it all.\n\nPost your key takeaways from the session in this thread\n\n<https://s11s.notion.site/s11s-DeepDive-Library-137fee0f4a9d4e668d0ccf41d125fb88|Link to session notes>\n\nSpecial shoutout to <@U02VBNKU9T6> <@U02UMJJJALA> Bhavna for their super smart questions.\n\n <https://www.youtube.com/watch?v=CYjtINz7mFg>",
+        "text": "Confused what to binge on the weekend? :tv:\n\nWe got your back :raised_hands:\nLast week, We had <@U038XFCC598> *Global Field Marketing Lead at VWO* with us on our DeepDive Session.\n\nYou are in for an absolute banger with this one ---&gt; The build up starts with talking about pre and post pandemic event world and the climax with a some controversy :eyes::stuck_out_tongue:\n\nFrom Pre Event Playbook, Booth locations to Measuring Success Paddy has spilled it all.\n\nPost your key takeaways from the session in this thread\n\n<https://s11s.notion.site/s11s-DeepDive-Library-137fee0f4a9d4e668d0ccf41d125fb88|Link to session notes>\n\nSpecial shoutout to <@U02VBNKU9T6> <@U02UMJJJALA> Bhavna for their super smart questions.\n\n <https://www.youtube.com/watch?v=CYjtINz7mFg>",
+        "author_name": "Rahul Rajvanshi",
+        "author_link": "https://s11s.slack.com/team/U02UGB8DERY",
+        "author_icon": "https://avatars.slack-edge.com/2022-01-18/2962250036230_4cda10dd85c264b66a43_48.jpg",
+        "author_subname": "Rahul Rajvanshi",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "Posted in #general"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eGW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cross Posting\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://s11s.slack.com/archives/C02PS0CGPU1/p1650079191182989"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "Releasing today :fire::fire::rocket::rocket:",
+    "files": [
+      {
+        "id": "F03B1M23QB1",
+        "created": 1649913731,
+        "timestamp": 1649913731,
+        "name": "Frame 63.png",
+        "title": "Frame 63.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02UGB8DERY",
+        "editable": false,
+        "size": 849292,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03B1M23QB1/frame_63.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03B1M23QB1/download/frame_63.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 450,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B1M23QB1-4491f9b78a/frame_63_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "original_w": 1280,
+        "original_h": 720,
+        "thumb_tiny": "AwAbADCgoXHOc0uF9T+VKmNvP86cQnr/AOPf/WoAjwKMCnkLg4Iz/vVJaxq75bnHagCHYxGQpx9KdIsewFCcgcg1cDFZDukPB6e1R3oBRWXHHBxSGVl3AcNj8aCGPVs/jTc0ZPrTEGKntpRHkEDnvUFFAEuTiTIyeoNNLnytrdTTMn1ooA//2Q==",
+        "permalink": "https://s11s.slack.com/files/U02UGB8DERY/F03B1M23QB1/frame_63.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03B1M23QB1-e817cbe335",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02UGB8DERY",
+    "display_as_bot": false,
+    "ts": "1649913756.724779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9jOZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Releasing today "
+              },
+              {
+                "type": "emoji",
+                "name": "fire"
+              },
+              {
+                "type": "emoji",
+                "name": "fire"
+              },
+              {
+                "type": "emoji",
+                "name": "rocket"
+              },
+              {
+                "type": "emoji",
+                "name": "rocket"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "edited": {
+      "user": "U02UGB8DERY",
+      "ts": "1649913773.000000"
+    },
+    "client_msg_id": "a252a470-a400-4354-9547-88db237d3fef",
+    "thread_ts": "1649913756.724779",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1650053202.039789",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U0395SBAAQZ",
+      "U02UGB8DERY",
+      "U030PQRLHEH"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U037UUE6TV3",
+          "U030N8RHURZ",
+          "U02VA7QD8UB",
+          "U030ZR9D0FK",
+          "U038ZH5QQ04",
+          "U02UMJJJALA",
+          "U038WP8PLUA",
+          "U02UJC6AT29",
+          "U02UZQJMP8R",
+          "U038XFCC598"
+        ],
+        "count": 11
+      },
+      {
+        "name": "raised_hands::skin-tone-4",
+        "users": [
+          "U02TTEFFU6B"
+        ],
+        "count": 1
+      },
+      {
+        "name": "fire",
+        "users": [
+          "U02UZQJMP8R"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "tombstone",
+    "text": "This message was deleted.",
+    "user": "USLACKBOT",
+    "hidden": true,
+    "ts": "1649906344.360959",
+    "thread_ts": "1649906344.360959",
+    "parent_user_id": "USLACKBOT",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649919714.237769",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "moneybag",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "553da7c9-435a-4da4-85c6-892bcc57dabf",
+    "type": "message",
+    "text": "Admins - is the recording of the events session by Paddy available? <@U02ULN6EFNV> <@U02TTEFFU6B> <@U02PDC4883V>",
+    "user": "U0306HUGT6C",
+    "ts": "1649688022.982259",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jF3k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Admins - is the recording of the events session by Paddy available? "
+              },
+              {
+                "type": "user",
+                "user_id": "U02ULN6EFNV"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02TTEFFU6B"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U02PDC4883V"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649688022.982259",
+    "reply_count": 8,
+    "reply_users_count": 5,
+    "latest_reply": "1650065580.737879",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U030KSSTADU",
+      "U02UGB8DERY",
+      "U0306HUGT6C",
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U038WP8PLUA",
+          "U0361UQSKGQ"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "CE281049-79A2-46E8-ACFF-C8D8EC1A15C6",
+    "type": "message",
+    "text": "Folks, any suggestions on Agencies/Vendors that can help arrange c-level roundtables, specifically in Indonesia? ID is turning out to be a hub of digitalisation of late and I’d like to take a deeper dive",
+    "user": "U030EJQ7NAV",
+    "ts": "1649496016.510399",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U030EJQ7NAV",
+      "ts": "1649496083.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i4Uk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks, any suggestions on Agencies/Vendors that can help arrange c-level roundtables, specifically in Indonesia? ID is turning out to be a hub of digitalisation of late and I’d like to take a deeper dive"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649496016.510399",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1649575648.058019",
+    "reply_users": [
+      "U02USELSBRT",
+      "U030D7DN2DD",
+      "U030EJQ7NAV"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2a99981f-4c95-4c70-abce-7e706c6cc23d",
+    "type": "message",
+    "text": "Any suggestions on reliable teleprospecting, appointment generation agency for East/West Africa?",
+    "user": "U02UM2AS9PV",
+    "ts": "1649324265.624329",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cLc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any suggestions on reliable teleprospecting, appointment generation agency for East/West Africa?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649324265.624329",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649696741.860499",
+    "reply_users": [
+      "U02UJ3N39PF",
+      "U02UM2AS9PV"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Has anyone used Scent Marketing at their booth? Would love to have a small chat on how to go about it and if it actually works",
+    "files": [
+      {
+        "id": "F03AEESLEQM",
+        "created": 1649323006,
+        "timestamp": 1649323006,
+        "name": "Screenshot_20220407-144522.jpg",
+        "title": "Screenshot_20220407-144522.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U0395SBAAQZ",
+        "editable": false,
+        "size": 176863,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03AEESLEQM/screenshot_20220407-144522.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03AEESLEQM/download/screenshot_20220407-144522.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_360.jpg",
+        "thumb_360_w": 162,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_480.jpg",
+        "thumb_480_w": 216,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_720.jpg",
+        "thumb_720_w": 324,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1778,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_960.jpg",
+        "thumb_960_w": 432,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AEESLEQM-68bf09c727/screenshot_20220407-144522_1024.jpg",
+        "thumb_1024_w": 461,
+        "thumb_1024_h": 1024,
+        "original_w": 1080,
+        "original_h": 2400,
+        "thumb_tiny": "AwAwABWzLeCORk2cjvmkF6GH3MfVsU2a0WSVmMhGT025pFs1Bx5h59UoHoWoZRLu4xtOOuakqOGLygRuzmpKBEbKN5J/lS4T+7Qepox7UAOUADCjApaB0ooAb360pwBktgCk/iqC93+UDHzzyoGc0AWaKZHv2DPoOvWnZNAH/9k=",
+        "permalink": "https://s11s.slack.com/files/U0395SBAAQZ/F03AEESLEQM/screenshot_20220407-144522.jpg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03AEESLEQM-d849cb9700",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U0395SBAAQZ",
+    "display_as_bot": false,
+    "ts": "1649323019.779549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VOJ/e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anyone used Scent Marketing at their booth? Would love to have a small chat on how to go about it and if it actually works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "32620289-ce5c-428c-8dc5-dabbe8b8d59a",
+    "thread_ts": "1649323019.779549",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649674247.273589",
+    "reply_users": [
+      "U02VBNKU9T6",
+      "U030D7DN2DD",
+      "U030PQRLHEH",
+      "U031KD0PNTX"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "thinking_face",
+        "users": [
+          "U031KD0PNTX"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d3e13f5a-e1f1-4f1d-b6aa-6887e2d0d5b2",
+    "type": "message",
+    "text": "Hey guys, looking for suggestions for streaming platforms to host Linkedin Live events. But anything *apart from StreamYard.*",
+    "user": "U032NQB0V6X",
+    "ts": "1649311632.998179",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xg+=Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, looking for suggestions for streaming platforms to host Linkedin Live events. But anything "
+              },
+              {
+                "type": "text",
+                "text": "apart from StreamYard.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649311632.998179",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1649320710.883069",
+    "reply_users": [
+      "U02UGB8DERY",
+      "U037UUE6TV3",
+      "U032NQB0V6X",
+      "U03AJ8BHKNC"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Any idea who these SaaS marketing leaders are?",
+    "files": [
+      {
+        "id": "F039J7DUXKR",
+        "created": 1649076687,
+        "timestamp": 1649076687,
+        "name": "File.jpg",
+        "title": "File from iOS",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02USELSBRT",
+        "editable": false,
+        "size": 87649,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F039J7DUXKR/file.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F039J7DUXKR/download/file.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 253,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 337,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 506,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 562,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 674,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F039J7DUXKR-15e6d8e342/file_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 719,
+        "original_w": 1125,
+        "original_h": 790,
+        "thumb_tiny": "AwAhADC6/neeuwDZ3OaftP8Aeb86Uht2R0+tJhh6/wDfVABsP94/nSgEAd/qaTa3v/31Rhuev/fVADx70U0Kf7zfnTgMUARscMef1pM/7X/j1POMnkinDpQBFnnr/wCPUZ/2uP8AeqTcAcUBgT/9agCPPv8A+PU5CSfX8c08nFIGBOP6UAL3oo70UAFFFFABRRRQB//Z",
+        "permalink": "https://s11s.slack.com/files/U02USELSBRT/F039J7DUXKR/file.jpg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F039J7DUXKR-a9cfce5604",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": true,
+    "user": "U02USELSBRT",
+    "display_as_bot": false,
+    "ts": "1649076792.298329",
+    "thread_ts": "1649076792.298329",
+    "reply_count": 7,
+    "reply_users_count": 7,
+    "latest_reply": "1649312255.736719",
+    "reply_users": [
+      "U02U9C2UTRC",
+      "U02UM0SR45Q",
+      "U02USELSBRT",
+      "U02PDC4883V",
+      "U0318JZUESX",
+      "U030EJQ7NAV",
+      "U02PDC6B0HH"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "6199D361-D76F-46FF-934E-0FEC088122CD",
+    "type": "message",
+    "text": "Hey Parth and friends, for the past 3 years I was head of partnerships at <http://Pitchground.com|Pitchground.com> a leading ltd SaaS marketplace. It was my humble job to speak with SaaS founders across the globe and advise them on their growth journey while qualifying them to take live on our marketplace where they would be able to sell their lifetime deal codes. If any of you have any SaaS-related questions I'm happy to answer and help out. In case an AMA session is needed I'm happy to help out.",
+    "user": "U039FQ2SNNN",
+    "ts": "1648948248.945169",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U039FQ2SNNN",
+      "ts": "1648948287.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YbUQw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Parth and friends, for the past 3 years I was head of partnerships at "
+              },
+              {
+                "type": "link",
+                "url": "http://Pitchground.com",
+                "text": "Pitchground.com"
+              },
+              {
+                "type": "text",
+                "text": " a leading ltd SaaS marketplace. It was my humble job to speak with SaaS founders across the globe and advise them on their growth journey while qualifying them to take live on our marketplace where they would be able to sell their lifetime deal codes. If any of you have any SaaS-related questions I'm happy to answer and help out. In case an AMA session is needed I'm happy to help out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648948248.945169",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1648951353.155519",
+    "reply_users": [
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "672ff00c-4b67-4a50-92f9-aa46d1e566f6",
+    "type": "message",
+    "text": "When will we receive the recording of the session?",
+    "user": "U0395SBAAQZ",
+    "ts": "1648927278.562279",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x6EF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When will we receive the recording of the session?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648927278.562279",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649044647.032779",
+    "reply_users": [
+      "U02PDC4883V",
+      "U0395SBAAQZ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "61cdb6e9-d613-4413-80a6-92c53dfec5b4",
+    "type": "message",
+    "text": "*Questions for Paddy's Deep Dive today. Add in the thread if you have more. <!here>* \n\n*Question 1:* How have you seen the field marketing landscape evolve in the last 10 years?\n\n*Question 2:* How do you build an event plan and how do you scale it up?\nFor eg: How would you go about funding when your ARR is say $1million and how would you scale it up when it’s $10 million.\n\n*Question 3*: Is event strategy setting something that just a marketing team does or should it be done with sales?\n\n*Question 4:* What all major points should be kept in evaluating events?\n\n*Question 5:* What pointers should be kept in terms of budget?\n\n*Question 5b:* How can you set lead generation goals or how many meetings you  can fix for an event?\n\n*Question 6:* Host vs Present at Event mental model?\n\n*Question 7:* How to drive registrations?\n\n*Question 8:*  On booth engagement?\n\n*Question 9:* Virtual booth engagement?\n\n*Question 10:* How to measure impact of events both qualitatively and quantitatively?\n\n*Question 11:* On similar lines how to measure such an event qualitatively(read impact in branding etc) and not just caught in quantitative numbers?\n\n*Question 12:* How to gauge if you want to attend the event next year or not?\n\n*Misc Questions:*\n\n1. How to coordinate with sales and marketing team who resides in different time zones\n2. How are seeing events being utilised to drive 1-1 abm\n3. What to really focus on when there are multiple goals - getting registrations, attendance and post event conversion - demo booking or sign up. \n4. How to get more and more registrations for an event where the speaker isn't popular or has a good social following? How to ensure your topic is strong enough to get the audience.",
+    "user": "U02TTEFFU6B",
+    "ts": "1648881250.981609",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U02TTEFFU6B",
+      "ts": "1648881367.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JiX9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Questions for Paddy's Deep Dive today. Add in the thread if you have more. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 1: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "How have you seen the field marketing landscape evolve in the last 10 years?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 2: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "How do you build an event plan and how do you scale it up?\nFor eg: How would you go about funding when your ARR is say $1million and how would you scale it up when it’s $10 million.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 3",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": Is event strategy setting something that just a marketing team does or should it be done with sales?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 4:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " What all major points should be kept in evaluating events?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 5: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "What pointers should be kept in terms of budget?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 5b: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "How can you set lead generation goals or how many meetings you  can fix for an event?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 6:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Host vs Present at Event mental model?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 7:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " How to drive registrations?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 8: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " On booth engagement?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 9:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Virtual booth engagement?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 10: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "How to measure impact of events both qualitatively and quantitatively?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 11: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "On similar lines how to measure such an event qualitatively(read impact in branding etc) and not just caught in quantitative numbers?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Question 12: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "How to gauge if you want to attend the event next year or not?\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Misc Questions:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "How to coordinate with sales and marketing team who resides in different time zones"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "How are seeing events being utilised to drive 1-1 abm"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "What to really focus on when there are multiple goals - getting registrations, attendance and post event conversion - demo booking or sign up. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "How to get more and more registrations for an event where the speaker isn't popular or has a good social following? How to ensure your topic is strong enough to get the audience."
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648881250.981609",
+    "reply_count": 10,
+    "reply_users_count": 5,
+    "latest_reply": "1648932279.411439",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02TTEFFU6B",
+      "U02UZQJMP8R",
+      "U03070R3SQ7",
+      "U02V2SRR9J9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "dart",
+        "users": [
+          "U037UUE6TV3",
+          "U02UHTMEGR3",
+          "U02V75V0YBX",
+          "U031BVBGHCK",
+          "U03070R3SQ7"
+        ],
+        "count": 5
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V75V0YBX",
+          "U031BVBGHCK",
+          "U03070R3SQ7",
+          "U031S7RT8BX"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "<@U038XFCC598> my man :fire:",
+    "files": [
+      {
+        "id": "F0393JWV686",
+        "created": 1648635922,
+        "timestamp": 1648635922,
+        "name": "WhatsApp Image 2022-03-30 at 12.01.32 PM.jpeg",
+        "title": "WhatsApp Image 2022-03-30 at 12.01.32 PM.jpeg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02PDC6B0HH",
+        "editable": false,
+        "size": 67652,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F0393JWV686/whatsapp_image_2022-03-30_at_12.01.32_pm.jpeg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F0393JWV686/download/whatsapp_image_2022-03-30_at_12.01.32_pm.jpeg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F0393JWV686-27eb2fdcce/whatsapp_image_2022-03-30_at_12.01.32_pm_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F0393JWV686-27eb2fdcce/whatsapp_image_2022-03-30_at_12.01.32_pm_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F0393JWV686-27eb2fdcce/whatsapp_image_2022-03-30_at_12.01.32_pm_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F0393JWV686-27eb2fdcce/whatsapp_image_2022-03-30_at_12.01.32_pm_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F0393JWV686-27eb2fdcce/whatsapp_image_2022-03-30_at_12.01.32_pm_160.jpg",
+        "original_w": 600,
+        "original_h": 600,
+        "thumb_tiny": "AwAwADDOqRoXVdxTAHXmoxjIz071ZL22PuNn8f8AGqArVLaf8fUf1pwa2xyjZ+tQ5w+U4wcijdAbdY1x/wAfEn+8atG8n8vPlgf7WKpHk5PWohFrccncVQCwyQB70/Yuf9Yo/OhgI7hgCQFJA708yAnBlbH+7VXERbV2k7xkdvWn2yK8uGOBg0rsjkbpGOP9kVFj5jtyRTA0YZY1H3jg8c9Ko3AVZmCfd7UhlJUL0x3phOTk0kgFLEsWPJPJzSjGB0ptTWpiEuZQCMcZ6ZpvQCJsZ4pYyA3zYx71e3W3/TL8v/rUB7bPIi/L/wCtU83kOxVLR4PCn2H/AOqomKnoCD9aWXZ5reX9zPFNqkSf/9k=",
+        "permalink": "https://s11s.slack.com/files/U02PDC6B0HH/F0393JWV686/whatsapp_image_2022-03-30_at_12.01.32_pm.jpeg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F0393JWV686-4a5187fa9b",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02PDC6B0HH",
+    "display_as_bot": false,
+    "ts": "1648635956.882109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7GG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U038XFCC598"
+              },
+              {
+                "type": "text",
+                "text": " my man "
+              },
+              {
+                "type": "emoji",
+                "name": "fire"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "0bf9f45b-6cf3-4f22-ad9e-341e302d17a9",
+    "thread_ts": "1648635956.882109",
+    "reply_count": 18,
+    "reply_users_count": 8,
+    "latest_reply": "1648876488.388289",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U038XFCC598",
+      "U030D7DN2DD",
+      "U030FPEG8R4",
+      "U02PDC4883V",
+      "U0361UQSKGQ",
+      "U037VSS964S",
+      "U02VBNKU9T6"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "dvd",
+        "users": [
+          "U037UUE6TV3"
+        ],
+        "count": 1
+      },
+      {
+        "name": "heart",
+        "users": [
+          "U038XFCC598",
+          "U02USELSBRT",
+          "U02UJC6AT29"
+        ],
+        "count": 3
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U0318JZUESX"
+        ],
+        "count": 1
+      },
+      {
+        "name": "slightly_smiling_face",
+        "users": [
+          "U037VSS964S"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "Branding through thought leadership is one of the best ways. Not all the RSVP of the event is going to be your ICP. You need to concentrate on the 45-60% of your ICP. Find out a way to engage with them only. \n\n1. Through workshop. Run a workshop instead of panel discussion: drive your ICP to this workshop and get their database \n2. Board room meeting: Run a 10-12 member boardroom meeting with senior decision makers from the rsvp.. this helps in networking with them and increasing the chances of pitching your product post and pre show\nApart from this see a way to secure 1-1 meeting package as a part of your deliverable",
+    "user": "U038XFCC598",
+    "ts": "1648602502.500809",
+    "thread_ts": "1647969484.375129",
+    "root": {
+      "client_msg_id": "a041c979-0ddf-47ad-907c-b100100d71aa",
+      "type": "message",
+      "text": "Have you really seen ROI of attending/displaying at events in the seed stage? If yes, how?\n\nIf no, then when to start?",
+      "user": "U02TTEFFU6B",
+      "ts": "1647969484.375129",
+      "team": "T02PFK13YLC",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WVQ/7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Have you really seen ROI of attending/displaying at events in the seed stage? If yes, how?\n\nIf no, then when to start?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1647969484.375129",
+      "reply_count": 15,
+      "reply_users_count": 11,
+      "latest_reply": "1648602502.500809",
+      "reply_users": [
+        "U02USELSBRT",
+        "U02ULN6EFNV",
+        "U02VA7QD8UB",
+        "U02U6FZRHRV",
+        "U037X3LJ8D8",
+        "U031KD0PNTX",
+        "U0309B5AYTB",
+        "U02VBNKU9T6",
+        "U02TTEFFU6B",
+        "U02U9C39MAA",
+        "U038XFCC598"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EqIV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Branding through thought leadership is one of the best ways. Not all the RSVP of the event is going to be your ICP. You need to concentrate on the 45-60% of your ICP. Find out a way to engage with them only. \n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Through workshop. Run a workshop instead of panel discussion: drive your ICP to this workshop and get their database "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Board room meeting: Run a 10-12 member boardroom meeting with senior decision makers from the rsvp.. this helps in networking with them and increasing the chances of pitching your product post and pre show"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nApart from this see a way to secure 1-1 meeting package as a part of your deliverable"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "cb9c9142-37d7-4654-b0be-ed8b3be33b01",
+    "reactions": [
+      {
+        "name": "clap::skin-tone-2",
+        "users": [
+          "U0306HUGT6C"
+        ],
+        "count": 1
+      },
+      {
+        "name": "clap",
+        "users": [
+          "U0380S2BZ9A"
+        ],
+        "count": 1
+      },
+      {
+        "name": "clap::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

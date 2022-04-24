@@ -1,0 +1,1906 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783023.012109",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "9950cffa-e1b5-42c1-acd9-307cdcb17df5",
+    "type": "message",
+    "text": "Any great examples of a good product launch blog that you love marketers?",
+    "user": "U030C8N99TN",
+    "ts": "1650703906.437139",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b5jD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any great examples of a good product launch blog that you love marketers?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650703906.437139",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1650715852.552839",
+    "reply_users": [
+      "U031QKGPNRK",
+      "U030C8N99TN"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0516f2d5-71a9-4b2c-9446-a2f57371a5d7",
+    "type": "message",
+    "text": "Hey friends,\n\nHas anyone used any content writing test available online to recruit content writers for the organisation?\n\nAny suggestions.",
+    "user": "U033RUXVCAY",
+    "ts": "1650694617.327039",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ymz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey friends,\n\nHas anyone used any content writing test available online to recruit content writers for the organisation?\n\nAny suggestions."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8b7fb7d1-d034-4ee9-8511-da257e7f71d1",
+    "type": "message",
+    "text": "Hey Friends, Need your help. Do you have a content segmentation grid or a framework, which can help me to understand what type of content is best suited for different stages of the sales cycle ( combined with buying process/persona)? I know there is no one size fits all theory for this. But maybe I can find a pattern from the information shared by you. Thanks:blush:",
+    "user": "U02UU8Q5F9R",
+    "ts": "1650612152.801739",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ddOkE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Friends, Need your help. Do you have a content segmentation grid or a framework, which can help me to understand what type of content is best suited for different stages of the sales cycle ( combined with buying process/persona)? I know there is no one size fits all theory for this. But maybe I can find a pattern from the information shared by you. Thanks"
+              },
+              {
+                "type": "emoji",
+                "name": "blush"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650612152.801739",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650631618.715139",
+    "reply_users": [
+      "U02UJ3N39PF"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "37b7af73-1fed-4c31-bf06-4d9a935dfbe2",
+    "type": "message",
+    "text": "Any recommendations for posting on social media and replying to mentions? We are currently using zoho social but unsatisfied because of (1) limitations on types of posts we can make (2) tagging other folks is extremely hard (most times we don't find users even if we have their exact handles).",
+    "user": "U03AG3YBVDM",
+    "ts": "1650611500.673319",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bq3S/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any recommendations for posting on social media and replying to mentions? We are currently using zoho social but unsatisfied because of (1) limitations on types of posts we can make (2) tagging other folks is extremely hard (most times we don't find users even if we have their exact handles)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650611500.673319",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650627188.387179",
+    "reply_users": [
+      "U02VA7QD8UB",
+      "U038T9FVDC5"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "b1993913-2634-4316-aea8-95c3e301819c",
+    "type": "message",
+    "text": "Any reviews of <http://Peppercontent.io|Peppercontent.io>?",
+    "user": "U03BZJ0KK1R",
+    "ts": "1650607574.875169",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bbW7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any reviews of "
+              },
+              {
+                "type": "link",
+                "url": "http://Peppercontent.io",
+                "text": "Peppercontent.io"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650607574.875169",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650607627.741509",
+    "reply_users": [
+      "U039FQ2SNNN"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "71f470ff-1e97-4adc-a4d9-ae83a07fb790",
+    "type": "message",
+    "text": "Any freelance content writers reference? I am looking for some one to help me at <http://Dyte.io|Dyte.io>",
+    "user": "U02VBQCQ7EG",
+    "ts": "1650607146.944009",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U02VBQCQ7EG",
+      "ts": "1650607157.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9X6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any freelance content writers reference? I am looking for some one to help me at "
+              },
+              {
+                "type": "link",
+                "url": "http://Dyte.io",
+                "text": "Dyte.io"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650607146.944009",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1650619041.000689",
+    "reply_users": [
+      "U031AUATXA4",
+      "U02VBQCQ7EG"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "c2a79336-2968-4abe-8c14-51c82cbfa953",
+    "type": "message",
+    "text": "Any recommendations on \"Pricing Page\",  examples of SaaS pricing pages which work well, how do you measure good Pricing page etc.",
+    "user": "U03158A1WPK",
+    "ts": "1650600586.771889",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kdDP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any recommendations on \"Pricing Page\",  examples of SaaS pricing pages which work well, how do you measure good Pricing page etc."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650600586.771889",
+    "reply_count": 8,
+    "reply_users_count": 3,
+    "latest_reply": "1650635876.817939",
+    "reply_users": [
+      "U02UGB8DERY",
+      "U03158A1WPK",
+      "U039HH3LP43"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "66fc19a6-c366-4a8c-a97e-74942b27422e",
+    "type": "message",
+    "text": "Not sure if this has already been asked, but what is the career path of a content marketer in SaaS? Is it worth picking this as a niche and scaling up to like director levels or should one take a more generalist approach in SaaS marketing?",
+    "user": "U030XB8C43Y",
+    "ts": "1650599664.617489",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qUt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not sure if this has already been asked, but what is the career path of a content marketer in SaaS? Is it worth picking this as a niche and scaling up to like director levels or should one take a more generalist approach in SaaS marketing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650599664.617489",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1650619628.742249",
+    "reply_users": [
+      "U039FQ2SNNN",
+      "U03A2UNJJDD",
+      "U03158A1WPK",
+      "U033ASE526S"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "dd91e287-c300-4a62-a96a-9265639c5e8d",
+    "type": "message",
+    "text": "For someone who wants to revise few things\n\n<https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&amp;utm_medium=email&amp;utm_source=eloqua&amp;utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics|https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_V[…]m_campaign=DailyAlert_VIP_42122_ContentMarketingBasics>\n\nA good read :slightly_smiling_face:",
+    "user": "U033RUXVCAY",
+    "ts": "1650561700.497509",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&utm_medium=email&utm_source=eloqua&utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+        "image_url": "https://contentmarketinginstitute.com/wp-content/uploads/2022/04/content-marketing-basics-jumpstart-content-practice.png",
+        "image_width": 454,
+        "image_height": 250,
+        "image_bytes": 61272,
+        "service_icon": "https://contentmarketinginstitute.com/wp-content/themes/cmi/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&amp;utm_medium=email&amp;utm_source=eloqua&amp;utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+        "fallback": "Content Marketing Institute: Content Marketing Basics: A Get-Started Guide",
+        "text": "Learn or revisit content marketing fundamentals with this guide to the best resources on the core elements of a successful practice – Content Marketing Institute",
+        "title": "Content Marketing Basics: A Get-Started Guide",
+        "title_link": "https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&utm_medium=email&utm_source=eloqua&utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+        "service_name": "Content Marketing Institute"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BEG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For someone who wants to revise few things\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_VIP_42122_ContentMarketingBasics&utm_medium=email&utm_source=eloqua&utm_campaign=DailyAlert_VIP_42122_ContentMarketingBasics",
+                "text": "https://contentmarketinginstitute.com/articles/content-marketing-basics?_mc=em_DailyAlert_V[…]m_campaign=DailyAlert_VIP_42122_ContentMarketingBasics"
+              },
+              {
+                "type": "text",
+                "text": "\n\nA good read "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F03CDNR1Y2X",
+        "created": 1650553186,
+        "timestamp": 1650553186,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02USELSBRT",
+        "editable": false,
+        "size": 815097,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03CDNR1Y2X/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03CDNR1Y2X/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_360.png",
+        "thumb_360_w": 351,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_480.png",
+        "thumb_480_w": 468,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_720.png",
+        "thumb_720_w": 702,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 821,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_960.png",
+        "thumb_960_w": 936,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CDNR1Y2X-b34a7cb301/image_1024.png",
+        "thumb_1024_w": 998,
+        "thumb_1024_h": 1024,
+        "original_w": 1008,
+        "original_h": 1034,
+        "thumb_tiny": "AwAwAC6ioJ6An6U8oynBHOM1bs9uwcAf1p9xAzsHVgMLjBFNVNbCcNLlEA56U2NGdgqjJPSnbicCkRivIOCCMVpJkpC7SCQQcjg0bT6GnSSlyHwAWGTgUwsSeaad0JqzFhn8vg9Ksidp/wB3GeSOpqntHr+lKF54bH4VlyX1L5ug54nicBxjPQ+tMB4xT2cuQXcsQMc0iKAwJPAOelU02hJ2YjH5UHfFJmpJX86TccD6CmbR6/pTSdgb1JIuYpPXimhskAAdaIyBDJk4PGPemLncKdybEwgYLnrimbiaYXdhgsSKB1qY36lO3QVQD/EB9aU4HQ5pmDSkEdapMVj/2Q==",
+        "permalink": "https://s11s.slack.com/files/U02USELSBRT/F03CDNR1Y2X/image.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03CDNR1Y2X-0f8bb6ddc8",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02USELSBRT",
+    "display_as_bot": false,
+    "ts": "1650553195.038989",
+    "client_msg_id": "1168d221-bf24-4e7f-870d-c354897847b2",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U030SHA1S2W",
+          "U039VSWJ85V"
+        ],
+        "count": 2
+      },
+      {
+        "name": "heart",
+        "users": [
+          "U0325QQQALR",
+          "U033QDFML74",
+          "U039MLMNSQH",
+          "U0380S2BZ9A"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "38ddf3a8-eb53-492d-b61d-fe20cc4ef25b",
+    "type": "message",
+    "text": "Folks, I have a question. Do you think there's any merit in exploring quora as a content channel when my audience is primarily based out of US / Europe?",
+    "user": "U030N8RHURZ",
+    "ts": "1650542308.447089",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ga4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks, I have a question. Do you think there's any merit in exploring quora as a content channel when my audience is primarily based out of US / Europe?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650542308.447089",
+    "reply_count": 17,
+    "reply_users_count": 7,
+    "latest_reply": "1650620889.759989",
+    "reply_users": [
+      "U039FQ2SNNN",
+      "U030N8RHURZ",
+      "U02USELSBRT",
+      "U031KD0PNTX",
+      "U03C4NNJWGK",
+      "U02ULN6EFNV",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "6BBC55CC-B867-4A35-A1D9-DB494276C1C3",
+    "type": "message",
+    "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!",
+    "user": "U03CDCJ6W12",
+    "ts": "1650517666.092759",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eBt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650517666.092759",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650518641.832039",
+    "reply_users": [
+      "U02U6FZRHRV",
+      "U03CDCJ6W12",
+      "U039FQ2SNNN"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U030SDYNX7V",
+          "U03B77PCDNY",
+          "U039FQ2SNNN",
+          "U02USELSBRT"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "60bc733a-5c6b-4919-a8d0-73d5c71321fc",
+    "type": "message",
+    "text": "Should content writers own distribution or should content distribution be owned by an independent person?",
+    "user": "U02UUCE1ASD",
+    "ts": "1650444831.369729",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ILAXv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Should content writers own distribution or should content distribution be owned by an independent person?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650444831.369729",
+    "reply_count": 12,
+    "reply_users_count": 11,
+    "latest_reply": "1650479515.264549",
+    "reply_users": [
+      "U03A5S0KQMA",
+      "U033RUXVCAY",
+      "U02USELSBRT",
+      "U02UUCE1ASD",
+      "U02U94HSBV4",
+      "U02V9MF7V19",
+      "U030KV8R8RL",
+      "U02VA7QD8UB",
+      "U032MN1BESJ",
+      "U032RT8V2M8",
+      "U030E27CBB3"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "7f62ab2b-9a83-47a1-a3c6-2f619ba38ac3",
+    "type": "message",
+    "text": "I wanted to find out something. If you are running a content marketing agency or a content marketing team at an organization where you have to deal with multiple clients or multiple writers or both, how do you manage it? I mean keeping the track of assignments, deadlines, word count, invoices &amp; payouts, reworks, etc. Generally, I have seen people using Excel or Google Sheets and Notion.\n\nDoes anyone do it differently here?",
+    "user": "U039X1ZS1QA",
+    "ts": "1650423179.039629",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uce",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wanted to find out something. If you are running a content marketing agency or a content marketing team at an organization where you have to deal with multiple clients or multiple writers or both, how do you manage it? I mean keeping the track of assignments, deadlines, word count, invoices & payouts, reworks, etc. Generally, I have seen people using Excel or Google Sheets and Notion.\n\nDoes anyone do it differently here?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650423179.039629",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1650474408.443809",
+    "reply_users": [
+      "U03B77PCDNY",
+      "U0318JZUESX",
+      "U033RUXVCAY",
+      "U03BZJ0KK1R",
+      "U030E27CBB3"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "057b01e9-4c63-4ea6-9fa7-4455d3c89f52",
+    "type": "message",
+    "text": "Some great examples of Ungated Interactive/different ways of presenting an e-book\n\n<https://hypercontext.com/state-of-one-on-ones-report>\n\n\n<https://nurturenow.pathfactory.com/website-of-the-future/part-1?utm_source=slack&amp;utm_medium=social-organic&amp;utm_campaign=wotf-ebook&amp;utm_content=wotf-ebook|https://nurturenow.pathfactory.com/website-of-the-future/part-1?utm_source=slack&amp;utm_mediu[…]-organic&amp;utm_campaign=wotf-ebook&amp;utm_content=wotf-ebook>\n\n\nWhat are some similar examples of interactive or different types of content examples you have come across?",
+    "user": "U02UGB8DERY",
+    "ts": "1650416314.332319",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dosvr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some great examples of Ungated Interactive/different ways of presenting an e-book\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://hypercontext.com/state-of-one-on-ones-report"
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://nurturenow.pathfactory.com/website-of-the-future/part-1?utm_source=slack&utm_medium=social-organic&utm_campaign=wotf-ebook&utm_content=wotf-ebook",
+                "text": "https://nurturenow.pathfactory.com/website-of-the-future/part-1?utm_source=slack&utm_mediu[…]-organic&utm_campaign=wotf-ebook&utm_content=wotf-ebook"
+              },
+              {
+                "type": "text",
+                "text": "\n\n\nWhat are some similar examples of interactive or different types of content examples you have come across?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650416314.332319",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650476857.036039",
+    "reply_users": [
+      "U02V5Q7DUPJ",
+      "U02UGB8DERY",
+      "U030E27CBB3",
+      "U03237TNYS3"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02V5Q6P716",
+          "U03237TNYS3"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "E789451A-88CB-437A-9E1A-74FD7736E320",
+    "type": "message",
+    "text": "Need suggestion 🥹\n\nI have been using Hubspot from 2 years. At my new company they are using WebFlow extensively for the website.\n\nPublishing blogs, adding meta descriptions, changing font size of meta tags is super hard, will it be okay if just for blog I move towards Hubspot and keep the landing pages on webflow?\n\nOr will it create some issue?",
+    "user": "U02V991KYHZ",
+    "ts": "1650304949.688679",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2nIM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Need suggestion 🥹\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "I have been using Hubspot from 2 years. At my new company they are using WebFlow extensively for the website.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Publishing blogs, adding meta descriptions, changing font size of meta tags is super hard, will it be okay if just for blog I move towards Hubspot and keep the landing pages on webflow?\n"
+              },
+              {
+                "type": "text",
+                "text": "\nOr will it create some issue?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650304949.688679",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650348312.534519",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02VBNKU9T6",
+      "U0363DZU3QF"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F03CKS9QFRN",
+        "created": 1650298752,
+        "timestamp": 1650298752,
+        "name": "Screenshot 2022-04-18 at 9.48.51 PM.png",
+        "title": "Screenshot 2022-04-18 at 9.48.51 PM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U033RUXVCAY",
+        "editable": false,
+        "size": 171204,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03CKS9QFRN/screenshot_2022-04-18_at_9.48.51_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03CKS9QFRN/download/screenshot_2022-04-18_at_9.48.51_pm.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 294,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 393,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 589,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 654,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 785,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CKS9QFRN-11d27d371a/screenshot_2022-04-18_at_9.48.51_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 837,
+        "original_w": 1076,
+        "original_h": 880,
+        "thumb_tiny": "AwAnADC0FlFwxL/Jzgbv6VMrY6sPzoJOaTc3+RTbuA/cvqKWmBiOvNODcdD+VIBaKTcPf8qWgCNvvUlK3Wk/OgA4qRRxwc1H+dPUe360AOooooAYwOelN2n0qQ9aKAGhT7fiKeAB0AoooAKKKKAP/9k=",
+        "permalink": "https://s11s.slack.com/files/U033RUXVCAY/F03CKS9QFRN/screenshot_2022-04-18_at_9.48.51_pm.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03CKS9QFRN-7f1a91cfc1",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U033RUXVCAY",
+    "display_as_bot": false,
+    "ts": "1650298755.938809",
+    "client_msg_id": "1f72ed37-3765-482c-bcee-8b568c67be41",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U02VAPDACUQ",
+          "U03237TNYS3",
+          "U03AG8MUECT"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c9620128-1e1c-4da9-b702-b562a8375710",
+    "type": "message",
+    "text": "Bye bye T-shaped I-shaped marketing is the new kid on the block:\n\n<https://twitter.com/TheCoolestCool/status/1514408010256470022?s=20&amp;t=tfIwOQO1qWGZSfoM9GN1zA>",
+    "user": "U039FQ2SNNN",
+    "ts": "1649999570.580139",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GUxu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Bye bye T-shaped I-shaped marketing is the new kid on the block:\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/TheCoolestCool/status/1514408010256470022?s=20&t=tfIwOQO1qWGZSfoM9GN1zA"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649999570.580139",
+    "reply_count": 8,
+    "reply_users_count": 5,
+    "latest_reply": "1650043862.626669",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02USELSBRT",
+      "U02UY3EPQDA",
+      "U03B77PCDNY",
+      "U031KD0PNTX"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "D4BB2475-1233-4174-A26E-659B5C726FB8",
+    "type": "message",
+    "text": "Hey everyone - Any recommendations for a good podcast editor. Audio only for the moment. Thanks a ton! ",
+    "user": "U035NH9AL6N",
+    "ts": "1649858783.517149",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AqX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone - Any recommendations for a good podcast editor. Audio only for the moment. Thanks a ton! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649858783.517149",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650308766.204639",
+    "reply_users": [
+      "U030KV8R8RL",
+      "U035NH9AL6N",
+      "U031QKGPNRK",
+      "U030N8RHURZ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "d254e0c3-7398-40a7-aa01-c6748adabea9",
+    "type": "message",
+    "text": "Hey everyone. Any senior content lead here Willing to spend a few minutes to chat with me? I'm Ajay and I'm the First content marketer here at  Spendflo. Looking for guidance on how to come up with long term content strategy.",
+    "user": "U033R6MA1DY",
+    "ts": "1649856073.885179",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+=r3L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone. Any senior content lead here Willing to spend a few minutes to chat with me? I'm Ajay and I'm the First content marketer here at  Spendflo. Looking for guidance on how to come up with long term content strategy."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "265c2b84-893b-42de-83d6-9fb4ec69da4c",
+    "type": "message",
+    "text": "Hey folks,\n\nWe are planning to setup resource page ( which includes whitepaper, reports, case study, ebooks, guides ), can someone please share good design inspirations :pray:\n\nThanks in advance",
+    "user": "U0363DZU3QF",
+    "ts": "1649833212.179489",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U0363DZU3QF",
+      "ts": "1649833351.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PJOv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks,\n\nWe are planning to setup resource page ( which includes whitepaper, reports, case study, ebooks, guides ), can someone please share good design inspirations "
+              },
+              {
+                "type": "emoji",
+                "name": "pray"
+              },
+              {
+                "type": "text",
+                "text": "\n\nThanks in advance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649833212.179489",
+    "reply_count": 7,
+    "reply_users_count": 5,
+    "latest_reply": "1650526248.280519",
+    "reply_users": [
+      "U0326BKDQP8",
+      "U0363DZU3QF",
+      "U030KV8R8RL",
+      "U02USELSBRT",
+      "U030XB8C43Y"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "ecc28b83-2fce-4b41-a6e4-240cde8cc33c",
+    "type": "message",
+    "text": "Has anybody used Hubspot for hosting blogs/landing pages? How was your experience?",
+    "user": "U033KD7GMDJ",
+    "ts": "1649745157.762339",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nYC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anybody used Hubspot for hosting blogs/landing pages? How was your experience?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649745157.762339",
+    "reply_count": 7,
+    "reply_users_count": 7,
+    "latest_reply": "1649918980.567279",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U035UMWEXJM",
+      "U031QKGPNRK",
+      "U030KV8R8RL",
+      "U0326BKDQP8",
+      "U0389EB28UR",
+      "U033KD7GMDJ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2BF9AA0E-9005-4573-9C54-236C0471F4B2",
+    "type": "message",
+    "text": "Has anybody here used Publuu to host flipbooks? Trying it (chose it over Issuu mainly coz it also works in China) but wondering if there are better options I should be assessing? ",
+    "user": "U0361UQSKGQ",
+    "ts": "1649732772.358319",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7LuD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anybody here used Publuu to host flipbooks? Trying it (chose it over Issuu mainly coz it also works in China) but wondering if there are better options I should be assessing? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U02V7TLU5HT",
+          "U030KV8R8RL",
+          "U0306AT9H0D"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "226ba467-fc98-42cd-a6cc-782e783c300e",
+    "type": "message",
+    "text": "Yea, they have been doing it for a couple of months now. Annoying because i used their platform and the experience was so poor.",
+    "user": "U038L2K4R08",
+    "ts": "1649664513.417619",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QNFZs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea, they have been doing it for a couple of months now. Annoying because i used their platform and the experience was so poor."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649664513.417619",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649664788.825759",
+    "reply_users": [
+      "U02V9QUDK1Q"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "b9cff92e-f5d0-46e0-bea3-005e6a00a2ee",
+    "type": "message",
+    "text": "Every second post on Linkedin today is for Hireact (at least for me). Are you guys seeing this too?\n\nIs this the beginning of Linkedin Influencer Marketing?",
+    "user": "U033RUXVCAY",
+    "ts": "1649664466.407559",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U033RUXVCAY",
+      "ts": "1649664662.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YLWM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Every second post on Linkedin today is for Hireact (at least for me). Are you guys seeing this too?\n\nIs this the beginning of Linkedin Influencer Marketing?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6a9e02ad-1657-48bc-8478-0f3c07cdd7b1",
+    "type": "message",
+    "text": "Does anyone here feel that CMS Asia is a leading authority for Content Marketing?\nTo become a nominee you need to pay first. How is that authentic?\nAny winners in the group who've benefited from it?",
+    "user": "U030KV8R8RL",
+    "ts": "1649653079.170199",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U030KV8R8RL",
+      "ts": "1649653248.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hd/Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone here feel that CMS Asia is a leading authority for Content Marketing?\nTo become a nominee you need to pay first. How is that authentic?\nAny winners in the group who've benefited from it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649653079.170199",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649769116.971589",
+    "reply_users": [
+      "U03AF2HBZPX",
+      "U03AQFPP9BL",
+      "U0389EB28UR",
+      "U030E27CBB3",
+      "U030KV8R8RL"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "579CF5D5-BD17-42E4-A5A7-A9505483A9DB",
+    "type": "message",
+    "text": "Since i saw so much love (pun intended) for pepper content in some conversation here, thought you all will be the best folks to ask.\n\nKnow any company for content creation (website, social media &amp; the likes) for a B2B manufacturing company in food ingredients space (Symega)? Could use some referrals :pray:",
+    "user": "U03AJ8BHKNC",
+    "ts": "1649438212.030259",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Szjus",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Since i saw so much love (pun intended) for pepper content in some conversation here, thought you all will be the best folks to ask.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Know any company for content creation (website, social media & the likes) for a B2B manufacturing company in food ingredients space (Symega)? Could use some referrals "
+              },
+              {
+                "type": "emoji",
+                "name": "pray"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649438212.030259",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649681292.280939",
+    "reply_users": [
+      "U03560PQ082",
+      "U03AJ8BHKNC",
+      "U030KV8R8RL",
+      "U0363DZU3QF",
+      "U0389EB28UR"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "6DED23E8-4249-438C-9904-B2876DC8D60D",
+    "type": "message",
+    "text": "I'm getting started with B2B writing and would love some input. I have been writing B2B content for an agency for the last few months, but would love a second set of eyes on my work. This is the doc: <https://docs.google.com/document/d/10WZIMQQmPGO0fTEMiO80x2y7PUoXu_rr2nZBNJkoaqk/edit?usp=sharing|https://docs.google.com/document/d/10WZIMQQmPGO0fTEMiO80x2y7PUoXu_rr2nZBNJkoaqk/edit?usp=sharing>.",
+    "user": "U02V5P97CUD",
+    "ts": "1649310776.873549",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jPlib",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm getting started with B2B writing and would love some input. I have been writing B2B content for an agency for the last few months, but would love a second set of eyes on my work. This is the doc: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/10WZIMQQmPGO0fTEMiO80x2y7PUoXu_rr2nZBNJkoaqk/edit?usp=sharing",
+                "text": "https://docs.google.com/document/d/10WZIMQQmPGO0fTEMiO80x2y7PUoXu_rr2nZBNJkoaqk/edit?usp=sharing"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5d39f3e8-b8b2-4507-9378-a114d405e88c",
+    "type": "message",
+    "text": "Hello All, are there good content playbooks and strategies on how to start content on day 1 (ex. Through customer journey mapping, keyword research, console query mapping, competition research,etc) to distribution and scaling. I see many cos have targets of 1 pillar content every month. Any resources/approach available\nto create a slate with an objective to increase reach, strengthen seo, engagement and inbound.",
+    "user": "U02V979LY03",
+    "ts": "1649305807.116099",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DGU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello All, are there good content playbooks and strategies on how to start content on day 1 (ex. Through customer journey mapping, keyword research, console query mapping, competition research,etc) to distribution and scaling. I see many cos have targets of 1 pillar content every month. Any resources/approach available\nto create a slate with an objective to increase reach, strengthen seo, engagement and inbound."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649305807.116099",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649394680.010439",
+    "reply_users": [
+      "U03AG8MUECT"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "CE7E190A-5A96-4A09-BADD-5F2EDC35B7B9",
+    "type": "message",
+    "text": "Folks,\nHave anyone used <http://copy.ai|copy.ai> before?\nWhat’s your take on first draft AI tools for scaling blog posts?",
+    "user": "U039H3ZSRD3",
+    "ts": "1649300074.262319",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AC/rC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks,\nHave anyone used copy.ai before?\nWhat’s your take on first draft AI tools for scaling blog posts?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649300074.262319",
+    "reply_count": 10,
+    "reply_users_count": 10,
+    "latest_reply": "1649732300.302879",
+    "reply_users": [
+      "U02V5Q7DUPJ",
+      "U03560PQ082",
+      "U02URS98P9B",
+      "U02VC7G2RHS",
+      "U038WP8PLUA",
+      "U0304R87GGK",
+      "U02UP9VG1HS",
+      "U03AQFPP9BL",
+      "U0306P63UMD",
+      "U030E27CBB3"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "004B10E5-9A5C-460F-9093-5B2C6376BB87",
+    "type": "message",
+    "text": "Is this the right place for some writing feedback?",
+    "user": "U02V5P97CUD",
+    "ts": "1649245113.615089",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hjycE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is this the right place for some writing feedback?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649245113.615089",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649310763.588899",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02V5P97CUD"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02PDC4883V"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b4e41008-75bb-4e87-bee7-955f49ee2d9a",
+    "type": "message",
+    "text": "folks, any suggestions on wordpress themes for a SaaS blog? not looking for anything fancy, clean design and seo best practices.",
+    "user": "U030N8RHURZ",
+    "ts": "1649229711.118869",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P=N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "folks, any suggestions on wordpress themes for a SaaS blog? not looking for anything fancy, clean design and seo best practices."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649229711.118869",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649230068.526119",
+    "reply_users": [
+      "U02USELSBRT",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "f59310e0-6e5f-407a-8b23-94d16fa93927",
+    "type": "message",
+    "text": "Folks how do you guys use infographics? What are the distribution channels?",
+    "user": "U039TLN017T",
+    "ts": "1649223878.140659",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z4wt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks how do you guys use infographics? What are the distribution channels?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649223878.140659",
+    "reply_count": 7,
+    "reply_users_count": 6,
+    "latest_reply": "1649597052.431099",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02PDC6B0HH",
+      "U033RUXVCAY",
+      "U0320BWGR41",
+      "U039TLN017T",
+      "U030PQRLHEH"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "463921c7-14ab-4003-9721-f0be0db2f370",
+    "type": "message",
+    "text": "Hey Folks!\nI am looking for inspiration on showcasing case studies and customer success stories.\nWhat are some of the best instances that you have come across?\nDo share. TIA!",
+    "user": "U0304R87GGK",
+    "ts": "1649167651.292989",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/XMH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Folks!\nI am looking for inspiration on showcasing case studies and customer success stories.\nWhat are some of the best instances that you have come across?\nDo share. TIA!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649167651.292989",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649306383.170249",
+    "reply_users": [
+      "U039HVCS1LL",
+      "U0304R87GGK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "60A084A4-10A9-4501-8544-CE7518ECB39D",
+    "type": "message",
+    "text": "Hey! We are looking at Wordpress themes for our blog. Our top considerations are Astra and Divi. \nAnyone who can share their experience of working with any of these, any downsides of either of them, any experiences I can draw on when selecting/implementing a wp theme!? ",
+    "user": "U038X1FRDNE",
+    "ts": "1649166322.125989",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OdrS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey! We are looking at Wordpress themes for our blog. Our top considerations are Astra and Divi. \nAnyone who can share their experience of working with any of these, any downsides of either of them, any experiences I can draw on when selecting/implementing a wp theme!? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649166322.125989",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1649732382.795209",
+    "reply_users": [
+      "U03560PQ082",
+      "U0304R87GGK",
+      "U030E27CBB3"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "c96e622b-d52e-4396-852f-e1449dedbf4b",
+    "type": "message",
+    "text": "Hey guys! Could you share any B2B videos you've liked? Content/Product/Feature anything would be fine. Looking for references.",
+    "user": "U02VA7PNZ5Y",
+    "ts": "1649155352.172389",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H5INC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! Could you share any B2B videos you've liked? Content/Product/Feature anything would be fine. Looking for references."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649155352.172389",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1649172629.584979",
+    "reply_users": [
+      "U03560PQ082",
+      "U032MN1BESJ",
+      "U037X3LJ8D8",
+      "U02VA7PNZ5Y"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "B69E8051-4675-4EC8-B9DF-12A6F9EBF16E",
+    "type": "message",
+    "text": "Folks, how has your experience with Pepper content been? For me, it's not been very good. Two assignments, and so much back and forth. Writers not sticking to the brief, very fluffy and overall drab. Just wanted to check if it's just me, or if anyone has had similar mis-experiences. ",
+    "user": "U02VBNKU9T6",
+    "ts": "1649146472.890289",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DbC=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks, how has your experience with Pepper content been? For me, it's not been very good. Two assignments, and so much back and forth. Writers not sticking to the brief, very fluffy and overall drab. Just wanted to check if it's just me, or if anyone has had similar mis-experiences. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649146472.890289",
+    "reply_count": 22,
+    "reply_users_count": 10,
+    "latest_reply": "1649580411.367679",
+    "reply_users": [
+      "U031AUATXA4",
+      "U02USELSBRT",
+      "U02VBNKU9T6",
+      "U030KV8R8RL",
+      "U031QKGPNRK",
+      "U033RUXVCAY",
+      "U0304R87GGK",
+      "U039HVCS1LL",
+      "U02U94HSBV4",
+      "U030PQRLHEH"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "f5b3cae5-ab69-4914-ad66-65b1222353b0",
+    "type": "message",
+    "text": "Hi everyone! What is the best platform for recording virtual video interviews between two people (other than Zoom)? Need something that can help record high quality audio and video, and can later be downloaded, edited, stitched together with music, and published on social media platforms.",
+    "user": "U0307CZ6CRF",
+    "ts": "1649132446.996899",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rWD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone! What is the best platform for recording virtual video interviews between two people (other than Zoom)? Need something that can help record high quality audio and video, and can later be downloaded, edited, stitched together with music, and published on social media platforms."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649132446.996899",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649137064.416409",
+    "reply_users": [
+      "U02V9QUDK1Q",
+      "U02V92UN0Q2"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "be866f8d-3f47-43f8-8ba2-014d71314cd4",
+    "type": "message",
+    "text": "Canva Q:\nI feel like a total dumbass but I cannot figure out how to add an image from a Canva folder to a design.\nWhen i organized my uploaded images into folders, they vanished from the uploads view and went into the folders (which I can see in each folder).\nBut now that i want to use some of these images for a design, I don't know how to get it out of the folder into a design.\nWhat am I missing?",
+    "user": "U032MN1BESJ",
+    "ts": "1649099271.582579",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "51809",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Canva Q:\nI feel like a total dumbass but I cannot figure out how to add an image from a Canva folder to a design.\nWhen i organized my uploaded images into folders, they vanished from the uploads view and went into the folders (which I can see in each folder).\nBut now that i want to use some of these images for a design, I don't know how to get it out of the folder into a design.\nWhat am I missing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649099271.582579",
+    "reply_count": 5,
+    "reply_users_count": 2,
+    "latest_reply": "1649329282.512199",
+    "reply_users": [
+      "U031QKGPNRK",
+      "U032MN1BESJ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0a214ff8-0638-4e16-bef8-d47218938f4a",
+    "type": "message",
+    "text": "What's the best interactive content you have seen on the internet?",
+    "user": "U02PDC4883V",
+    "ts": "1649078665.814129",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kyG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What's the best interactive content you have seen on the internet?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649078665.814129",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649136781.893319",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U032MN1BESJ",
+      "U02U94HSBV4"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "57816589-e960-4250-90cf-697fb639c970",
+    "type": "message",
+    "text": "Hello everyone! I am glad to join this wonderful community. I'm Dishant, co-founder of Prodraft which is purely a content writing agency. You can find more about it at <http://prodraft.in|prodraft.in>. Looking forward to gaining &amp; share knowledge.",
+    "user": "U039X1ZS1QA",
+    "ts": "1649053701.577309",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OIO6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone! I am glad to join this wonderful community. I'm Dishant, co-founder of Prodraft which is purely a content writing agency. You can find more about it at "
+              },
+              {
+                "type": "link",
+                "url": "http://prodraft.in",
+                "text": "prodraft.in"
+              },
+              {
+                "type": "text",
+                "text": ". Looking forward to gaining & share knowledge."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U033RUXVCAY",
+          "U039L895FA4",
+          "U038PKL6VQE",
+          "U039XDTLM4H",
+          "U02UMB0T7BM",
+          "U039FQ2SNNN",
+          "U02UHQYEF70",
+          "U03014JNGMQ"
+        ],
+        "count": 8
+      },
+      {
+        "name": "wave::skin-tone-4",
+        "users": [
+          "U0362R42317",
+          "U02VDMMC2Q5"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7a4293ad-820e-410f-ba23-2c466b07c0c5",
+    "type": "message",
+    "text": "Hey everyone! I am looking for a content marketing freelancer with experience in SaaS writing for our product, <https://www.utilize.app|Utilize>. I would appreciate any leads about the same.",
+    "user": "U037JS29QDV",
+    "ts": "1648970003.731979",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aIc4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone! I am looking for a content marketing freelancer with experience in SaaS writing for our product, "
+              },
+              {
+                "type": "link",
+                "url": "https://www.utilize.app",
+                "text": "Utilize"
+              },
+              {
+                "type": "text",
+                "text": ". I would appreciate any leads about the same."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648970003.731979",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649164292.875999",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U037JS29QDV",
+      "U03AD8F4TKK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2176c0f4-002e-4fac-a753-32105372eccf",
+    "type": "message",
+    "text": "Anyone interested to build a *newsletter recommendation thread*? Here’s my attempt.\n\nI absolutely love <https://www.lennysnewsletter.com/|Lenny’s Newsletter> and one of the few newsletters I have read word to word and make notes/mindmaps about. Lenny is ex AirBnB and super transparent about learning across product/growth, and even writing/content. His writing style is super easy to read and consume",
+    "user": "U031QKGPNRK",
+    "ts": "1648647892.506749",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U031QKGPNRK",
+      "ts": "1648648387.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tk9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone interested to build a "
+              },
+              {
+                "type": "text",
+                "text": "newsletter recommendation thread",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "? Here’s my attempt.\n\nI absolutely love "
+              },
+              {
+                "type": "link",
+                "url": "https://www.lennysnewsletter.com/",
+                "text": "Lenny’s Newsletter"
+              },
+              {
+                "type": "text",
+                "text": " and one of the few newsletters I have read word to word and make notes/mindmaps about. Lenny is ex AirBnB and super transparent about learning across product/growth, and even writing/content. His writing style is super easy to read and consume"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648647892.506749",
+    "reply_count": 14,
+    "reply_users_count": 11,
+    "latest_reply": "1649093475.123529",
+    "reply_users": [
+      "U02U6FZRHRV",
+      "U0325QQQALR",
+      "U031QKGPNRK",
+      "U02UUCE1ASD",
+      "U030SDYNX7V",
+      "U02VAPDACUQ",
+      "U02V92UN0Q2",
+      "U03560PQ082",
+      "U032RT8V2M8",
+      "U02VBNKU9T6",
+      "U0304R87GGK"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U0325QQQALR",
+          "U030M1LS1L2",
+          "U030SDYNX7V",
+          "U02V92UN0Q2",
+          "U030N8RHURZ",
+          "U034N0JE214",
+          "U02V62L966R",
+          "U0307ASQMU1"
+        ],
+        "count": 8
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a448b63a-f1e0-49b8-ac7c-c37f46ed9239",
+    "type": "message",
+    "text": "How do you set Content Marketing KPIs? If this topic has been discussed before please point me towards it.\n\nI am conflicted between -\n\n1. Treating content as a brand marketing initiative and not looking at numbers. And just looking at the qualititave feedback that I get. More like a Seth Godin approach to marketing. I believe Dave Gerhardt has the same philosophy.\n\nAND\n\n2. Using funnel metrics like Traffic, Subscribers, engagement, etc. to measure content effectiveness.\n\nHow do I think about this?",
+    "user": "U038FBFLN2K",
+    "ts": "1648620049.377639",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dXqM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do you set Content Marketing KPIs? If this topic has been discussed before please point me towards it.\n\nI am conflicted between -\n\n1. Treating content as a brand marketing initiative and not looking at numbers. And just looking at the qualititave feedback that I get. More like a Seth Godin approach to marketing. I believe Dave Gerhardt has the same philosophy.\n\nAND\n\n2. Using funnel metrics like Traffic, Subscribers, engagement, etc. to measure content effectiveness.\n\nHow do I think about this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648620049.377639",
+    "reply_count": 9,
+    "reply_users_count": 5,
+    "latest_reply": "1649951642.156219",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02VDMMC2Q5",
+      "U032MN1BESJ",
+      "U03158A1WPK",
+      "U038FBFLN2K"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783089.673639",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "789650eb-c681-4ac1-9928-6c34270258bd",
+    "type": "message",
+    "text": "Hey folks! <@U02UUCE1ASD> and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON :grimacing: not VIRTUAL",
+    "user": "U02UM0VU8MQ",
+    "ts": "1650644705.095039",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IEz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks! "
+              },
+              {
+                "type": "user",
+                "user_id": "U02UUCE1ASD"
+              },
+              {
+                "type": "text",
+                "text": " and I are catching up tomorrow for lunch in Bangalore? Anyone who'd like to join us? meeting IN PERSON "
+              },
+              {
+                "type": "emoji",
+                "name": "grimacing"
+              },
+              {
+                "type": "text",
+                "text": " not VIRTUAL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650644705.095039",
+    "reply_count": 7,
+    "reply_users_count": 3,
+    "latest_reply": "1650692708.629389",
+    "reply_users": [
+      "U031BVBGHCK",
+      "U02UUCE1ASD",
+      "U030N8RHURZ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0b2aef79-de94-4d44-95fd-85a512ff8d72",
+    "type": "message",
+    "text": "People who are heavy users of Scalenut's AI driven products - would you be open to having a virtual coffee and a brief conversation about your experience with the product?\nPS - This is for a personal project I am working on.",
+    "user": "U03BRRG94LV",
+    "ts": "1650637559.913229",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uOvEe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "People who are heavy users of Scalenut's AI driven products - would you be open to having a virtual coffee and a brief conversation about your experience with the product?\nPS - This is for a personal project I am working on."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "56DDD8F9-72F4-4AEA-9D8D-70F795D985F6",
+    "type": "message",
+    "text": "I am reaching blr in about 5 hrs :sweat_smile: and will be here till sunday. Anyone up for a kaapi near Mg road later in the evening? Also trying to do the last century thing called tweet-up :see_no_evil:this Saturday evening. Let me know if anyone is interested. Thread for the tweetup -&gt; <https://twitter.com/doulosjose/status/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A|https://twitter.com/doulosjose/status/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A>",
+    "user": "U03AJ8BHKNC",
+    "ts": "1650597734.397769",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://twitter.com/doulosjose/status/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A",
+        "ts": 1650596681,
+        "id": 1,
+        "original_url": "https://twitter.com/doulosjose/status/1517338576039837696?s=21&amp;t=OAx2in3dUMx0GMqAVJYP5A",
+        "fallback": "<https://twitter.com/doulosjose|@doulosjose>: #bangalore twitterati, reaching in about 4-5 hrs. Let me know if anyone is interested in a good, old fashioned #tweetup :) <https://twitter.com/doulosjose/status/1514548802299961358>",
+        "text": "#bangalore twitterati, reaching in about 4-5 hrs. Let me know if anyone is interested in a good, old fashioned #tweetup :) <https://twitter.com/doulosjose/status/1514548802299961358>",
+        "author_name": "doulos jose",
+        "author_link": "https://twitter.com/doulosjose/status/1517338576039837696",
+        "author_icon": "https://pbs.twimg.com/profile_images/1509567456557379591/nEegtulq_normal.jpg",
+        "author_subname": "@doulosjose",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      },
+      {
+        "from_url": "https://twitter.com/doulosjose/status/1514548802299961358",
+        "ts": 1649931548,
+        "indent": true,
+        "color": "32BBF3",
+        "id": 2,
+        "fallback": "<https://twitter.com/doulosjose|@doulosjose>: Hey Twitter, tomorrow <https://twitter.com/sumandoogar1|@sumandoogar1> &amp; I are off on an what we hope will be an epic trip - starting with a road trip. We will be touching Gwalior-Nagpur-Hyderabad- Bangalore and places in between. Let me know if you are around and know a dog-friendly place for a cup of tea :)",
+        "text": "Hey Twitter, tomorrow <https://twitter.com/sumandoogar1|@sumandoogar1> &amp; I are off on an what we hope will be an epic trip - starting with a road trip. We will be touching Gwalior-Nagpur-Hyderabad- Bangalore and places in between. Let me know if you are around and know a dog-friendly place for a cup of tea :)",
+        "author_name": "doulos jose",
+        "author_link": "https://twitter.com/doulosjose/status/1514548802299961358",
+        "author_icon": "https://pbs.twimg.com/profile_images/1509567456557379591/nEegtulq_normal.jpg",
+        "author_subname": "@doulosjose",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5ht9H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am reaching blr in about 5 hrs "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile"
+              },
+              {
+                "type": "text",
+                "text": " and will be here till sunday. Anyone up for a kaapi near Mg road later in the evening? Also trying to do the last century thing called tweet-up "
+              },
+              {
+                "type": "emoji",
+                "name": "see_no_evil"
+              },
+              {
+                "type": "text",
+                "text": "this Saturday evening. Let me know if anyone is interested. Thread for the tweetup -> "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/doulosjose/status/1517338576039837696?s=21&t=OAx2in3dUMx0GMqAVJYP5A",
+                "text": "https://twitter.com/doulosjose/status/1517338576039837696?s=21&t=OAx2in3dUMx0GMqAVJYP5A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650597734.397769",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650598415.492269",
+    "reply_users": [
+      "U039FQ2SNNN",
+      "U03AJ8BHKNC"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "3278ba9c-db3b-4436-836c-af41f3941b22",
+    "type": "message",
+    "text": "Hey! Anyone up for a virtual coffee this weekend to discuss ideas, inspirations, and outputs for social media in the B2B SAAS space? DM, if possible especially from Coimbatore\nP.s I am rookie to B2B Marketing willing to learn more",
+    "user": "U03ACCJ4CVC",
+    "ts": "1650081951.348509",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oh3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey! Anyone up for a virtual coffee this weekend to discuss ideas, inspirations, and outputs for social media in the B2B SAAS space? DM, if possible especially from Coimbatore\nP.s I am rookie to B2B Marketing willing to learn more"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650081951.348509",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650278867.771429",
+    "reply_users": [
+      "U030ML6FL00"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U039FQ2SNNN",
+          "U03560PQ082",
+          "U038PKL6VQE",
+          "U030ML6FL00"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7dc29ee9-a9ee-4128-9bb3-6dcd1dedfd2a",
+    "type": "message",
+    "text": "Hey peeps, I am in Bangalore from 17th-19th. Would love to catch up and meet a few of you",
+    "user": "U02UZQJMP8R",
+    "ts": "1649835785.465499",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Fc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey peeps, I am in Bangalore from 17th-19th. Would love to catch up and meet a few of you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U039FQ2SNNN",
+          "U02PDC4883V",
+          "U02URS98P9B",
+          "U0325QQQALR",
+          "U02ULCHDGB0"
+        ],
+        "count": 5
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "users": [
+          "U0362R42317"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "F4319F7F-82EA-4BF3-88E3-38471B5CDB03",
+    "type": "message",
+    "text": "Heyo!  seeking ideas, inspirations and throughputs for social media in the the B2B SAAS space, anyone up for a virtual coffee for this weekend? DM pls",
+    "user": "U038T9FVDC5",
+    "ts": "1649396821.390779",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cYQZB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Heyo!  seeking ideas, inspirations and throughputs for social media in the the B2B SAAS space, anyone up for a virtual coffee for this weekend? DM pls"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02URBKGVA7",
+          "U035SL5MWPM",
+          "U030ML6FL00",
+          "U039FQ2SNNN",
+          "U031P3UUGN4",
+          "U03B77PCDNY"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0d7e1232-6d36-4a0f-a36f-9285b78602f4",
+    "type": "message",
+    "text": "Hey, anyone working in Product Marketing and up for virtual coffee this weekend? DM me.",
+    "user": "U030V8ENMS6",
+    "ts": "1649314500.983539",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZnOh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, anyone working in Product Marketing and up for virtual coffee this weekend? DM me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649314500.983539",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649397229.589289",
+    "reply_users": [
+      "U038WP8PLUA",
+      "U039MLMNSQH",
+      "U030V8ENMS6",
+      "U02URBKGVA7"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "This sounds super interesting can I help :raised_hands:",
+    "user": "U02UUMHDJUR",
+    "ts": "1649140566.858649",
+    "thread_ts": "1649140460.345649",
+    "root": {
+      "type": "message",
+      "subtype": "tombstone",
+      "text": "This message was deleted.",
+      "user": "USLACKBOT",
+      "hidden": true,
+      "ts": "1649140460.345649",
+      "thread_ts": "1649140460.345649",
+      "parent_user_id": "USLACKBOT",
+      "reply_count": 4,
+      "reply_users_count": 4,
+      "latest_reply": "1649140611.501559",
+      "reply_users": [
+        "U02UUMHDJUR",
+        "U039FQ2SNNN",
+        "U03ABKDJQAD",
+        "U03A0H0N2LD"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M/z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This sounds super interesting can I help "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "6c68467c-c2dc-4ee4-8b9c-c4dbfbb651a7"
+  },
+  {
+    "type": "message",
+    "subtype": "tombstone",
+    "text": "This message was deleted.",
+    "user": "USLACKBOT",
+    "hidden": true,
+    "ts": "1649140460.345649",
+    "thread_ts": "1649140460.345649",
+    "parent_user_id": "USLACKBOT",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649140611.501559",
+    "reply_users": [
+      "U02UUMHDJUR",
+      "U039FQ2SNNN",
+      "U03ABKDJQAD",
+      "U03A0H0N2LD"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U039FQ2SNNN"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,5127 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783054.932159",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "125CADA9-B462-4081-AB6B-DE7D4A63D591",
+    "type": "message",
+    "text": "Hello everyone, I am Smita Gaur, currently a marketing student. \nI introduced myself on anonymous channel few weeks back. A lot of people made me feel welcome and <@U02USELSBRT> gave me a friendly reminder that we all start from somewhere.\n\nI was following Rohit and Abhash’s content for a while and got to know about this community. So excited to learn from all of you and make some friends along the way. :)",
+    "user": "U03AW06L9CN",
+    "ts": "1650683406.181229",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AOASK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone, I am Smita Gaur, currently a marketing student. \nI introduced myself on anonymous channel few weeks back. A lot of people made me feel welcome and "
+              },
+              {
+                "type": "user",
+                "user_id": "U02USELSBRT"
+              },
+              {
+                "type": "text",
+                "text": " gave me a friendly reminder that we all start from somewhere.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "I was following Rohit and Abhash’s content for a while and got to know about this community. So excited to learn from all of you and make some friends along the way. :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650683406.181229",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650716170.917749",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02TTEFFU6B",
+      "U031QKGPNRK",
+      "U030KSSTADU"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U031KD0PNTX",
+          "U02V9QUDK1Q"
+        ],
+        "count": 2
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a210f145-79a0-411b-9c6e-a33810f72ba1",
+    "type": "message",
+    "text": "Hey folks :blob-wave: <https://www.linkedin.com/in/richiekhandelwal/|Richie> here. I am a co-founder at <http://hello.pricelabs.co/|PriceLabs>, a vertical SaaS startup, that does dynamic pricing for hospitality sector - ie we are the algorithm that raises rates for hotels while you are browsing on travel websites. :grimacing: We are an SMB/Mid-market focused product with mostly self-serve and some sales assisted motion.\n\nHere to learn more about marketing and building a marketing function. I am also the founder who knows very little about marketing and may show up on <#C02TULUG2QJ|s11s-anonymous> as \"oh no founder asked me how we can go viral!\" :slightly_smiling_face:\n\nIn all earnestness, looking to learn how to build a marketing function that works for PriceLabs - not a copy / paste.\n\nPrior to PriceLabs, I ran operations, finance and several other functions at MindTickle. Before that, have done consulting, venture capital and Oil/Gas field work.",
+    "user": "U03AG3YBVDM",
+    "ts": "1650611917.270269",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03AG3YBVDM",
+      "ts": "1650616258.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MYf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks "
+              },
+              {
+                "type": "emoji",
+                "name": "blob-wave"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/richiekhandelwal/",
+                "text": "Richie"
+              },
+              {
+                "type": "text",
+                "text": " here. I am a co-founder at "
+              },
+              {
+                "type": "link",
+                "url": "http://hello.pricelabs.co/",
+                "text": "PriceLabs"
+              },
+              {
+                "type": "text",
+                "text": ", a vertical SaaS startup, that does dynamic pricing for hospitality sector - ie we are the algorithm that raises rates for hotels while you are browsing on travel websites. "
+              },
+              {
+                "type": "emoji",
+                "name": "grimacing"
+              },
+              {
+                "type": "text",
+                "text": " We are an SMB/Mid-market focused product with mostly self-serve and some sales assisted motion.\n\nHere to learn more about marketing and building a marketing function. I am also the founder who knows very little about marketing and may show up on "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C02TULUG2QJ"
+              },
+              {
+                "type": "text",
+                "text": " as \"oh no founder asked me how we can go viral!\" "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\n\nIn all earnestness, looking to learn how to build a marketing function that works for PriceLabs - not a copy / paste.\n\nPrior to PriceLabs, I ran operations, finance and several other functions at MindTickle. Before that, have done consulting, venture capital and Oil/Gas field work."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650611917.270269",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1650715496.957929",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U03560PQ082",
+      "U03AG3YBVDM",
+      "U02PDC4883V",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02VA7QD8UB",
+          "U031P3UUGN4",
+          "U02U6FZRHRV",
+          "U0303ANJV8R",
+          "U032NQB0V6X",
+          "U02V9QUDK1Q",
+          "U02UUCE1ASD",
+          "U039MLMNSQH",
+          "U0325QQQALR",
+          "U03C4NNJWGK",
+          "U02UJBHEQVA",
+          "U03AQFPP9BL",
+          "U02PDC4883V",
+          "U02USELSBRT",
+          "U0380S2BZ9A"
+        ],
+        "count": 15
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02PDC4883V"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave::skin-tone-4",
+        "users": [
+          "U0362R42317"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e0005f80-1d3a-43b2-8845-8334bf70f4cb",
+    "type": "message",
+    "text": "Also, Im looking  change in product marketing, please let me know if anyone of you is hiring!",
+    "user": "U031MMSEG4T",
+    "ts": "1650539211.824239",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "08P=h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, Im looking  change in product marketing, please let me know if anyone of you is hiring!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "354947c8-1a28-4d03-afa8-9def89ec388c",
+    "type": "message",
+    "text": "Hello beautiful ppl,\nI joined this group out my insecurity of not keeping up pace with new market trends, Oh god, It taught me more than that! Thank you everyone for making great place for all the awesome tips and trends. You guys are doing a fab job!\nIf you want to connect with me on Linkedin:, <https://www.linkedin.com/in/dwitipriya/>",
+    "user": "U031MMSEG4T",
+    "ts": "1650538903.326389",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R7Lml",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello beautiful ppl,\nI joined this group out my insecurity of not keeping up pace with new market trends, Oh god, It taught me more than that! Thank you everyone for making great place for all the awesome tips and trends. You guys are doing a fab job!\nIf you want to connect with me on Linkedin:, "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/dwitipriya/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650538903.326389",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650556840.402059",
+    "reply_users": [
+      "U02PDC4883V",
+      "U031MMSEG4T"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UJBHEQVA",
+          "U02PDC4883V",
+          "U030ZR9D0FK",
+          "U031P3UUGN4",
+          "U031KD0PNTX",
+          "U02UHQYEF70",
+          "U02U6FZRHRV",
+          "U03C4NNJWGK",
+          "U032AUA6KFV",
+          "U03AQFPP9BL"
+        ],
+        "count": 10
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "358529CE-F9A3-456B-9E8E-FE3EC499CD98",
+    "type": "message",
+    "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!",
+    "user": "U03CDCJ6W12",
+    "ts": "1650518472.239159",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jbKC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Guys! My name is Shreya Ananth and I am a content writer and marketer by profession! I am also an Entrepreneur joining hands onto my second startup Prodraft - which is a content agency! I am thrilled to be here today! Have a great day ahead!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650518472.239159",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650715941.203179",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U02PDC4883V",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-4",
+        "users": [
+          "U0362R42317"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02UFNZS7NW",
+          "U02V9QUDK1Q",
+          "U02PDC4883V"
+        ],
+        "count": 3
+      },
+      {
+        "name": "wave::skin-tone-3",
+        "users": [
+          "U03A7KXT45S",
+          "U031QKGPNRK"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U02V9QUDK1Q",
+          "U031KD0PNTX",
+          "U03C4NNJWGK",
+          "U031P3UUGN4",
+          "U0380S2BZ9A",
+          "U02PDC4883V",
+          "U03AQFPP9BL",
+          "U02UJBHEQVA",
+          "U0325QQQALR"
+        ],
+        "count": 10
+      }
+    ]
+  },
+  {
+    "client_msg_id": "39893998-2285-4b14-a258-76d5b8b71bba",
+    "type": "message",
+    "text": "Hi all :wave: Dave Rigotti here. <https://www.linkedin.com/in/daverigotti/> I ran marketing at Bizible and then after we were acquired by Marketo I spent 2 years running marketing teams at Marketo. Our new startup - <http://inflection.io|inflection.io> - which is marketing automation for product-led companies and we have a great team across India and US. We'll soon be announcing our raise and unveiling the product. If you're interested in learning more, let me know!",
+    "user": "U03CACT0VRR",
+    "ts": "1650501560.422949",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lpu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": " Dave Rigotti here. "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/daverigotti/"
+              },
+              {
+                "type": "text",
+                "text": " I ran marketing at Bizible and then after we were acquired by Marketo I spent 2 years running marketing teams at Marketo. Our new startup - "
+              },
+              {
+                "type": "link",
+                "url": "http://inflection.io",
+                "text": "inflection.io"
+              },
+              {
+                "type": "text",
+                "text": " - which is marketing automation for product-led companies and we have a great team across India and US. We'll soon be announcing our raise and unveiling the product. If you're interested in learning more, let me know!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650501560.422949",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650518363.196449",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02TTEFFU6B",
+      "U031QKGPNRK",
+      "U02U6FZRHRV"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U030E27CBB3",
+          "U02VA7QD8UB",
+          "U03CACT0VRR",
+          "U02UJBHEQVA",
+          "U03C4NNJWGK",
+          "U02UHQYEF70",
+          "U03560PQ082",
+          "U032AUA6KFV",
+          "U02U6FZRHRV",
+          "U02V9QUDK1Q",
+          "U0380S2BZ9A",
+          "U0379TDK6NM",
+          "U031P3UUGN4",
+          "U02PDC4883V",
+          "U03AQFPP9BL",
+          "U02UY3EPQDA",
+          "U0325QQQALR"
+        ],
+        "count": 17
+      },
+      {
+        "name": "wave::skin-tone-3",
+        "users": [
+          "U031QKGPNRK"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02UFNZS7NW",
+          "U02UHQYEF70",
+          "U03560PQ082",
+          "U03BJ320MPB",
+          "U02V9QUDK1Q",
+          "U03C4NNJWGK",
+          "U0379TDK6NM",
+          "U02PDC4883V"
+        ],
+        "count": 8
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0892DB64-BA6F-4C8F-9A25-1FA7C2DEDA52",
+    "type": "message",
+    "text": "Hello All,\n\nHimanshu here building a No-code platform(B2B SAAS) Grorapid, for Early stage marketers and founders to go live with campaigns or simple use cases via Premade Marketing recipes with no hassle of integrations and stiching things together. \n\nCurrently Platform is in early stages with recipes like Webinar promotion, Starting a newsletter, Festival Email sequences etc.\n\nI have been a Software engineer, Product manager and now founder who loves No-code, Low-code and likes to code too. Struggles have been towards Product marketing and this community seems a best fit to learn from great minds here in SAAS space. \n\nCan contribute in conversations around NoCode tools and integrations, Activecampaign, Hubspot, MarketingOps and engineering problems as well.\n\nHave been following <@U02TTEFFU6B> and <@U02V9QUDK1Q> on Linkedin from long time, looking forward to more awesome content from #s11 community :grin::grin:\n",
+    "user": "U0303ANJV8R",
+    "ts": "1650468315.888919",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I4fS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello All,\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Himanshu here building a No-code platform(B2B SAAS) Grorapid, for Early stage marketers and founders to go live with campaigns or simple use cases via Premade Marketing recipes with no hassle of integrations and stiching things together. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Currently Platform is in early stages with recipes like Webinar promotion, Starting a newsletter, Festival Email sequences etc.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "I have been a Software engineer, Product manager and now founder who loves No-code, Low-code and likes to code too. Struggles have been towards Product marketing and this community seems a best fit to learn from great minds here in SAAS space. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Can contribute in conversations around NoCode tools and integrations, Activecampaign, Hubspot, MarketingOps and engineering problems as well.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Have been following "
+              },
+              {
+                "type": "user",
+                "user_id": "U02TTEFFU6B"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U02V9QUDK1Q"
+              },
+              {
+                "type": "text",
+                "text": " on Linkedin from long time, looking forward to more awesome content from #s11 community "
+              },
+              {
+                "type": "emoji",
+                "name": "grin"
+              },
+              {
+                "type": "emoji",
+                "name": "grin"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650468315.888919",
+    "reply_count": 9,
+    "reply_users_count": 7,
+    "latest_reply": "1650532752.461179",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U0303ANJV8R",
+      "U03C4NNJWGK",
+      "U02PDC4883V",
+      "U02UGB8DERY",
+      "U0316818QSH",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U039FQ2SNNN",
+          "U038W1678JX",
+          "U02V9QUDK1Q",
+          "U02PDC4883V",
+          "U02ULCHDGB0",
+          "U02USELSBRT",
+          "U031KD0PNTX",
+          "U030SDYNX7V",
+          "U02U6FZRHRV",
+          "U0380S2BZ9A",
+          "U0325QQQALR",
+          "U032AUA6KFV",
+          "U02UJBHEQVA"
+        ],
+        "count": 13
+      },
+      {
+        "name": "raised_hands::skin-tone-4",
+        "users": [
+          "U02TTEFFU6B"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03C4NNJWGK",
+          "U02PDC4883V",
+          "U02ULCHDGB0",
+          "U03AQFPP9BL"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "88662695-dcf3-44ff-949b-3fe49d8374e1",
+    "type": "message",
+    "text": "Hello Everyone,\n\nTejas here from Mumbai. Recently I left my SEO Growth lead job at Donorbox (One of the top fundraising platform for nonprofits in the World) to pursue entrepreneurship.\n\nI have published 2 books (Quorific - This one is on Quora Marketing), SaaS SEO Guide. Currently I am building <http://Affiliatecorner.co|Affiliatecorner.co> (A data-driven solution for affiliate marketers to help eliminate their confusion). Started pre-orders yesterday.\n\nI consider myself T-shaped marketer focused in SEO Growth.\n\nOutside of my profession:\n• I love travelling. Recently visited Kashmir (2nd time). Yet to travel internationally :airplane:\n• Love trekking and mountains. Therefore Mountains over beaches.\n• Like Old bollywood music and I can sing too :smile: \n• You can find me playing chess in the meantime.\nLove to be a part of this group. I can see many familiar faces here already. Rahul Rajvanshi, Abhash, Ankit Prakash and many more.\n\nWould love to connect and learn from you all :slightly_smiling_face:",
+    "user": "U03C4NNJWGK",
+    "ts": "1650461190.068199",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q1F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone,\n\nTejas here from Mumbai. Recently I left my SEO Growth lead job at Donorbox (One of the top fundraising platform for nonprofits in the World) to pursue entrepreneurship.\n\nI have published 2 books (Quorific - This one is on Quora Marketing), SaaS SEO Guide. Currently I am building "
+              },
+              {
+                "type": "link",
+                "url": "http://Affiliatecorner.co",
+                "text": "Affiliatecorner.co"
+              },
+              {
+                "type": "text",
+                "text": " (A data-driven solution for affiliate marketers to help eliminate their confusion). Started pre-orders yesterday.\n\nI consider myself T-shaped marketer focused in SEO Growth.\n\nOutside of my profession:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I love travelling. Recently visited Kashmir (2nd time). Yet to travel internationally "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "airplane"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Love trekking and mountains. Therefore Mountains over beaches."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Like Old bollywood music and I can sing too "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "smile"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "You can find me playing chess in the meantime."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nLove to be a part of this group. I can see many familiar faces here already. Rahul Rajvanshi, Abhash, Ankit Prakash and many more.\n\nWould love to connect and learn from you all "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650461190.068199",
+    "reply_count": 7,
+    "reply_users_count": 5,
+    "latest_reply": "1650550480.052339",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U02PDC4883V",
+      "U03C4NNJWGK",
+      "U02V9QUDK1Q",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U031KD0PNTX",
+          "U0316818QSH",
+          "U039FQ2SNNN",
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U02ULCHDGB0",
+          "U0380S2BZ9A",
+          "U02VA7QD8UB",
+          "U02U6FZRHRV",
+          "U0325QQQALR",
+          "U02UJBHEQVA",
+          "U03AQFPP9BL",
+          "U038V229WRZ"
+        ],
+        "count": 13
+      },
+      {
+        "name": "wave::skin-tone-4",
+        "users": [
+          "U02TTEFFU6B"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f200a41d-edec-4bd3-ba29-9a330cf8c288",
+    "type": "message",
+    "text": "Hey folks :wave:\n\nI've been working at the intersection of growth and community for most of my career, but over the last 2 years, have found myself obsessing over data tools and technologies. I'm not a data engineer, analyst, or scientist, but have had the chance to work with data extensively and now I'm working on bridging the widening gap between data people and non-data people.\n\nI had created Data-led Academy to foster data literacy amongst product and growth professionals and recently <https://amplitude.com/blog/data-led-academy|sold it to Amplitude>. I'm now building <https://ask.astorik.com/|astorik> where anyone can get expert, unbiased, and actionable answers to their data questions, directly from practitioners or vendors.\n\nI typically find myself spending my days thinking, writing in simple terms, hanging out in communities, and answering people's questions -- if you have questions about customer data infrastructure (CDI, CDP, ELT, Reverse ETL, etc), <https://ask.astorik.com/c/ask-arpit-choudhury/|I'm here> to answer them.\n\nFun fact: I've only worked at an office for 9 months in 9+ years of working!\n\n:beers:",
+    "user": "U034RJQUQK0",
+    "ts": "1649931420.718459",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YQde",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": "\n\nI've been working at the intersection of growth and community for most of my career, but over the last 2 years, have found myself obsessing over data tools and technologies. I'm not a data engineer, analyst, or scientist, but have had the chance to work with data extensively and now I'm working on bridging the widening gap between data people and non-data people.\n\nI had created Data-led Academy to foster data literacy amongst product and growth professionals and recently "
+              },
+              {
+                "type": "link",
+                "url": "https://amplitude.com/blog/data-led-academy",
+                "text": "sold it to Amplitude"
+              },
+              {
+                "type": "text",
+                "text": ". I'm now building "
+              },
+              {
+                "type": "link",
+                "url": "https://ask.astorik.com/",
+                "text": "astorik"
+              },
+              {
+                "type": "text",
+                "text": " where anyone can get expert, unbiased, and actionable answers to their data questions, directly from practitioners or vendors.\n\nI typically find myself spending my days thinking, writing in simple terms, hanging out in communities, and answering people's questions -- if you have questions about customer data infrastructure (CDI, CDP, ELT, Reverse ETL, etc), "
+              },
+              {
+                "type": "link",
+                "url": "https://ask.astorik.com/c/ask-arpit-choudhury/",
+                "text": "I'm here"
+              },
+              {
+                "type": "text",
+                "text": " to answer them.\n\nFun fact: I've only worked at an office for 9 months in 9+ years of working!\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "beers"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649931420.718459",
+    "reply_count": 7,
+    "reply_users_count": 6,
+    "latest_reply": "1649940507.647909",
+    "reply_users": [
+      "U02VA7QD8UB",
+      "U02PDC4883V",
+      "U031KD0PNTX",
+      "U03AQFPP9BL",
+      "U034RJQUQK0",
+      "U032MN1BESJ"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02UM0VU8MQ",
+          "U03560PQ082",
+          "U037UUE6TV3",
+          "U02PDC4883V",
+          "U03AQFPP9BL",
+          "U02ULCHDGB0"
+        ],
+        "count": 7
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U039PF71127",
+          "U02V92UN0Q2",
+          "U02UHQYEF70",
+          "U02VA7QD8UB",
+          "U02PDC4883V",
+          "U0325QQQALR",
+          "U0380S2BZ9A",
+          "U031KD0PNTX",
+          "U02UJBHEQVA",
+          "U039HH3LP43",
+          "U0361UQSKGQ",
+          "U02U6FZRHRV"
+        ],
+        "count": 13
+      },
+      {
+        "name": "raised_hands::skin-tone-3",
+        "users": [
+          "U03A7KXT45S"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9b967a24-35ac-42c8-9eeb-304fe28a504c",
+    "type": "message",
+    "text": "Hello Everyone,\nI have been a part of this community for over 2 weeks now but never really got a chance to introduce myself, here goes :slightly_smiling_face:\nI am a Talent Consultant with Meyrahkee Advisors (just recently joined). Have been in the recruitment industry for 3 yrs now and absolutely love the career pivot, where i get to share some great opportunities to amazing talent out there. Have worked in multiple industries before moving towards recruitment as this the field where i actually get to speak to new people everyday and there is something new to learn every hour. Thank you to everyone who have been answering my quires and also helping me with me hiring requirements by pointing towards the right direction. Absolutely love this space and thanks to the founders for creating this community and welcoming us with such amazing content and knowledge.",
+    "user": "U039PF71127",
+    "ts": "1649914575.712979",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SFt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone,\nI have been a part of this community for over 2 weeks now but never really got a chance to introduce myself, here goes "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\nI am a Talent Consultant with Meyrahkee Advisors (just recently joined). Have been in the recruitment industry for 3 yrs now and absolutely love the career pivot, where i get to share some great opportunities to amazing talent out there. Have worked in multiple industries before moving towards recruitment as this the field where i actually get to speak to new people everyday and there is something new to learn every hour. Thank you to everyone who have been answering my quires and also helping me with me hiring requirements by pointing towards the right direction. Absolutely love this space and thanks to the founders for creating this community and welcoming us with such amazing content and knowledge."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649914575.712979",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649940330.762549",
+    "reply_users": [
+      "U039PF71127",
+      "U02PDC4883V",
+      "U030SDYNX7V",
+      "U031QKGPNRK",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03AHQURB98",
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U031P3UUGN4",
+          "U037UUE6TV3",
+          "U03560PQ082",
+          "U033R6MA1DY",
+          "U03AQFPP9BL",
+          "U037VSS964S"
+        ],
+        "count": 9
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U039FQ2SNNN",
+          "U02U6FZRHRV",
+          "U03560PQ082",
+          "U0325QQQALR",
+          "U02UJBHEQVA",
+          "U033R6MA1DY",
+          "U0380S2BZ9A",
+          "U02URBKGVA7",
+          "U02UHQYEF70",
+          "U0361UQSKGQ"
+        ],
+        "count": 12
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands::skin-tone-3",
+        "users": [
+          "U03A7KXT45S"
+        ],
+        "count": 1
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "87f9710d-e7ac-4e1c-bcf6-f9e164a671a3",
+    "type": "message",
+    "text": ":wave:Hello Folks, I’m Rajan, currently working as Startup Evangelist at WebEngage and actively volunteering at The Product Folks. I have worked for startups around seo, content production and content marketing areas before joining WebEngage.\nMy interest lies in Product x management/marketing/analytics/Ops and currently exploring the web3 space.\nI'm 22, so here to learn from fellow community members and grow in my professional life. I look forward to work on some initiatives and building great connections here. :smiley:\nHere's my <https://twitter.com/rajan2weet|Twitter >&amp; <https://www.linkedin.com/in/rajan-singh99/|LinkedIn>.\nAlso, if you're building a b2c consumer startup, fell free to DM if looking for a marketing automation &amp; retention stack.  :wink:",
+    "user": "U03AVLPU08P",
+    "ts": "1649913432.681119",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AjY6K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": "Hello Folks, I’m Rajan, currently working as Startup Evangelist at WebEngage and actively volunteering at The Product Folks. I have worked for startups around seo, content production and content marketing areas before joining WebEngage.\nMy interest lies in Product x management/marketing/analytics/Ops and currently exploring the web3 space.\nI'm 22, so here to learn from fellow community members and grow in my professional life. I look forward to work on some initiatives and building great connections here. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley"
+              },
+              {
+                "type": "text",
+                "text": "\nHere's my "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/rajan2weet",
+                "text": "Twitter "
+              },
+              {
+                "type": "text",
+                "text": "& "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/rajan-singh99/",
+                "text": "LinkedIn"
+              },
+              {
+                "type": "text",
+                "text": ".\nAlso, if you're building a b2c consumer startup, fell free to DM if looking for a marketing automation & retention stack.  "
+              },
+              {
+                "type": "emoji",
+                "name": "wink"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649913432.681119",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650185762.926229",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02PDC6B0HH",
+      "U03A2UNJJDD",
+      "U03AVLPU08P"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U03AQFPP9BL",
+          "U02V92UN0Q2",
+          "U0325QQQALR",
+          "U02V9QUDK1Q",
+          "U037UUE6TV3",
+          "U02U6FZRHRV",
+          "U03AVLPU08P",
+          "U02UJBHEQVA",
+          "U0380S2BZ9A",
+          "U02URBKGVA7"
+        ],
+        "count": 11
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03AVLPU08P",
+          "U02URBKGVA7"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2530E584-2011-434D-BC06-82EABD8F3F83",
+    "type": "message",
+    "text": "Hello Everyone,\n\nThis is Vijay Khandekar. Currently heading marketing for Fund-B portfolio companies at SureSwift Capital.\n\nBeen in the SaaS ecosystem since 2014 and have worked for Pipemonk (acquired by Freshworks), Serped, and LeadFuze in the past. Also, know a thing or two about marketing in the Shopify ecosystem.\n\nA few things about me:\n\n• I have been working remote (since 2016) before it became a fad. \n• Still watch every single match of IPL. Anyone? \n• Failed miserably twice in an attempt to build a side gig. Trying 3rd one and keeping my fingers crossed.\nGlad to see a lot of known faces here. Looking forward to learning from everyone and add value wherever I can. ",
+    "user": "U03010J15V1",
+    "ts": "1649901784.911819",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03010J15V1",
+      "ts": "1649901863.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tbWZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone,\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "This is Vijay Khandekar. Currently heading marketing for Fund-B portfolio companies at SureSwift Capital.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Been in the SaaS ecosystem since 2014 and have worked for Pipemonk (acquired by Freshworks), Serped, and LeadFuze in the past. Also, know a thing or two about marketing in the Shopify ecosystem.\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "A few things about me:\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I have been working remote (since 2016) before it became a fad. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Still watch every single match of IPL. Anyone? "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Failed miserably twice in an attempt to build a side gig. Trying 3rd one and keeping my fingers crossed."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Glad to see a lot of known faces here. Looking forward to learning from everyone and add value wherever I can. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649901784.911819",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649919189.736199",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02URS98P9B",
+      "U02U6FZRHRV",
+      "U02PDC6B0HH"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02V92UN0Q2",
+          "U02UHQYEF70",
+          "U02V9QUDK1Q",
+          "U02ULCHDGB0",
+          "U02USELSBRT",
+          "U0325QQQALR",
+          "U02URS98P9B",
+          "U03A1M1L0PR",
+          "U02U6FZRHRV",
+          "U039L895FA4",
+          "U02UJBHEQVA",
+          "U0380S2BZ9A",
+          "U0361UQSKGQ"
+        ],
+        "count": 14
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-3",
+        "users": [
+          "U03A7KXT45S"
+        ],
+        "count": 1
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "71e227c8-c84c-4fdf-b404-e7fafaf892db",
+    "type": "message",
+    "text": "Hellllllo.....Lot of known faces here.\n\nThis is Saurabh, I work as a marketing specialist for ZoomShift, an employee scheduling platform. I work remotely from Vapi a small beach town near Mumbai. I have been in SaaS for around 3 years now and before that I worked as a recruiter. Now while checking the above messages, I realized I am very junior compared to all the members here.\n\nHave worked with companies like Notion.so (Fulltime), Close, Webflow, EngageBay, <http://Kovai.co|Kovai.co> etc both as FTE and freelancer. I take care of content marketing activities like creating blog posts, keyword research, building backlinks, etc.\n\nFew things about me.\n• I keep tapping my right leg while I am sitting.\n• I play table tennis every week as have represented my state in U16 and U19.\n• I love travelling and being a remote employee it allows me to work from anywhere. \n• I listen to Sunsetz by CAS on loop every day before I sleep. \n• I watch F.R.I.E.N.D.S while having my dinner. \n• In college I created a 3 floor plan without drawing the ground floor. (Glass copy done wrong).  \nHappy to connect with you all. :heart:",
+    "user": "U03B77PCDNY",
+    "ts": "1649758897.549319",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03B77PCDNY",
+      "ts": "1649759064.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MMX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hellllllo.....Lot of known faces here.\n\nThis is Saurabh, I work as a marketing specialist for ZoomShift, an employee scheduling platform. I work remotely from Vapi a small beach town near Mumbai. I have been in SaaS for around 3 years now and before that I worked as a recruiter. Now while checking the above messages, I realized I am very junior compared to all the members here.\n\nHave worked with companies like Notion.so (Fulltime), "
+              },
+              {
+                "type": "text",
+                "text": "Close",
+                "style": {
+                  "unlink": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ", Webflow, EngageBay, "
+              },
+              {
+                "type": "text",
+                "text": "Kovai.co",
+                "style": {
+                  "unlink": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " etc both as FTE and freelancer. I take care of content marketing activities like creating blog posts, keyword research, building backlinks, etc.\n\nFew things about me.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I keep tapping my right leg while I am sitting."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I play table tennis every week as have represented my state in U16 and U19."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I love travelling and being a remote employee it allows me to work from anywhere. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I listen to Sunsetz by CAS on loop every day before I sleep. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I watch F.R.I.E.N.D.S while having my dinner. "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "In college I created a 3 floor plan without drawing the ground floor. (Glass copy done wrong).  "
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nHappy to connect with you all. "
+              },
+              {
+                "type": "emoji",
+                "name": "heart"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649758897.549319",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649919276.789019",
+    "reply_users": [
+      "U030V8ENMS6",
+      "U03AF2HBZPX",
+      "U03B77PCDNY",
+      "U03AQFPP9BL",
+      "U02PDC6B0HH"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8",
+          "U02UM0VU8MQ",
+          "U02UHQYEF70",
+          "U02URBKGVA7",
+          "U03AQFPP9BL",
+          "U030V8ENMS6",
+          "U03AF2HBZPX"
+        ],
+        "count": 7
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U037VSS964S",
+          "U03AF2HBZPX"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V92UN0Q2",
+          "U03847S3MJN",
+          "U02URS98P9B",
+          "U031KD0PNTX",
+          "U02UHQYEF70",
+          "U02UJBHEQVA",
+          "U02URBKGVA7",
+          "U02U6FZRHRV",
+          "U02ULCHDGB0",
+          "U032AUA6KFV",
+          "U037UUE6TV3",
+          "U03AF2HBZPX",
+          "U02UFCPL84F",
+          "U03A1M1L0PR",
+          "U03AVLPU08P",
+          "U0325QQQALR",
+          "U0380S2BZ9A"
+        ],
+        "count": 17
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ec919f8d-5882-498c-8d40-3de55918454d",
+    "type": "message",
+    "text": ":wave: everyone. I'm Siddhartha, currently Associate Director at VWO, Wingify, and am based out of Goa.\nBeen in the SaaS space for a few years now and glad that I got a chance to get into this hot space at the right time.\nMy main experiences have been in Performance Marketing, Email Marketing, Marketing Operations, Content Marketing, and Product Marketing. Still 1,000s of areas to get first-hand experience in and hoping my current role of Region Marketing Head for Americas can get me that exposure :crossed_fingers:\n\nOutside of my profession:\n• I'm a drummer :drum_with_drumsticks: for a band called <https://www.youtube.com/watch?v=orZGwKhLcUk|Time Throttle>, been playing drums for 18 years\n• I'm a Limca Book of Records holder for India's Largest Crossword :nerd_face:\n• I used to be a biker :racing_motorcycle: but retired 3 years ago since I got married, now I'm a driver :car: \n• I wrote a thesis on \"Use of Internet Memes as a Marketing Tool\" in my second year at MICA (2014) and three of my four predictions came true :dog:\n",
+    "user": "U0318JZUESX",
+    "ts": "1649748637.495619",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0vv53",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": " everyone. I'm Siddhartha, currently Associate Director at VWO, Wingify, and am based out of Goa.\nBeen in the SaaS space for a few years now and glad that I got a chance to get into this hot space at the right time.\nMy main experiences have been in Performance Marketing, Email Marketing, Marketing Operations, Content Marketing, and Product Marketing. Still 1,000s of areas to get first-hand experience in and hoping my current role of Region Marketing Head for Americas can get me that exposure "
+              },
+              {
+                "type": "emoji",
+                "name": "crossed_fingers"
+              },
+              {
+                "type": "text",
+                "text": "\n\nOutside of my profession:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I'm a drummer "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "drum_with_drumsticks"
+                  },
+                  {
+                    "type": "text",
+                    "text": " for a band called "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://www.youtube.com/watch?v=orZGwKhLcUk",
+                    "text": "Time Throttle"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", been playing drums for 18 years"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I'm a Limca Book of Records holder for India's Largest Crossword "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "nerd_face"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I used to be a biker "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "racing_motorcycle"
+                  },
+                  {
+                    "type": "text",
+                    "text": " but retired 3 years ago since I got married, now I'm a driver "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "car"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I wrote a thesis on \"Use of Internet Memes as a Marketing Tool\" in my second year at MICA (2014) and three of my four predictions came true "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "dog"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649748637.495619",
+    "reply_count": 6,
+    "reply_users_count": 6,
+    "latest_reply": "1649865414.774599",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02TTEFFU6B",
+      "U02USELSBRT",
+      "U037UUE6TV3",
+      "U03AQFPP9BL",
+      "U0318JZUESX"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02U6FZRHRV",
+          "U030ZR9D0FK",
+          "U02PDC4883V",
+          "U02UM0VU8MQ",
+          "U02V9QUDK1Q",
+          "U038V229WRZ",
+          "U032AUA6KFV",
+          "U037UUE6TV3",
+          "U02V62L966R",
+          "U031KD0PNTX",
+          "U02UJBHEQVA",
+          "U02URS98P9B",
+          "U03847S3MJN",
+          "U02UHQYEF70",
+          "U0325QQQALR",
+          "U02ULN6EFNV",
+          "U02PDC6B0HH",
+          "U033RUXVCAY",
+          "U02V92UN0Q2",
+          "U03AQFPP9BL",
+          "U02VA7QD8UB",
+          "U030M1LS1L2",
+          "U03A1M1L0PR",
+          "U0380S2BZ9A",
+          "U030SS7KNHH",
+          "U0361UQSKGQ"
+        ],
+        "count": 26
+      },
+      {
+        "name": "clap",
+        "users": [
+          "U037VSS964S",
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U02URBKGVA7",
+          "U02URS98P9B",
+          "U02UHQYEF70",
+          "U02UJBHEQVA"
+        ],
+        "count": 7
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U031BVBGHCK",
+          "U02UHQYEF70",
+          "U02ULN6EFNV",
+          "U02ULCHDGB0",
+          "U033QDFML74"
+        ],
+        "count": 6
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02U9C2UTRC"
+        ],
+        "count": 1
+      },
+      {
+        "name": "joy",
+        "users": [
+          "U030N8RHURZ"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "dart",
+        "users": [
+          "U03A7KXT45S"
+        ],
+        "count": 1
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-4",
+        "users": [
+          "U0362R42317"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "D31F66FA-9EFB-4155-A988-B2E60765628A",
+    "type": "message",
+    "text": "Hey folks!\nI’m Swagata. I started my marketing career in FMCG- Godrej and thereafter moved to ICICI bank in Merchant Acquiring. Took a couple of years of break to enjoy motherhood and reskill myself. Since the last 6 years have been with B2b SaaS. Had started my  B2B SaaS journey as a freelance content writer, slowly graduated to Growth Marketer and now I head Marketing at CustomerSuccessBox. Have amazing marketing geeks in this group whom I have been following  and learning from  over LI. Looking forward to interacting with everyone and picking up some more marketing gyan..",
+    "user": "U03AUT302TU",
+    "ts": "1649689424.024489",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CXn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks!\nI’m Swagata. I started my marketing career in FMCG- Godrej and thereafter moved to ICICI bank in Merchant Acquiring. Took a couple of years of break to enjoy motherhood and reskill myself. Since the last 6 years have been with B2b SaaS. Had started my  B2B SaaS journey as a freelance content writer, slowly graduated to Growth Marketer and now I head Marketing at CustomerSuccessBox. Have amazing marketing geeks in this group whom I have been following  and learning from  over LI. Looking forward to interacting with everyone and picking up some more marketing gyan.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649689424.024489",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649826429.894219",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02PDC6B0HH",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02UG3G5X8B",
+          "U03AG8MUECT",
+          "U0380S2BZ9A",
+          "U03AUT302TU",
+          "U03A397SJCF",
+          "U02PDC4883V",
+          "U02ULCHDGB0",
+          "U02V9QUDK1Q",
+          "U032AUA6KFV",
+          "U02UJC6AT29",
+          "U0361UQSKGQ",
+          "U030ZR9D0FK",
+          "U031P3UUGN4",
+          "U02UJBHEQVA",
+          "U03A1M1L0PR",
+          "U02V92UN0Q2",
+          "U03AQFPP9BL"
+        ],
+        "count": 17
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "499f07d7-2091-435a-8bde-77531adf2202",
+    "type": "message",
+    "text": "Good evening folks! \nI am Shweta Shastri. Lately I have been working in the BFSI space with companies like HDFC securities, Kotak Mahindra Bank and currently with ICICI Prudential Life Insurance managing customer activation and retention with focus on Digital. \n\nHowever I started my career as a B2B marketeer with a start-up in the enterprise mobility space. \n\nGlad to connect and look forward to interacting with everyone...",
+    "user": "U0399M78R4M",
+    "ts": "1649686779.458219",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PVLQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good evening folks! \nI am Shweta Shastri. Lately I have been working in the BFSI space with companies like HDFC securities, Kotak Mahindra Bank and currently with ICICI Prudential Life Insurance managing customer activation and retention with focus on Digital. \n\nHowever I started my career as a B2B marketeer with a start-up in the enterprise mobility space. \n\nGlad to connect and look forward to interacting with everyone..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649686779.458219",
+    "reply_count": 8,
+    "reply_users_count": 8,
+    "latest_reply": "1649826517.817399",
+    "reply_users": [
+      "U039FQ2SNNN",
+      "U02TTEFFU6B",
+      "U02PDC6B0HH",
+      "U031JS3RF0V",
+      "U030KV8R8RL",
+      "U03B4FAM9FT",
+      "U0399M78R4M",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02V92UN0Q2",
+          "U03AG8MUECT",
+          "U03A397SJCF",
+          "U02ULCHDGB0",
+          "U02V9QUDK1Q",
+          "U0361UQSKGQ",
+          "U030ZR9D0FK",
+          "U031P3UUGN4",
+          "U031JS3RF0V",
+          "U02UJBHEQVA",
+          "U030KV8R8RL",
+          "U03A1M1L0PR",
+          "U02U6FZRHRV",
+          "U032AUA6KFV",
+          "U03AQFPP9BL"
+        ],
+        "count": 15
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      },
+      {
+        "name": "heart",
+        "users": [
+          "U030KV8R8RL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c5aafafe-22ab-4f83-89db-af65de0cc3a3",
+    "type": "message",
+    "text": "Hey everyone!\n\nI recently joined the Marketing team at Setu. Having done engineering, I joined YourStory straight out of college after <@U02V9QUDK1Q> was kind enough to offer me a role :stuck_out_tongue:. After, I was on the founding team of an early stage stock photo startup, and then did a couple of marketing stints across Logistics and Edtech at Lalamove and Masai School. In between, I have been consulting with some VC firms in content and brand marketing.\n\nI have worked across content marketing, brand marketing, product marketing, editorial, communications and public relations, a little bit of product and community. At Setu, I'd be owning a bunch of some of these functions as well.\n\nSuper glad to be here! :upside_down_face:",
+    "user": "U03A5S0KQMA",
+    "ts": "1649659833.505489",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03A5S0KQMA",
+      "ts": "1649659889.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bdf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone!\n\nI recently joined the Marketing team at Setu. Having done engineering, I joined YourStory straight out of college after "
+              },
+              {
+                "type": "user",
+                "user_id": "U02V9QUDK1Q"
+              },
+              {
+                "type": "text",
+                "text": " was kind enough to offer me a role "
+              },
+              {
+                "type": "emoji",
+                "name": "stuck_out_tongue"
+              },
+              {
+                "type": "text",
+                "text": ". After, I was on the founding team of an early stage stock photo startup, and then did a couple of marketing stints across Logistics and Edtech at Lalamove and Masai School. In between, I have been consulting with some VC firms in content and brand marketing.\n\nI have worked across content marketing, brand marketing, product marketing, editorial, communications and public relations, a little bit of product and community. At Setu, I'd be owning a bunch of some of these functions as well.\n\nSuper glad to be here! "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649659833.505489",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649826537.161389",
+    "reply_users": [
+      "U02UM0VU8MQ",
+      "U03A5S0KQMA",
+      "U038L2K4R08",
+      "U02PDC4883V",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03AQFPP9BL",
+          "U030ZR9D0FK",
+          "U02UM0VU8MQ",
+          "U031G83CGCQ",
+          "U03ABKDJQAD",
+          "U033RUXVCAY",
+          "U02PDC4883V",
+          "U03AG8MUECT",
+          "U03A1M1L0PR",
+          "U039L895FA4",
+          "U03A397SJCF",
+          "U031P3UUGN4"
+        ],
+        "count": 13
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02VA7QD8UB",
+          "U03ABKDJQAD",
+          "U0380S2BZ9A",
+          "U02V92UN0Q2",
+          "U0325QQQALR",
+          "U02UJBHEQVA",
+          "U02PDC4883V",
+          "U03AJ8BHKNC",
+          "U039VSWJ85V",
+          "U02UHQYEF70",
+          "U02URBKGVA7",
+          "U0361UQSKGQ"
+        ],
+        "count": 13
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "db80a4bd-963f-4684-b10e-a406c7da0e77",
+    "type": "message",
+    "text": "Hello Everyone,\n\nGood Evening!!\n\nI am the Director for Sales &amp; Partnerships at Jamsfy Technologies &amp; Auditzy Technologies. \n\nBelow are our website links -\n\n<http://www.auditzy.com/|www.auditzy.com/> <http://www.jamsfy.com|www.jamsfy.com> \n\nThanks,\nAniket",
+    "user": "U03B4FAM9FT",
+    "ts": "1649432189.915279",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03B4FAM9FT",
+      "ts": "1649432207.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dgJr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone,\n\nGood Evening!!\n\nI am the Director for Sales & Partnerships at Jamsfy Technologies & Auditzy Technologies. \n\nBelow are our website links -\n\n"
+              },
+              {
+                "type": "link",
+                "url": "http://www.auditzy.com/",
+                "text": "www.auditzy.com/"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://www.jamsfy.com",
+                "text": "www.jamsfy.com"
+              },
+              {
+                "type": "text",
+                "text": " \n\nThanks,\nAniket"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649432189.915279",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649436375.419179",
+    "reply_users": [
+      "U02PDC4883V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03AQFPP9BL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "15d49155-14bb-4176-bc40-98fbab6bfb87",
+    "type": "message",
+    "text": "Hey mates, this is Ankit Prakash, Founder of Aritic and EasySendy.\n\nWe run #b2b #SaaS #MarTech #Web3 into US, EU and ANZ markets.\n\nI'm active out here to learn and help community s11s to grow.\n\nPS: Mr. Obama, Sujan Patel &amp; several leaders follow me for insights on my <http://t.co|t.co> :slightly_smiling_face:\nBe like Obama!",
+    "user": "U03AQFPP9BL",
+    "ts": "1649420515.699309",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lEglK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey mates, this is Ankit Prakash, Founder of Aritic and EasySendy.\n\nWe run #b2b #SaaS #MarTech #Web3 into US, EU and ANZ markets.\n\nI'm active out here to learn and help community s11s to grow.\n\nPS: Mr. Obama, Sujan Patel & several leaders follow me for insights on my "
+              },
+              {
+                "type": "link",
+                "url": "http://t.co",
+                "text": "t.co"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\nBe like Obama!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649420515.699309",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1649659748.047369",
+    "reply_users": [
+      "U0362R42317",
+      "U02PDC4883V",
+      "U039FQ2SNNN",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U02V92UN0Q2",
+          "U02PDC4883V",
+          "U03B79HSV7S",
+          "U03AG8MUECT",
+          "U03560PQ082",
+          "U02V7TLU5HT",
+          "U02UJBHEQVA",
+          "U030EAA4YA2",
+          "U0380S2BZ9A",
+          "U0361UQSKGQ",
+          "U031P3UUGN4"
+        ],
+        "count": 12
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "62485c4e-7039-48f4-8747-fda2055e8eb3",
+    "type": "message",
+    "text": "Hey everyone,\n\nRatnakar here, from OkCredit. I take care of the overall SEO growth of the product. My previous stints include working with ed-tech and digital media companies like Testbook and NewsBytes in content marketing and SEO roles.\n\nI have been following the members of this community on LinkedIn for a while, and just got to know about this platform.\nExcited to be here and I would love to connect with you all on LinkedIn- <https://www.linkedin.com/in/ratnakar-shukla/|Ratnakar Shukla>\n\nCheers!",
+    "user": "U03AG8MUECT",
+    "ts": "1649399614.259219",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4eI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone,\n\nRatnakar here, from OkCredit. I take care of the overall SEO growth of the product. My previous stints include working with ed-tech and digital media companies like Testbook and NewsBytes in content marketing and SEO roles.\n\nI have been following the members of this community on LinkedIn for a while, and just got to know about this platform.\nExcited to be here and I would love to connect with you all on LinkedIn- "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/ratnakar-shukla/",
+                "text": "Ratnakar Shukla"
+              },
+              {
+                "type": "text",
+                "text": "\n\nCheers!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649399614.259219",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1649404380.375839",
+    "reply_users": [
+      "U039FQ2SNNN",
+      "U02TTEFFU6B",
+      "U03AG8MUECT",
+      "U02PDC4883V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U031KD0PNTX",
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U038V229WRZ",
+          "U02PDC4883V",
+          "U02UHQYEF70",
+          "U0325QQQALR",
+          "U0380S2BZ9A",
+          "U031P3UUGN4"
+        ],
+        "count": 9
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02ULCHDGB0",
+          "U03AQFPP9BL"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a7b02f38-485e-45ab-a8e3-c46b254f2a7c",
+    "type": "message",
+    "text": "Hello all, myself charmis pala. I am a marketer by passion and I practise SEO for a living. I've over a decade of experience in the same and have worked for organisations like - Cleartip, <http://Housing.com|Housing.com>, Hotstar etc. My current stint is with Games24x7 (rummycircle &amp; my11circle) I've been a ambassador for some of the tools like semrush &amp; apptweak and also have contributed my chapter about SEO in a book about growth hacking book - volume 2. I love to teach organic marketing (SEO) in my free time and have worked with institutes like upgrad and edupristine for the same.\n\nI'm here to network with marketers, startup founders and industry veterans and love to learn mutually. My linkedin can be accessed here - <https://in.linkedin.com/in/charmispala>\n\nLet's connect :)",
+    "user": "U039HLKQXSB",
+    "ts": "1649396154.506559",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U039HLKQXSB",
+      "ts": "1649396238.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eNMSg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello all, myself charmis pala. I am a marketer by passion and I practise SEO for a living. I've over a decade of experience in the same and have worked for organisations like - Cleartip, "
+              },
+              {
+                "type": "link",
+                "url": "http://Housing.com",
+                "text": "Housing.com"
+              },
+              {
+                "type": "text",
+                "text": ", Hotstar etc. My current stint is with Games24x7 (rummycircle & my11circle) I've been a ambassador for some of the tools like semrush & apptweak and also have contributed my chapter about SEO in a book about growth hacking book - volume 2. I love to teach organic marketing (SEO) in my free time and have worked with institutes like upgrad and edupristine for the same.\n\nI'm here to network with marketers, startup founders and industry veterans and love to learn mutually. My linkedin can be accessed here - "
+              },
+              {
+                "type": "link",
+                "url": "https://in.linkedin.com/in/charmispala"
+              },
+              {
+                "type": "text",
+                "text": "\n\nLet's connect :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649396154.506559",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1649397477.985519",
+    "reply_users": [
+      "U039FQ2SNNN",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U039FQ2SNNN",
+          "U030ZR9D0FK",
+          "U03A1M1L0PR",
+          "U02VAPDACUQ",
+          "U02V9QUDK1Q",
+          "U037UUE6TV3",
+          "U02V5F2JFME",
+          "U031P3UUGN4",
+          "U03AG8MUECT",
+          "U02UHQYEF70",
+          "U02V92UN0Q2",
+          "U031KD0PNTX",
+          "U0380S2BZ9A",
+          "U02VAM808KV",
+          "U02U6FZRHRV",
+          "U039L895FA4",
+          "U0361UQSKGQ"
+        ],
+        "count": 18
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02ULCHDGB0",
+          "U03AG8MUECT",
+          "U03AQFPP9BL"
+        ],
+        "count": 4
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "19add448-badf-40f6-8c73-fa045fcf43cb",
+    "type": "message",
+    "text": "Hey everyone, I’m new here to the community. It looks like a super active community, and I’m excited to learn from you folks.\n\nAnshul here, a Growth Product Manager at Typito (an online video editor). Primarily I work on optimizing the product funnels in the PLG engine and also, enabling the marketing team to scale their experiments to support the top of the funnel. I am always open to collaborating with small teams/individuals to brainstorm their ideas/strategies for product building. A cyclist, marathoner, and agriculture enthusiast based out of Haryana. Sometimes I write about real-life experiences at <http://akbansa.medium.com|akbansa.medium.com>\n\nP.S.- If anyone is looking out for a core/growth product guy in their teams, I am happy to chat.\n\nLI: <https://linkedin.com/in/akbansa>",
+    "user": "U03A397SJCF",
+    "ts": "1649353183.844719",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03A397SJCF",
+      "ts": "1649353191.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IC6P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone, I’m new here to the community. It looks like a super active community, and I’m excited to learn from you folks.\n\nAnshul here, a Growth Product Manager at Typito (an online video editor). Primarily I work on optimizing the product funnels in the PLG engine and also, enabling the marketing team to scale their experiments to support the top of the funnel. I am always open to collaborating with small teams/individuals to brainstorm their ideas/strategies for product building. A cyclist, marathoner, and agriculture enthusiast based out of Haryana. Sometimes I write about real-life experiences at "
+              },
+              {
+                "type": "link",
+                "url": "http://akbansa.medium.com",
+                "text": "akbansa.medium.com"
+              },
+              {
+                "type": "text",
+                "text": "\n\nP.S.- If anyone is looking out for a core/growth product guy in their teams, I am happy to chat.\n\nLI: "
+              },
+              {
+                "type": "link",
+                "url": "https://linkedin.com/in/akbansa"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649353183.844719",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649353227.727889",
+    "reply_users": [
+      "U03A397SJCF"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02UHQYEF70",
+          "U02URBKGVA7",
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U031P3UUGN4",
+          "U03ABKDJQAD",
+          "U02UJBHEQVA",
+          "U0380S2BZ9A",
+          "U0325QQQALR",
+          "U039L895FA4"
+        ],
+        "count": 11
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03ABKDJQAD",
+          "U03AQFPP9BL"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "92E76C3B-43DD-4061-9FFA-021123E28368",
+    "type": "message",
+    "text": "Hello everyone! \n\nYogesh here! I am a digital marketer and a content strategist.  have worked with more than a dozen early stage startups in last 10 years. Currently pivoting towards community driven content creation -Podcasting, newsletters, videos, et al. \n\n\nMore about me here - <http://yog.fyi|http://yog.fyi> \n\nGlad to be part of the group. \n\nLooking forward to learn from all you amazing folks here and to contribute in any way I can. ",
+    "user": "U031P3UUGN4",
+    "ts": "1649336642.070459",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ukc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone! \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Yogesh here! I am a digital marketer and a content strategist.  have worked with more than a dozen early stage startups in last 10 years. Currently pivoting towards community driven content creation -Podcasting, newsletters, videos, et al. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "More about me here - "
+              },
+              {
+                "type": "link",
+                "url": "http://yog.fyi",
+                "text": "http://yog.fyi"
+              },
+              {
+                "type": "text",
+                "text": " \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Glad to be part of the group. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Looking forward to learn from all you amazing folks here and to contribute in any way I can. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649336642.070459",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649351100.340689",
+    "reply_users": [
+      "U02PDC4883V",
+      "U031P3UUGN4"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02V92UN0Q2",
+          "U02UHQYEF70",
+          "U02V9QUDK1Q",
+          "U02UJBHEQVA",
+          "U038V229WRZ",
+          "U0325QQQALR",
+          "U039L895FA4"
+        ],
+        "count": 8
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03AQFPP9BL"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "61ad5f91-d98a-488b-bd46-e2a3ae65d657",
+    "type": "message",
+    "text": "Hii fellow members, \nGood afternoon. \n\n\nI am Anindya from Kolkata. Just got graduated last year &amp; currently working at CrazyTok. My role is around social media marketing &amp; community building. But as like all early stage startups, here everybody is doing everything too:) \n\n\nIn free time I love listening interviews, reading story books &amp; meeting new people. I am a hardcore quiz enthusiast also. \n\n\nI'm following Rohit &amp; Siddharth after I attended a webinar named as AllAboutSaaS &amp; got to know about this community from their linkedin feed. I dont know how can I contribute seriously, but hopefully I can be a good listener, a enthusiast learner &amp; the first one to reach if any community meet up is happening in Kolkata, West Bengal:) \n\n\nHoping to learn a lot from you all. \nAt last, thanks to <@U02TTEFFU6B> for giving me the opportunity to be a part of this community :spock-hand: \n\n\nThanks, \nAnindya \nLinkedIn: <https://www.linkedin.com/in/anindya-chakraborty-700126|https://www.linkedin.com/in/anindya-chakraborty-700126>",
+    "user": "U03AHQURB98",
+    "ts": "1649331665.568239",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03AHQURB98",
+      "ts": "1649331694.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NXkLu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hii fellow members, \nGood afternoon. \n\n\nI am Anindya from Kolkata. Just got graduated last year & currently working at CrazyTok. My role is around social media marketing & community building. But as like all early stage startups, here everybody is doing everything too:) \n\n\nIn free time I love listening interviews, reading story books & meeting new people. I am a hardcore quiz enthusiast also. \n\n\nI'm following Rohit & Siddharth after I attended a webinar named as AllAboutSaaS & got to know about this community from their linkedin feed. I dont know how can I contribute seriously, but hopefully I can be a good listener, a enthusiast learner & the first one to reach if any community meet up is happening in Kolkata, West Bengal:) \n\n\nHoping to learn a lot from you all. \nAt last, thanks to "
+              },
+              {
+                "type": "user",
+                "user_id": "U02TTEFFU6B"
+              },
+              {
+                "type": "text",
+                "text": " for giving me the opportunity to be a part of this community "
+              },
+              {
+                "type": "emoji",
+                "name": "spock-hand"
+              },
+              {
+                "type": "text",
+                "text": " \n\n\nThanks, \nAnindya \nLinkedIn: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/anindya-chakraborty-700126",
+                "text": "https://www.linkedin.com/in/anindya-chakraborty-700126"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649331665.568239",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649335113.162879",
+    "reply_users": [
+      "U02PDC4883V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U039L895FA4",
+          "U02V9QUDK1Q",
+          "U031G83CGCQ",
+          "U031KD0PNTX",
+          "U0325QQQALR",
+          "U02PDC4883V",
+          "U03560PQ082",
+          "U031P3UUGN4",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA"
+        ],
+        "count": 11
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02PDC4883V",
+          "U03AQFPP9BL"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2c4db617-94a2-4506-9003-cd4d8d883970",
+    "type": "message",
+    "text": "Hey everybody, I'm new here so thought of quickly introducing myself- \nI'm Chirag Parmar - Senior Growth Marketing Manager at WebEngage (a full-stack customer retention platform for consumer businesses). A big part of my role is hacking the inbound funnel and optimizing the Marketing - Sales handshake. I'm always on the look out to hone new skills and learn a thing or two from all the amazing folks in this community. As a side hustle, I'm also a Marketing consultant for a bunch of early stage startups - helping them get from 0-to-1.\n*Sub-note*: I'm an Author, an avid reader/learner and a Marking Ninja with diverse experience in both Digital and Field marketing. I'd be more than happy to connect/discuss/debate - ideas/roadblocks/dilemmas if any.\nStay safe! :v:",
+    "user": "U03A2UNJJDD",
+    "ts": "1649326092.838979",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03A2UNJJDD",
+      "ts": "1649326164.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d7=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everybody, I'm new here so thought of quickly introducing myself- \nI'm Chirag Parmar - Senior Growth Marketing Manager at WebEngage (a full-stack customer retention platform for consumer businesses). A big part of my role is hacking the inbound funnel and optimizing the Marketing - Sales handshake. I'm always on the look out to hone new skills and learn a thing or two from all the amazing folks in this community. As a side hustle, I'm also a Marketing consultant for a bunch of early stage startups - helping them get from 0-to-1.\n"
+              },
+              {
+                "type": "text",
+                "text": "Sub-note",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": I'm an Author, an avid reader/learner and a Marking Ninja with diverse experience in both Digital and Field marketing. I'd be more than happy to connect/discuss/debate - ideas/roadblocks/dilemmas if any.\nStay safe! "
+              },
+              {
+                "type": "emoji",
+                "name": "v"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649326092.838979",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1649394120.566639",
+    "reply_users": [
+      "U02PDC4883V",
+      "U03A2UNJJDD",
+      "U031QKGPNRK",
+      "U03A7KXT45S"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U030SDYNX7V",
+          "U030ZR9D0FK",
+          "U02V9QUDK1Q",
+          "U02UJBF2Y4C",
+          "U031P3UUGN4",
+          "U03847S3MJN"
+        ],
+        "count": 6
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U0380S2BZ9A",
+          "U02UHQYEF70",
+          "U0325QQQALR",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA",
+          "U03AQFPP9BL",
+          "U03847S3MJN"
+        ],
+        "count": 8
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e907ff87-e5f1-449f-9ad3-b4a0728fac9b",
+    "type": "message",
+    "text": "Hey Folks, Mitul here. I am a director of growth and marketing at BrowserStack. Glad to be part of the group. Would be fun to learn from all of you and contribute.",
+    "user": "U03AVMN9E5P",
+    "ts": "1649323459.717419",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1VU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Folks, Mitul here. I am a director of growth and marketing at BrowserStack. Glad to be part of the group. Would be fun to learn from all of you and contribute."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649323459.717419",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649326323.766339",
+    "reply_users": [
+      "U02PDC4883V",
+      "U033RUXVCAY"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U02V9QUDK1Q",
+          "U02USELSBRT",
+          "U0325QQQALR",
+          "U02UJBF2Y4C",
+          "U03560PQ082",
+          "U02PDC4883V",
+          "U038ZH5QQ04",
+          "U0380S2BZ9A",
+          "U03AJ8BHKNC",
+          "U031G83CGCQ",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA",
+          "U03A1M1L0PR",
+          "U02ULN6EFNV",
+          "U039PF71127"
+        ],
+        "count": 16
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02UFNZS7NW",
+          "U02UHQYEF70",
+          "U03560PQ082",
+          "U03AQFPP9BL"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8302feb7-c014-4aff-adb5-7bc833b9b473",
+    "type": "message",
+    "text": "Hello everyone, Harshwardhan here.\n\n1 year back I started my career in digital marketing as an Intern and currently I am managing a budget of INR 50 lakh for Amazon Ad campaigns.\n\nIt's an honour to be a part of this community.",
+    "user": "U03AEBRAQ4D",
+    "ts": "1649322209.374289",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2I9s9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone, Harshwardhan here.\n\n1 year back I started my career in digital marketing as an Intern and currently I am managing a budget of INR 50 lakh for Amazon Ad campaigns.\n\nIt's an honour to be a part of this community."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649322209.374289",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649325048.754299",
+    "reply_users": [
+      "U02UM0P72AE",
+      "U02PDC4883V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02UM0P72AE",
+          "U039L895FA4"
+        ],
+        "count": 2
+      },
+      {
+        "name": "+1::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U0325QQQALR",
+          "U0380S2BZ9A",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA",
+          "U03AQFPP9BL",
+          "U039PF71127"
+        ],
+        "count": 7
+      },
+      {
+        "name": "clap",
+        "users": [
+          "U02UHQYEF70",
+          "U030ZR9D0FK"
+        ],
+        "count": 2
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5d241f65-c848-4e17-a2e5-ecad05802219",
+    "type": "message",
+    "text": "Hello everyone, Rupesh here.\n\nI am a B2B SaaS generalist helping companies kickstart and grow their SaaS business.\n\nI am excited and happy to be part of this amazing community.\n\nI am here to share my experience and learn from others.\n\nHere's my LinkedIn profile. Love to get connected.\n<https://www.linkedin.com/in/rupeshghimire|https://www.linkedin.com/in/rupeshghimire>",
+    "user": "U03AGQ4LGEN",
+    "ts": "1649320030.658229",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uHHP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone, Rupesh here.\n\nI am a B2B SaaS generalist helping companies kickstart and grow their SaaS business.\n\nI am excited and happy to be part of this amazing community.\n\nI am here to share my experience and learn from others.\n\nHere's my LinkedIn profile. Love to get connected.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/rupeshghimire",
+                "text": "https://www.linkedin.com/in/rupeshghimire"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649320030.658229",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649326561.054169",
+    "reply_users": [
+      "U038W1678JX",
+      "U03AGQ4LGEN"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03AQFPP9BL"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02UHQYEF70",
+          "U039L895FA4",
+          "U0380S2BZ9A",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA",
+          "U039PF71127"
+        ],
+        "count": 7
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5166a2b2-9ece-478a-bdbd-9c6bdc2e2fee",
+    "type": "message",
+    "text": "Hello Folks,\n\nI am Sanmaya Biswal and I work as Growth and Performance Marketer in Neeman's ( India's Fastest Growing Footwear D2C startup ) ecommerce is fairly new for me but  I have been working with SaaS companies while I was a Freelance Growth Consultant and being a Growth Marketer I :heart: SaaS products and want to connect with you guys for some intresting Conversation\n\nWould love to get connected on Linkedin:\n<https://www.linkedin.com/in/sanmayabiswal/>",
+    "user": "U03AG8VB44S",
+    "ts": "1649317773.471269",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "77gF3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Folks,\n\nI am Sanmaya Biswal and I work as Growth and Performance Marketer in Neeman's ( India's Fastest Growing Footwear D2C startup ) ecommerce is fairly new for me but  I have been working with SaaS companies while I was a Freelance Growth Consultant and being a Growth Marketer I "
+              },
+              {
+                "type": "emoji",
+                "name": "heart"
+              },
+              {
+                "type": "text",
+                "text": " SaaS products and want to connect with you guys for some intresting Conversation\n\nWould love to get connected on Linkedin:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/sanmayabiswal/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649317773.471269",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649323295.212309",
+    "reply_users": [
+      "U038W1678JX",
+      "U03AG8VB44S"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U031KD0PNTX",
+          "U030ZR9D0FK",
+          "U02V9QUDK1Q",
+          "U02UHQYEF70",
+          "U039L895FA4",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA",
+          "U03A1M1L0PR",
+          "U03AQFPP9BL"
+        ],
+        "count": 9
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "91a66be4-f470-489e-b851-d425cf8a1218",
+    "type": "message",
+    "text": "Hello :wave:\nI am Lakshmanan and I lead Growth marketing for Vmaker from Animaker. I recently heard about S11 community after the Chennai meet up and glad to be a part of it now.\nLooking forward to learn and be a part of some interesting conversations.\n<https://www.linkedin.com/in/lakshmanan-r/>",
+    "user": "U03AGB421HQ",
+    "ts": "1649309827.948689",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4jNP/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": "\nI am Lakshmanan and I lead Growth marketing for Vmaker from Animaker. I recently heard about S11 community after the Chennai meet up and glad to be a part of it now.\nLooking forward to learn and be a part of some interesting conversations.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/lakshmanan-r/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649309827.948689",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1649701795.292749",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02PDC6B0HH",
+      "U038W1678JX",
+      "U0325QQQALR",
+      "U03AGB421HQ"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U039L895FA4"
+        ],
+        "count": 3
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03A1M1L0PR",
+          "U02UHQYEF70",
+          "U035SL5MWPM",
+          "U031KD0PNTX",
+          "U0325QQQALR",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA",
+          "U03AQFPP9BL"
+        ],
+        "count": 9
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3aca17dd-9bde-428a-8615-8c7b7dd6456d",
+    "type": "message",
+    "text": "Hey Folks, Gupil Here.\n\nA SaaS marketer and budding Growth person.\n\nBeen following Rohit's write-ups for sometime and the community is just too good.\n\nYou can reach me here or at LinkedIn\n\n<https://www.linkedin.com/in/gupil-bhutani|https://www.linkedin.com/in/gupil-bhutani>",
+    "user": "U03A1LDE9PH",
+    "ts": "1649308977.218759",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2ZxS/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Folks, Gupil Here.\n\nA SaaS marketer and budding Growth person.\n\nBeen following Rohit's write-ups for sometime and the community is just too good.\n\nYou can reach me here or at LinkedIn\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/gupil-bhutani",
+                "text": "https://www.linkedin.com/in/gupil-bhutani"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649308977.218759",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1649309999.831269",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02TTEFFU6B",
+      "U03A1LDE9PH"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U0325QQQALR",
+          "U02V92UN0Q2",
+          "U02UJBHEQVA"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0dcd5504-ddd9-4694-96ae-aa7f8cfb7679",
+    "type": "message",
+    "text": "LinkedIn: <https://www.linkedin.com/in/singh-neeraj/>",
+    "user": "U03A1M1L0PR",
+    "ts": "1649308722.853749",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03A1M1L0PR",
+      "ts": "1649308753.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EZE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "LinkedIn: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/singh-neeraj/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f77ccebd-c6b2-48b9-88e6-907eeedb61bd",
+    "type": "message",
+    "text": ":wave: Hi everyone! My name is Neeraj. I have been following Siddharth and Rohit's content on LinkedIn for a while, that is where I got to know about this community. Really glad to be part of it and looking forward to exponential learning and contribution.",
+    "user": "U03A1M1L0PR",
+    "ts": "1649308679.014099",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A0Av0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": " Hi everyone! My name is Neeraj. I have been following Siddharth and Rohit's content on LinkedIn for a while, that is where I got to know about this community. Really glad to be part of it and looking forward to exponential learning and contribution."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649308679.014099",
+    "reply_count": 11,
+    "reply_users_count": 4,
+    "latest_reply": "1649313362.882679",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U02PDC4883V",
+      "U02TTEFFU6B",
+      "U02USELSBRT"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02UHQYEF70",
+          "U02V92UN0Q2",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "801366E1-92BC-4F6B-BCBF-2A12064268F3",
+    "type": "message",
+    "text": "Hey folks, I am an ex-marketer &amp; (multiple times) failed entrepreneur, trying my luck at business &amp; strategy consulting these days. Currently in between gurgaon and cochin. Details about my mis-adventures here: <http://linkedin.com/in/doulosjose|linkedin.com/in/doulosjose>\n\nLet me know if I can be of any assistance, been dabbling a bit in international expansion, enterprise tech sales/growth &amp; cloud kitchens, in recent years.",
+    "user": "U03AJ8BHKNC",
+    "ts": "1649242865.260309",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=xPW5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks, I am an ex-marketer & (multiple times) failed entrepreneur, trying my luck at business & strategy consulting these days. Currently in between gurgaon and cochin. Details about my mis-adventures here: "
+              },
+              {
+                "type": "link",
+                "url": "http://linkedin.com/in/doulosjose",
+                "text": "linkedin.com/in/doulosjose"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Let me know if I can be of any assistance, been dabbling a bit in international expansion, enterprise tech sales/growth & cloud kitchens, in recent years."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649242865.260309",
+    "reply_count": 10,
+    "reply_users_count": 6,
+    "latest_reply": "1649329172.821659",
+    "reply_users": [
+      "U031QKGPNRK",
+      "U03AJ8BHKNC",
+      "U02UUCE1ASD",
+      "U030M1LS1L2",
+      "U02ULN6EFNV",
+      "U0325QQQALR"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U039L895FA4",
+          "U02PDC4883V",
+          "U02UUCE1ASD",
+          "U03ABKDJQAD",
+          "U02UJ3N39PF",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 8
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U039L895FA4",
+          "U031KD0PNTX",
+          "U02V92UN0Q2",
+          "U02PDC4883V",
+          "U0380S2BZ9A",
+          "U0320BWGR41",
+          "U03ABKDJQAD",
+          "U02UHQYEF70",
+          "U02UJBHEQVA",
+          "U0325QQQALR"
+        ],
+        "count": 11
+      },
+      {
+        "name": "raised_hands::skin-tone-3",
+        "users": [
+          "U031QKGPNRK"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-3",
+        "users": [
+          "U03A7KXT45S"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a47cc94a-32a9-44ee-bec3-d4d6cc1a0fc0",
+    "type": "message",
+    "text": "Hey all! Just joined this community yesterday and already glued into the exchanges happening here. :smile:\nI am Shruti, graduated from Christ University some time back with a Communications degree and that got my career kickstarted. I have worked in PR for over 3 years at Edelman, then with LBB for brand solutions and strategy for close to 4 years. Currently, I lead creative content strategy for Tally Solutions (one of the leading business management software for SMEs). It's been quite a ride in the last 6 months that I've been working with them by constantly trying to do something hatke. :woman-surfing:\nHere to pick your brains and lend some of mine for adding some 'sass' to SaaS marketing in the best possible way :eyes: Alsooo, *if anyone has experience navigating waters towards causing disruption (of processes, marketing, structures etc.) in a deep-rooted mid-scale organisation, would love to chat!* :upside_down_face:\n\n*LinkedIn:* <https://www.linkedin.com/in/shrutisah/>\n*Instagram:* @shrutisah\n*Twitter:* <https://twitter.com/shrutisah27> (mostly scrolling though)",
+    "user": "U03A7KXT45S",
+    "ts": "1649226704.479599",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sh+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all! Just joined this community yesterday and already glued into the exchanges happening here. "
+              },
+              {
+                "type": "emoji",
+                "name": "smile"
+              },
+              {
+                "type": "text",
+                "text": "\nI am Shruti, graduated from Christ University some time back with a Communications degree and that got my career kickstarted. I have worked in PR for over 3 years at Edelman, then with LBB for brand solutions and strategy for close to 4 years. Currently, I lead creative content strategy for Tally Solutions (one of the leading business management software for SMEs). It's been quite a ride in the last 6 months that I've been working with them by constantly trying to do something hatke. "
+              },
+              {
+                "type": "emoji",
+                "name": "woman-surfing"
+              },
+              {
+                "type": "text",
+                "text": "\nHere to pick your brains and lend some of mine for adding some 'sass' to SaaS marketing in the best possible way "
+              },
+              {
+                "type": "emoji",
+                "name": "eyes"
+              },
+              {
+                "type": "text",
+                "text": " Alsooo, "
+              },
+              {
+                "type": "text",
+                "text": "if anyone has experience navigating waters towards causing disruption (of processes, marketing, structures etc.) in a deep-rooted mid-scale organisation, would love to chat! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "LinkedIn: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/shrutisah/"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Instagram: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "@shrutisah\n"
+              },
+              {
+                "type": "text",
+                "text": "Twitter:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/shrutisah27"
+              },
+              {
+                "type": "text",
+                "text": " (mostly scrolling though)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649226704.479599",
+    "reply_count": 11,
+    "reply_users_count": 8,
+    "latest_reply": "1649592611.611309",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U03ABKDJQAD",
+      "U02USELSBRT",
+      "U02PDC4883V",
+      "U031QKGPNRK",
+      "U03A7KXT45S",
+      "U03AJ8BHKNC",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U03ABKDJQAD",
+          "U037UUE6TV3",
+          "U02PDC4883V",
+          "U02U6FZRHRV",
+          "U02V9QUDK1Q",
+          "U031P3UUGN4",
+          "U039L895FA4",
+          "U02V92UN0Q2",
+          "U03996E48LB",
+          "U0380S2BZ9A",
+          "U02VA7QD8UB",
+          "U02UJBHEQVA",
+          "U0325QQQALR",
+          "U031JS3RF0V"
+        ],
+        "count": 14
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03ABKDJQAD",
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U039L895FA4",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 6
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e045fe31-8d53-47d7-8c43-885ca552e5b9",
+    "type": "message",
+    "text": "I am Amrutha Jalihal, a marketeer at Setu (a fintech start-up!). I’m from Namma Bengaluru and consider myself an expert on the city. I graduated as a lawyer and abandoned the legal fraternity quite soon, to then work at agencies like Homegrown and Little Black Book (LBB).\n\nAt Setu, I take care of brand marketing and community. Quite excited to be a part of this group and I look forward to meeting you all soon. :slightly_smiling_face:\n\nLinkedIn: <https://www.linkedin.com/in/amrutha-jalihal-78758870/>\nTwitter: <https://twitter.com/AmruthaJalihal>",
+    "user": "U03ABKDJQAD",
+    "ts": "1649140234.214559",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JUy3f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am Amrutha Jalihal, a marketeer at Setu (a fintech start-up!). I’m from Namma Bengaluru and consider myself an expert on the city. I graduated as a lawyer and abandoned the legal fraternity quite soon, to then work at agencies like Homegrown and Little Black Book (LBB).\n\nAt Setu, I take care of brand marketing and community. Quite excited to be a part of this group and I look forward to meeting you all soon. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\n\nLinkedIn: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/amrutha-jalihal-78758870/"
+              },
+              {
+                "type": "text",
+                "text": "\nTwitter: "
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/AmruthaJalihal"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649140234.214559",
+    "reply_count": 10,
+    "reply_users_count": 8,
+    "latest_reply": "1649589148.063939",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02PDC6B0HH",
+      "U03ABKDJQAD",
+      "U03A7KXT45S",
+      "U030N8RHURZ",
+      "U031QKGPNRK",
+      "U033RUXVCAY",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U0309B5AYTB",
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U02PDC6B0HH",
+          "U030ZR9D0FK",
+          "U02U6FZRHRV",
+          "U039L895FA4",
+          "U032AUA6KFV",
+          "U038V229WRZ",
+          "U02UHQYEF70",
+          "U02V75V0YBX",
+          "U02UM0VU8MQ",
+          "U031P3UUGN4",
+          "U0380S2BZ9A",
+          "U02URBKGVA7",
+          "U03996E48LB",
+          "U02UJBHEQVA",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 20
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U031JS3RF0V"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-4",
+        "users": [
+          "U02TTEFFU6B"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands::skin-tone-4",
+        "users": [
+          "U02TTEFFU6B"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9fe69f4f-1e1b-4a94-ab48-99f8b5fac730",
+    "type": "message",
+    "text": "Hello, wonderful people of the s11s community! :wave:\nI joined the group a few days back, but did not get a chance to properly induct myself into it, so, doing that now…\n_Full disclosure: I’m in Sales, BUT, not here to infiltrate the troops, I promise!! Only here to learn. (I am a HUGE proponent of the notion that Sales &amp; Marketing should be steadfast friends and not foes._:handshake:_)_\nA little bit about me from the professional perspective- I’ve been in SaaS throughout my 8.5-yr long career; have helped build Cvent, Wingify, Whatfix, Fyle, Stack Overflow (SaaS vertical), and am currently heading sales at a startup called Polymerize.\nOn the personal front, reading, exploring nature trails, writing, spiralling down rabbit holes of random videos/Wikis, and petting every dog I see are activities that interest me most.\nHere because I’m keenly interested in understanding what trials &amp; tribulations plague the SaaS Marketing community these days, and what solutions exist for said trials &amp; tribulations…. Aaaand also because I am on a personal mission of trying to make my founders understand that we will not be able to do sh*t (pardon my French) until &amp; unless we have our Marketing engine in place, but more on that later.\n*Very excited to be a part of this community, and to learn from everyone!* :grinning:",
+    "user": "U03847S3MJN",
+    "ts": "1649083224.263909",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=wq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello, wonderful people of the s11s community! "
+              },
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": "\nI joined the group a few days back, but did not get a chance to properly induct myself into it, so, doing that now…\n"
+              },
+              {
+                "type": "text",
+                "text": "Full disclosure: I’m in Sales, BUT, not here to infiltrate the troops, I promise!! Only here to learn. (I am a HUGE proponent of the notion that Sales & Marketing should be steadfast friends and not foes.",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "handshake",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nA little bit about me from the professional perspective- I’ve been in SaaS throughout my 8.5-yr long career; have helped build Cvent, Wingify, Whatfix, Fyle, Stack Overflow (SaaS vertical), and am currently heading sales at a startup called Polymerize.\nOn the personal front, reading, exploring nature trails, writing, spiralling down rabbit holes of random videos/Wikis, and petting every dog I see are activities that interest me most.\nHere because I’m keenly interested in understanding what trials & tribulations plague the SaaS Marketing community these days, and what solutions exist for said trials & tribulations…. Aaaand also because I am on a personal mission of trying to make my founders understand that we will not be able to do sh*t (pardon my French) until & unless we have our Marketing engine in place, but more on that later.\n"
+              },
+              {
+                "type": "text",
+                "text": "Very excited to be a part of this community, and to learn from everyone! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "grinning",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649083224.263909",
+    "reply_count": 14,
+    "reply_users_count": 8,
+    "latest_reply": "1649745856.592269",
+    "reply_users": [
+      "U02UUCE1ASD",
+      "U03847S3MJN",
+      "U02USELSBRT",
+      "U02TTEFFU6B",
+      "U02PDC4883V",
+      "U02PDC6B0HH",
+      "U02ULN6EFNV",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U02UHQYEF70",
+          "U02V92UN0Q2",
+          "U035SL5MWPM",
+          "U0325QQQALR",
+          "U02ULN6EFNV",
+          "U02URBKGVA7",
+          "U02U6FZRHRV",
+          "U031KD0PNTX",
+          "U032AUA6KFV",
+          "U031P3UUGN4",
+          "U0380S2BZ9A",
+          "U02UJBHEQVA",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 16
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U038WUXP1N1",
+          "U039L895FA4",
+          "U030QT8S084",
+          "U02URBKGVA7",
+          "U031JS3RF0V"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5298535C-B521-4E17-A2B2-4BD461A7F4CA",
+    "type": "message",
+    "text": "I got to know this community from <@U02VBQCQ7EG> LinkedIn post . I am Balaji , I take care of Digital Marketing, Demand Generation, Product Marketing at TAC security. Happy to part of this community, would open to 1:1 meeting.",
+    "user": "U039J70Q9MM",
+    "ts": "1649076993.300189",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jd=RT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got to know this community from "
+              },
+              {
+                "type": "user",
+                "user_id": "U02VBQCQ7EG"
+              },
+              {
+                "type": "text",
+                "text": " LinkedIn post . I am Balaji , I take care of Digital Marketing, Demand Generation, Product Marketing at TAC security. Happy to part of this community, would open to 1:1 meeting."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U031KD0PNTX",
+          "U038W1678JX",
+          "U039L895FA4",
+          "U02UHQYEF70",
+          "U02V92UN0Q2",
+          "U02URBKGVA7",
+          "U02U6FZRHRV",
+          "U0380S2BZ9A",
+          "U02UJBHEQVA",
+          "U03AQFPP9BL"
+        ],
+        "count": 11
+      }
+    ]
+  },
+  {
+    "client_msg_id": "76b84931-a152-49cc-a7e7-a9cfd1596c43",
+    "type": "message",
+    "text": "Hello all,\n\nI have been following s11s for a while now and finally got myself added here. Super thrilled to be part of this community. Looking forward to learn and grow.\n\nThis is Rashmica and I currently lead Revenue Marketing for Mad Street Den. I take care of Digital marketing &amp; Demand Gen Strategy &amp; Ops here.\n\nYou can find me here - <https://www.linkedin.com/in/rashmica-rajendhran/>",
+    "user": "U03AA8A64U9",
+    "ts": "1649063332.273159",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AXB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello all,\n\nI have been following s11s for a while now and finally got myself added here. Super thrilled to be part of this community. Looking forward to learn and grow.\n\nThis is Rashmica and I currently lead Revenue Marketing for Mad Street Den. I take care of Digital marketing & Demand Gen Strategy & Ops here.\n\nYou can find me here - "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/rashmica-rajendhran/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649063332.273159",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649589072.458169",
+    "reply_users": [
+      "U02PDC4883V",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U039L895FA4",
+          "U02U6FZRHRV",
+          "U02V9QUDK1Q",
+          "U037UUE6TV3",
+          "U02V92UN0Q2",
+          "U0325QQQALR",
+          "U031KD0PNTX",
+          "U02URBKGVA7",
+          "U02UHQYEF70",
+          "U03ABKDJQAD",
+          "U0380S2BZ9A",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 13
+      },
+      {
+        "name": "fire",
+        "users": [
+          "U035SL5MWPM",
+          "U03ABKDJQAD"
+        ],
+        "count": 2
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U03ABKDJQAD"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1412c211-d7cd-40bb-b73e-286991385b37",
+    "type": "message",
+    "text": "Hello friends, intro padh lo!\n\nI'm Dishant, co-founder of Prodraft (<http://prodraft.in|prodraft.in>), a content writing agency. We deal and specialize in managing and writing bulk volume of long form content.\n\nWe also do product descriptions, emailers, case studies, video scripts, transcription, etc.\n\nI'm also working on a one of its kind SaaS product for agencies, content marketing teams and freelancers.\n\nLastly, I also run a merchant export firm where we export engineering and ceramic products to Africa and Gulf.\n\nI am glad that I will soon get to meet and know wonderful people from this community.\n\nI am available on LinkedIn for a random conversation anytime: <https://www.linkedin.com/in/dishantashah/>.",
+    "user": "U039X1ZS1QA",
+    "ts": "1649057500.060939",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qRkq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello friends, intro padh lo!\n\nI'm Dishant, co-founder of Prodraft ("
+              },
+              {
+                "type": "link",
+                "url": "http://prodraft.in",
+                "text": "prodraft.in"
+              },
+              {
+                "type": "text",
+                "text": "), a content writing agency. We deal and specialize in managing and writing bulk volume of long form content.\n\nWe also do product descriptions, emailers, case studies, video scripts, transcription, etc.\n\nI'm also working on a one of its kind SaaS product for agencies, content marketing teams and freelancers.\n\nLastly, I also run a merchant export firm where we export engineering and ceramic products to Africa and Gulf.\n\nI am glad that I will soon get to meet and know wonderful people from this community.\n\nI am available on LinkedIn for a random conversation anytime: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/dishantashah/"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UJBHEQVA",
+          "U039L895FA4",
+          "U02U6FZRHRV",
+          "U02V92UN0Q2",
+          "U031KD0PNTX",
+          "U02URBKGVA7",
+          "U02UHQYEF70",
+          "U038V229WRZ",
+          "U038S3E22GM",
+          "U0380S2BZ9A",
+          "U03AQFPP9BL",
+          "U039X1ZS1QA"
+        ],
+        "count": 12
+      }
+    ]
+  },
+  {
+    "client_msg_id": "29458b09-655b-4e57-8cad-47dfbe14e540",
+    "type": "message",
+    "text": "Hey all, I'm seeing a lot of LinkedIn posts from marketers about s11s and thought of joining in (fomo is real :smile:). Being a passive LinkedIn user, I already follow Shafique's sarcastic posts along with Rohit, Siddharth and Anuj's content. Felt s11s might help me connect with more interesting folks.\n\nI am working as a Product Marketing Manager for <http://Builder.ai|Builder.ai> and taking care of the GTM, personas, messaging, sale enablement and customer stories. Prior to this, I was the first marketer for JustCall (SaaS Labs), led a team of 7 and was part of the 1 to $10m journey. Here's <https://www.linkedin.com/in/abhishek-shankar1995/|my LinkedIn profile>\n\nQuick qus- what is the meaning of s11s?",
+    "user": "U03A7FTGUJU",
+    "ts": "1649055808.114679",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sQOA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all, I'm seeing a lot of LinkedIn posts from marketers about s11s and thought of joining in (fomo is real "
+              },
+              {
+                "type": "emoji",
+                "name": "smile"
+              },
+              {
+                "type": "text",
+                "text": "). Being a passive LinkedIn user, I already follow Shafique's sarcastic posts along with Rohit, Siddharth and Anuj's content. Felt s11s might help me connect with more interesting folks.\n\nI am working as a Product Marketing Manager for "
+              },
+              {
+                "type": "text",
+                "text": "Builder.ai",
+                "style": {
+                  "unlink": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " and taking care of the GTM, personas, messaging, sale enablement and customer stories. Prior to this, I was the first marketer for JustCall (SaaS Labs), led a team of 7 and was part of the 1 to $10m journey. Here's "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/abhishek-shankar1995/",
+                "text": "my LinkedIn profile"
+              },
+              {
+                "type": "text",
+                "text": "\n\nQuick qus- what is the meaning of s11s?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649055808.114679",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649057901.895299",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U02PDC6B0HH",
+      "U02PDC4883V",
+      "U03A7FTGUJU"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02PDC4883V",
+          "U02ULN6EFNV",
+          "U039L895FA4",
+          "U039L0HCSHW",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 7
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02PDC4883V",
+          "U02UJBHEQVA",
+          "U02V92UN0Q2",
+          "U02URBKGVA7",
+          "U02UHQYEF70",
+          "U0380S2BZ9A"
+        ],
+        "count": 7
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bb51bbb2-7643-4643-9980-dbfee7f93f96",
+    "type": "message",
+    "text": "Hey there...somehow missed giving an intro\nI am Dhriti Goyal... Product marketer at Pepper Content. Currently, the major focus in my job is sales enablement, messaging and product adoption. Request you experts out there to give a shoutout if you have mastered any of these skills.\nI am available on Linkedin. <https://www.linkedin.com/in/dhriti-goyal/|LINK HERE>",
+    "user": "U031RCMMT5E",
+    "ts": "1649049747.603689",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wSd+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey there...somehow missed giving an intro\nI am Dhriti Goyal... Product marketer at Pepper Content. Currently, the major focus in my job is sales enablement, messaging and product adoption. Request you experts out there to give a shoutout if you have mastered any of these skills.\nI am available on Linkedin. "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/dhriti-goyal/",
+                "text": "LINK HERE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649049747.603689",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1650276989.825129",
+    "reply_users": [
+      "U02PDC4883V",
+      "U031JS3RF0V",
+      "U02ULN6EFNV",
+      "U031RCMMT5E"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02UHQYEF70",
+          "U031KD0PNTX",
+          "U02UJBHEQVA",
+          "U031JS3RF0V",
+          "U02U6FZRHRV",
+          "U039L895FA4",
+          "U02V92UN0Q2",
+          "U02URBKGVA7",
+          "U03AQFPP9BL"
+        ],
+        "count": 10
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "blossom",
+        "users": [
+          "U031JS3RF0V",
+          "U039L895FA4"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "82fc2141-697b-4f59-b4a8-d85be1032c01",
+    "type": "message",
+    "text": "Hi People! I'm Divya Murthy Vinaayak - a budding entrepreneur from Chennai who is in the process of building ListEz - a B2B saas platform for the real estate community. With the experience of being a broker myself in the industry for a couple of years, the need to organize the process and operations is much needed to break some boundaries and take the industry to the next level through technology.\n\nApart from building this proptech startup, I am also a mother of a 4 year old - trying to balance parenting and entrepreneurship while nearing my 30's. \n\nIts so inspiring to see such a community giving hand to one another. Looking forward to a lot of learning,sharing and inspiration :)\n\nYou can find me here - <https://www.linkedin.com/in/divya-murthy-vinaayak|https://www.linkedin.com/in/divya-murthy-vinaayak>",
+    "user": "U039XA9PL9J",
+    "ts": "1648953903.861889",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U039XA9PL9J",
+      "ts": "1648953944.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o75F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi People! I'm Divya Murthy Vinaayak - a budding entrepreneur from Chennai who is in the process of building ListEz - a B2B saas platform for the real estate community. With the experience of being a broker myself in the industry for a couple of years, the need to organize the process and operations is much needed to break some boundaries and take the industry to the next level through technology.\n\nApart from building this proptech startup, I am also a mother of a 4 year old - trying to balance parenting and entrepreneurship while nearing my 30's. \n\nIts so inspiring to see such a community giving hand to one another. Looking forward to a lot of learning,sharing and inspiration :)\n\nYou can find me here - "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/divya-murthy-vinaayak",
+                "text": "https://www.linkedin.com/in/divya-murthy-vinaayak"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648953903.861889",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649052391.826449",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02TTEFFU6B",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U031AUATXA4",
+          "U038V229WRZ",
+          "U02V9QUDK1Q",
+          "U039MLMNSQH",
+          "U030SDYNX7V",
+          "U031KD0PNTX",
+          "U02UJBHEQVA",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 10
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "36EAE2AB-3567-4D83-83C9-33BBBB155AB1",
+    "type": "message",
+    "text": "Hey people!\n\nI’m Bharath Vittal, part of the content team from PipeCandy. Very fresh to content marketing and just love this idea of a community to seek answers from the go-getters themselves. \n\nSpent some good 10 minutes and I’m bookmarking pretty much everything on the content marketing channel. Great platform and looking forward to learn from y’all. \n\nFind me here - <https://www.linkedin.com/in/bharath-v-737456b5|https://www.linkedin.com/in/bharath-v-737456b5>\n",
+    "user": "U039H3ZSRD3",
+    "ts": "1648753878.748829",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U039H3ZSRD3",
+      "ts": "1648800000.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/newsletters/pipecandy-memo-6889088758306762753",
+        "thumb_url": "https://media-exp1.licdn.com/dms/image/C5612AQFimkOhAEd3Vw/series-logo_image-shrink_100_100/0/1642486706434?e=1654128000&v=beta&t=3GPG2Gli6dc2v2AxKNZOitfpjBfW2etcxoNLPCJ0fvo",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/newsletters/pipecandy-memo-6889088758306762753",
+        "fallback": "PipeCandy Memo | LinkedIn",
+        "text": "Ashwin Ramasamy | Original insights on eCommerce and DTC markets powered by PipeCandy data and the writers' curiosity",
+        "title": "PipeCandy Memo | LinkedIn",
+        "title_link": "https://www.linkedin.com/newsletters/pipecandy-memo-6889088758306762753",
+        "service_name": "linkedin.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zEPpe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey people!\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "I’m Bharath Vittal, part of the content team from PipeCandy. Very fresh to content marketing and just love this idea of a community to seek answers from the go-getters themselves. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Spent some good 10 minutes and I’m bookmarking pretty much everything on the content marketing channel. Great platform and looking forward to learn from y’all. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Find me here - "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/bharath-v-737456b5",
+                "text": "https://www.linkedin.com/in/bharath-v-737456b5"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648753878.748829",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1648754420.202029",
+    "reply_users": [
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U039L895FA4"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U038V229WRZ",
+          "U039L895FA4",
+          "U02URBKGVA7",
+          "U02UJBHEQVA",
+          "U02U6FZRHRV",
+          "U031KD0PNTX",
+          "U0380S2BZ9A"
+        ],
+        "count": 8
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b7124005-08e9-4db3-a754-17fb40beafbc",
+    "type": "message",
+    "text": "Hi everyone,\nI'm Shwetha. Product Marketer at Springworks, working under Abhash. I heard a lot about this group and wanted to learn from all the experts here. Excited to be here and to to be resourceful in whatever way possible.\n\n<https://www.linkedin.com/in/shwethaparshi/>",
+    "user": "U038GCYAUB1",
+    "ts": "1648728353.777009",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "czOz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone,\nI'm Shwetha. Product Marketer at Springworks, working under Abhash. I heard a lot about this group and wanted to learn from all the experts here. Excited to be here and to to be resourceful in whatever way possible.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/shwethaparshi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648728353.777009",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1648731922.654809",
+    "reply_users": [
+      "U038W1678JX",
+      "U031G83CGCQ",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U030SDYNX7V",
+          "U02PDC4883V",
+          "U03560PQ082",
+          "U02USELSBRT",
+          "U039PF71127",
+          "U03AQFPP9BL"
+        ],
+        "count": 7
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U0316818QSH",
+          "U02V92UN0Q2",
+          "U02U6FZRHRV",
+          "U038ZH5QQ04",
+          "U031BVBGHCK",
+          "U02PDC4883V",
+          "U03560PQ082",
+          "U031JS3RF0V",
+          "U02URBKGVA7",
+          "U038V229WRZ",
+          "U02UJBHEQVA",
+          "U0380S2BZ9A"
+        ],
+        "count": 12
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6E185460-CA0A-4106-909A-FB27343B43A0",
+    "type": "message",
+    "text": "Hello everyone!\n\nIt's an absolute pleasure to be a part of this tribe of hustlers. \nI am Priyanka and have had the opportunity of working with startups and scaling them up for mergers and fundings. I am currently working with a company which is serves as AI enabler for life sciences organisations. More about me can be seen here: <https://www.linkedin.com/in/priyankaishere|https://www.linkedin.com/in/priyankaishere>\n\nWould love to connect with you folks on LinkedIn in too. \n\nHave a great day !\n\nPriyanka ",
+    "user": "U0391G44U87",
+    "ts": "1648713894.859539",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BYQz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone!\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "It's an absolute pleasure to be a part of this tribe of hustlers. \nI am Priyanka and have had the opportunity of working with startups and scaling them up for mergers and fundings. I am currently working with a company which is serves as AI enabler for life sciences organisations. More about me can be seen here: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/priyankaishere",
+                "text": "https://www.linkedin.com/in/priyankaishere"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Would love to connect with you folks on LinkedIn in too. \n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Have a great day !\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Priyanka "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648713894.859539",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1648748515.111839",
+    "reply_users": [
+      "U038W1678JX",
+      "U0391G44U87",
+      "U031G83CGCQ",
+      "U02PDC4883V",
+      "U031JS3RF0V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U02V9QUDK1Q",
+          "U039HU366EQ",
+          "U038V229WRZ",
+          "U02UJBHEQVA",
+          "U02URBKGVA7",
+          "U02UFCPL84F",
+          "U039L0HCSHW",
+          "U0380S2BZ9A",
+          "U03AQFPP9BL"
+        ],
+        "count": 10
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U039HU366EQ"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f3772b0b-69ba-48c0-975f-444d7e94aad5",
+    "type": "message",
+    "text": "Hey Folks,\nThis is a fabulous set of people who are all trying to be better at marketing and its amazing to connect with this community\nJust thought I will introduce myself:\nPrasanna Kumar from Dataweave Analytics here, I am currently handling Global Marketing for this SaaS company. I have been part of several startups like MayaData, Langoor earlier. I have run my own Digital Marketing Agency  earlier.\n\nMarketing is ever evolving and a community like this would surely enable me to stay ahead with the trends. Look forward to talking to most of you in the days to come\n\nPlease feel free to connect with me on <https://www.linkedin.com/in/prasannakumart/|LinkedIn> or DM me",
+    "user": "U039HU366EQ",
+    "ts": "1648708266.248409",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Jo8w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Folks,\nThis is a fabulous set of people who are all trying to be better at marketing and its amazing to connect with this community\nJust thought I will introduce myself:\nPrasanna Kumar from Dataweave Analytics here, I am currently handling Global Marketing for this SaaS company. I have been part of several startups like MayaData, Langoor earlier. I have run my own Digital Marketing Agency  earlier.\n\nMarketing is ever evolving and a community like this would surely enable me to stay ahead with the trends. Look forward to talking to most of you in the days to come\n\nPlease feel free to connect with me on "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/prasannakumart/",
+                "text": "LinkedIn"
+              },
+              {
+                "type": "text",
+                "text": " or DM me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648708266.248409",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1648714461.760829",
+    "reply_users": [
+      "U02PDC4883V",
+      "U038W1678JX"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U039L895FA4",
+          "U03AQFPP9BL"
+        ],
+        "count": 3
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02U6FZRHRV",
+          "U02V92UN0Q2",
+          "U038V229WRZ",
+          "U02UHQYEF70",
+          "U02UJBHEQVA",
+          "U039L0HCSHW",
+          "U0380S2BZ9A"
+        ],
+        "count": 8
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ef48e14b-ad34-434e-8380-0d1a71bc7bba",
+    "type": "message",
+    "text": "Hey folks , Absolutely amazed and in love with this community and what it is building for:slightly_smiling_face:\n\nSourabh from <https://m.dailyhunt.in/|Dailyhunt>, I was a part of the acquisition &amp; engagement team. I am also an Independent Consultant with a few Saas Startups like Codvo, Terabot.\n Outside  of work I am into painting &amp; Traveling . Currently trying to build different set of automated solutions in Seo , PPC as a Hobby to help startups / smbs\n\nLooking forward to  learning ,networking  around Saas Marketing , also would love to contribute in what ever way I can. You can Connect with me Over <https://www.linkedin.com/in/sourabh-mukherj/|Linkedin> Or Dm me .\n\nHave a great day a head :)",
+    "user": "U039FK9DFS6",
+    "ts": "1648706612.599239",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U039FK9DFS6",
+      "ts": "1648706641.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oJbs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks , Absolutely amazed and in love with this community and what it is building for"
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\n\nSourabh from "
+              },
+              {
+                "type": "link",
+                "url": "https://m.dailyhunt.in/",
+                "text": "Dailyhunt"
+              },
+              {
+                "type": "text",
+                "text": ", I was a part of the acquisition & engagement team. I am also an Independent Consultant with a few Saas Startups like Codvo, Terabot.\n Outside  of work I am into painting & Traveling . Currently trying to build different set of automated solutions in Seo , PPC as a Hobby to help startups / smbs\n\nLooking forward to  learning ,networking  around Saas Marketing , also would love to contribute in what ever way I can. You can Connect with me Over "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/sourabh-mukherj/",
+                "text": "Linkedin"
+              },
+              {
+                "type": "text",
+                "text": " Or Dm me .\n\nHave a great day a head :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648706612.599239",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1648714444.004959",
+    "reply_users": [
+      "U02PDC4883V",
+      "U038W1678JX"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U038V229WRZ",
+          "U02U6FZRHRV",
+          "U02UHQYEF70",
+          "U039FK9DFS6",
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U031KD0PNTX",
+          "U02UJBHEQVA",
+          "U039L0HCSHW",
+          "U0380S2BZ9A"
+        ],
+        "count": 11
+      },
+      {
+        "name": "wave::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "00966023-5191-410d-9a11-190e7fdb15cb",
+    "type": "message",
+    "text": "Hi everyone :slightly_smiling_face:  I'm Vaibhavi. I'll keep my intro short. I've been in digital marketing for the last 5 years leading an end-to-end portfolio (Social, SEO, content, performance, shoots, etc) for B2B, B2C, and D2C brands. I'm so glad I've found this community. Looking forward to the meet-ups in Bangalore. You can connect with me on Linkedin here <https://www.linkedin.com/in/vaibhavi-patil/>\n\nHave a great day :)",
+    "user": "U038V229WRZ",
+    "ts": "1648703021.453869",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1afu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "  I'm Vaibhavi. I'll keep my intro short. I've been in digital marketing for the last 5 years leading an end-to-end portfolio (Social, SEO, content, performance, shoots, etc) for B2B, B2C, and D2C brands. I'm so glad I've found this community. Looking forward to the meet-ups in Bangalore. You can connect with me on Linkedin here "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/vaibhavi-patil/"
+              },
+              {
+                "type": "text",
+                "text": "\n\nHave a great day :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648703021.453869",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1648715382.293899",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02ULN6EFNV",
+      "U038W1678JX",
+      "U039FQ2SNNN"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02PDC4883V",
+          "U031JS3RF0V"
+        ],
+        "count": 3
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U02V9QUDK1Q",
+          "U02UFCPL84F",
+          "U02PDC4883V",
+          "U02V92UN0Q2",
+          "U02U6FZRHRV",
+          "U031KD0PNTX",
+          "U02UHQYEF70",
+          "U0361UQSKGQ",
+          "U031JS3RF0V",
+          "U02UJBHEQVA",
+          "U039L0HCSHW",
+          "U0380S2BZ9A",
+          "U03AQFPP9BL"
+        ],
+        "count": 13
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "56a23d0d-4eff-451e-8c1c-6e9c2533b77b",
+    "type": "message",
+    "text": "Hey everyone,\n\nI have been a part of s11s for a few weeks now, lingering and reading through some insightful conversations within each channel. I realised it's now time for me to introduce myself to the community and become a visible face :slightly_smiling_face:\n\nI am a Product Marketing Manager with 5 years of integrated Marketing experience, spanning across the consumer lifecycle: Acquisition, GTM, Product Onboarding, User engagement and Retention. Most of my experience is in B2C companies, but looking for a B2B gig for my next role.\n\nI am on a short break and will soon be open for opportunities. I am living in Bangalore and open for networking and some crafted :beers: to discuss all about SaaS marketing and Product growth.\n\nHere's my linkedin account if anyone wants to connect there: <https://www.linkedin.com/in/stutiagarwal2121/>\n\nI am looking forward to loads of learning, networking and fun around SaaS Marketing and hoping to contribute to the community as well.",
+    "user": "U0388Q37SDC",
+    "ts": "1648652255.988299",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U0388Q37SDC",
+      "ts": "1648652266.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0gX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone,\n\nI have been a part of s11s for a few weeks now, lingering and reading through some insightful conversations within each channel. I realised it's now time for me to introduce myself to the community and become a visible face "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\n\nI am a Product Marketing Manager with 5 years of integrated Marketing experience, spanning across the consumer lifecycle: Acquisition, GTM, Product Onboarding, User engagement and Retention. Most of my experience is in B2C companies, but looking for a B2B gig for my next role.\n\nI am on a short break and will soon be open for opportunities. I am living in Bangalore and open for networking and some crafted "
+              },
+              {
+                "type": "emoji",
+                "name": "beers"
+              },
+              {
+                "type": "text",
+                "text": " to discuss all about SaaS marketing and Product growth.\n\nHere's my linkedin account if anyone wants to connect there: "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/stutiagarwal2121/"
+              },
+              {
+                "type": "text",
+                "text": "\n\nI am looking forward to loads of learning, networking and fun around SaaS Marketing and hoping to contribute to the community as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648652255.988299",
+    "reply_count": 8,
+    "reply_users_count": 6,
+    "latest_reply": "1648715589.624029",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U02UUCE1ASD",
+      "U02PDC4883V",
+      "U0388Q37SDC",
+      "U02VBJDHX28",
+      "U039FQ2SNNN"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UHQYEF70",
+          "U038S3E22GM",
+          "U0316818QSH",
+          "U0325QQQALR",
+          "U02UUCE1ASD",
+          "U02PDC4883V",
+          "U031G83CGCQ",
+          "U0380S2BZ9A",
+          "U031AUATXA4",
+          "U031KD0PNTX",
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U031JS3RF0V",
+          "U02UJBHEQVA",
+          "U039L0HCSHW",
+          "U03AQFPP9BL",
+          "U031MMSEG4T"
+        ],
+        "count": 17
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U031JS3RF0V",
+          "U03AQFPP9BL"
+        ],
+        "count": 3
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "31200b10-5732-4203-9cd0-17eb3038b5c2",
+    "type": "message",
+    "text": "Hey everyone, this is Aanchal from India. I'm a B2B SaaS writer for brands with customer success, marketing, productivity, and eCommerce products. Really pumped up to be the part of this community. If you wish to chat about content and SaaS send me a DM.",
+    "user": "U03A0KL85G8",
+    "ts": "1648644137.610219",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wpk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone, this is Aanchal from India. I'm a B2B SaaS writer for brands with customer success, marketing, productivity, and eCommerce products. Really pumped up to be the part of this community. If you wish to chat about content and SaaS send me a DM."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648644137.610219",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1648662390.953929",
+    "reply_users": [
+      "U02PDC4883V",
+      "U03A0KL85G8",
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02U6FZRHRV",
+          "U02V8GRRHDG",
+          "U02PDC4883V",
+          "U02UHQYEF70",
+          "U0325QQQALR",
+          "U030SDYNX7V",
+          "U0316818QSH",
+          "U031AUATXA4",
+          "U02V9QUDK1Q",
+          "U02V92UN0Q2",
+          "U031JS3RF0V",
+          "U02UJBHEQVA",
+          "U030KV8R8RL",
+          "U039L0HCSHW",
+          "U03AQFPP9BL"
+        ],
+        "count": 15
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q",
+          "U031JS3RF0V"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b8e2fcc8-bf66-4512-99ba-645c58efe4a4",
+    "type": "message",
+    "text": "Hey All,\nI am Rajesh Tilwani - Currently building Humalect (<https://humalect.com/>). We are a DevOps automation platform. Got connected to the community in the last week's bangalore meetup. Thanks <@U031GA2UKL0> for introducing me to this community.",
+    "user": "U038XCRHS2Y",
+    "ts": "1648637389.455229",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://humalect.com/",
+        "image_url": "https://website-logo.s3.ap-south-1.amazonaws.com/website-logo-v1.png",
+        "image_width": 517,
+        "image_height": 250,
+        "image_bytes": 116760,
+        "id": 1,
+        "original_url": "https://humalect.com/",
+        "fallback": "DevOps Automation Platform",
+        "text": "code to deployment in few clicks. fully manged infrastructure, domains, certificates and CI/CD in your own cloud provider account. End to End DevOps Automation.",
+        "title": "DevOps Automation Platform",
+        "title_link": "https://humalect.com/",
+        "service_name": "humalect.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aYtn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey All,\nI am Rajesh Tilwani - Currently building Humalect ("
+              },
+              {
+                "type": "link",
+                "url": "https://humalect.com/"
+              },
+              {
+                "type": "text",
+                "text": "). We are a DevOps automation platform. Got connected to the community in the last week's bangalore meetup. Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U031GA2UKL0"
+              },
+              {
+                "type": "text",
+                "text": " for introducing me to this community."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648637389.455229",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1648650533.107419",
+    "reply_users": [
+      "U038W1678JX",
+      "U02PDC4883V",
+      "U038XCRHS2Y"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "blob-wave",
+        "users": [
+          "U031KD0PNTX",
+          "U030KV8R8RL"
+        ],
+        "count": 2
+      },
+      {
+        "name": "wave",
+        "users": [
+          "U038W1678JX",
+          "U02U6FZRHRV",
+          "U02V8GRRHDG",
+          "U0325QQQALR",
+          "U0316818QSH",
+          "U0380S2BZ9A",
+          "U02V9QUDK1Q",
+          "U0361UQSKGQ",
+          "U02UJBHEQVA",
+          "U038RTW0AF7",
+          "U030KV8R8RL",
+          "U039L0HCSHW"
+        ],
+        "count": 12
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U02V9QUDK1Q"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "eb710fad-9c81-47f3-9373-9f09be6f482b",
+    "type": "message",
+    "text": "Hey Folks!\n\nI've been on S11s since a while now but realised I haven't introduced myself here!\n\nHello! I am the co-founder of <https://conbi.io/|Conbi> - Our product is like a Google Home for your business data, that lets you gather business insights without leaving Slack!\n\nPreviously, I led GTM &amp; Revenue Operations at various B2B SaaS startups in Boston and San Francisco. I am looking forward to connecting with other folks in the community and having great conversations about everything SaaS ! Please feel free to hit me up if I can help with anything related to Analytics or Revops. Thanks <@U02TTEFFU6B> , for the connect!\n\nAlso, I am currently in Mumbai. If anyone is out here and want to grab a coffee/beer, I am always ready :slightly_smiling_face:\n\nLinkedin- <http://www.linkedin.com/in/mehtahoshang|www.linkedin.com/in/mehtahoshang>",
+    "user": "U02V8GRRHDG",
+    "ts": "1648624139.140169",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q=XZ/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Folks!\n\nI've been on S11s since a while now but realised I haven't introduced myself here!\n\nHello! I am the co-founder of "
+              },
+              {
+                "type": "link",
+                "url": "https://conbi.io/",
+                "text": "Conbi"
+              },
+              {
+                "type": "text",
+                "text": " - Our product is like a Google Home for your business data, that lets you gather business insights without leaving Slack!\n\nPreviously, I led GTM & Revenue Operations at various B2B SaaS startups in Boston and San Francisco. I am looking forward to connecting with other folks in the community and having great conversations about everything SaaS ! Please feel free to hit me up if I can help with anything related to Analytics or Revops. Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U02TTEFFU6B"
+              },
+              {
+                "type": "text",
+                "text": " , for the connect!\n\nAlso, I am currently in Mumbai. If anyone is out here and want to grab a coffee/beer, I am always ready "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              },
+              {
+                "type": "text",
+                "text": "\n\nLinkedin- "
+              },
+              {
+                "type": "link",
+                "url": "http://www.linkedin.com/in/mehtahoshang",
+                "text": "www.linkedin.com/in/mehtahoshang"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648624139.140169",
+    "reply_count": 9,
+    "reply_users_count": 4,
+    "latest_reply": "1648813388.084429",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02V8GRRHDG",
+      "U030SDYNX7V",
+      "U02USELSBRT"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02UJBHEQVA",
+          "U02PDC4883V",
+          "U02UHQYEF70",
+          "U039N8F5WCR",
+          "U038W1678JX",
+          "U031KD0PNTX",
+          "U0325QQQALR",
+          "U0316818QSH",
+          "U0380S2BZ9A",
+          "U02V92UN0Q2",
+          "U0361UQSKGQ",
+          "U039L0HCSHW",
+          "U03AQFPP9BL"
+        ],
+        "count": 13
+      },
+      {
+        "name": "zap",
+        "users": [
+          "U02VD2JL8N8"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

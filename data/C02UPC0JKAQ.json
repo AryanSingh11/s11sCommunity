@@ -1,0 +1,1138 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783073.618479",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "c8491577-31c1-48d0-bfe3-3f4da8e6cb1d",
+    "type": "message",
+    "text": "Hi - Anyone here has worked with a partner who best understands email nurturing, specifically for personal email ids to work email ids.",
+    "user": "U0398V7RJG1",
+    "ts": "1650778512.229259",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5jpA2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi - Anyone here has worked with a partner who best understands email nurturing, specifically for personal email ids to work email ids."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cac22180-e36e-40c0-8dfc-914b3e2654ec",
+    "type": "message",
+    "text": "Hello Folks! Needed a bit of help in SFDC reporting. How do I check if a lead has been been in a particular status ever in SFDC?\nHere is the entire context\n1. We have 6 stages\n2. 5 stage is a Demo\n3. After that it either converts or is marked as disqualified\n4. I want to build a report to see how many leads (irrespective of being converted or not) ever reached a Demo stage\nP.S: I tried building the report using Lead History and using ‘Lead Stage’ as a Field Event - but when I enter any conditions into Old Value it shows an error :see_no_evil:",
+    "user": "U02PDC4883V",
+    "ts": "1650681559.920899",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b=gO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Folks! Needed a bit of help in SFDC reporting. How do I check if a lead has been been in a particular status ever in SFDC?\nHere is the entire context\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "We have 6 stages"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "5 stage is a Demo"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "After that it either converts or is marked as disqualified"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "I want to build a report to see how many leads (irrespective of being converted or not) ever reached a Demo stage"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nP.S: I tried building the report using Lead History and using ‘Lead Stage’ as a Field Event - but when I enter any conditions into Old Value it shows an error "
+              },
+              {
+                "type": "emoji",
+                "name": "see_no_evil"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650681559.920899",
+    "reply_count": 11,
+    "reply_users_count": 4,
+    "latest_reply": "1650700421.500669",
+    "reply_users": [
+      "U02UZ4T10PQ",
+      "U02PDC4883V",
+      "U02UY3EPQDA",
+      "U02UUCE1ASD"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "34d44dd7-e68b-4fd3-a9d7-e49320bb95b1",
+    "type": "message",
+    "text": "<https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&amp;utm_medium=member_desktop_web|https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-692320602831[…]mtRB?utm_source=linkedin_share&amp;utm_medium=member_desktop_web>\n\nData Activation /ETL + Reverse ETL and the CDP. Data flow industry is seeing lot of positioning changes.",
+    "user": "U03158A1WPK",
+    "ts": "1650635511.279519",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web",
+        "image_url": "https://media-exp1.licdn.com/dms/image/C4D22AQGKJ42SgDqcHw/feedshare-shrink_800/0/1650620943219?e=2147483647&v=beta&t=hGTOQ2QALp-dPBKAyctfP8LW-mXkVhQGtX3Wgb4on1A",
+        "image_width": 448,
+        "image_height": 250,
+        "image_bytes": 18180,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&amp;utm_medium=member_desktop_web",
+        "fallback": "Arpit Choudhury on LinkedIn: #moderndatalandscape",
+        "text": "Data Activation is so hot right now with so much activity and so many companies adopting the term to describe what they do. So I thought I'd share my ...",
+        "title": "Arpit Choudhury on LinkedIn: #moderndatalandscape",
+        "title_link": "https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web",
+        "service_name": "linkedin.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K+Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-6923206028310245376-mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web",
+                "text": "https://www.linkedin.com/posts/icanautomate_moderndatalandscape-activity-692320602831[…]mtRB?utm_source=linkedin_share&utm_medium=member_desktop_web"
+              },
+              {
+                "type": "text",
+                "text": "\n\nData Activation /ETL + Reverse ETL and the CDP. Data flow industry is seeing lot of positioning changes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650635511.279519",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650636424.229109",
+    "reply_users": [
+      "U02PDC6B0HH"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e6d5171d-9151-4f4c-b724-d6085ec704e3",
+    "type": "message",
+    "text": "I'm sure I've seen a tool like this but a name escapes me...\nIt's an a intake form tool that captures responses from otherwise abandoned flows ie\nE.g. if someone answers questions 1-5 out of a total of 10, I would still be able to see those responses rather than nothing or that \"x people abandoned\"\n\nRinging any bells for anyone?",
+    "user": "U032MN1BESJ",
+    "ts": "1650635479.372389",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1gvB0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm sure I've seen a tool like this but a name escapes me...\nIt's an a intake form tool that captures responses from otherwise abandoned flows ie\nE.g. if someone answers questions 1-5 out of a total of 10, I would still be able to see those responses rather than nothing or that \"x people abandoned\"\n\nRinging any bells for anyone?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650635479.372389",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1650729508.039869",
+    "reply_users": [
+      "U03A2UNJJDD",
+      "U032MN1BESJ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "34e3c355-2a53-432d-8046-69a6965d11d0",
+    "type": "message",
+    "text": "Folks, can someone help me with GA4 implementation and possibly any fixes? I think I mucked it up with a new site and I have no idea what to do.\n\n_Issue_: While I can see traffic in the “real time” report, I can’t see the same in “Traffic Acquisition” from yesterday. It’s just zero. This and a few other issues.\n\nTIA! :crossed_fingers:",
+    "user": "U02VA7QD8UB",
+    "ts": "1650515737.411709",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U02VA7QD8UB",
+      "ts": "1650515761.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x8W4L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks, can someone help me with GA4 implementation and possibly any fixes? I think I mucked it up with a new site and I have no idea what to do.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Issue",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": While I can see traffic in the “real time” report, I can’t see the same in “Traffic Acquisition” from yesterday. It’s just zero. This and a few other issues.\n\nTIA! "
+              },
+              {
+                "type": "emoji",
+                "name": "crossed_fingers"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650515737.411709",
+    "reply_count": 11,
+    "reply_users_count": 6,
+    "latest_reply": "1650525865.985959",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U02PDC4883V",
+      "U033QDFML74",
+      "U02VA7QD8UB",
+      "U038W1678JX",
+      "U03C4NNJWGK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "11938702-61ba-4515-9cee-e22dfa1921c2",
+    "type": "message",
+    "text": "How good is Marketmuse for SEO research and blog writing? anyone used it before? Looking to learn some helpful tips and tricks that have worked for you :slightly_smiling_face:",
+    "user": "U033R6MA1DY",
+    "ts": "1649925076.759519",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IZhCF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How good is Marketmuse for SEO research and blog writing? anyone used it before? Looking to learn some helpful tips and tricks that have worked for you "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649925076.759519",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650467988.224359",
+    "reply_users": [
+      "U02V22EUXM4",
+      "U030SNYHK6Y"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Hi, We are putting together our website's privacy policy and tnc. And we will potentially have visitors and eventually prospects from EU and Canada. So we need to be GDPR and Canadian privacy laws compliant. So while reading this up, I found the below image, which basically states - that if we enrich our contact information from indirect sources like public directories, the internet, etc., we need to notify them within a month.\n\nNot feeling very confident about the feasibility of this, was wondering if anyone has worked around GDPR compliant policies and knows the operational aspect of it.\nWould appreciate any input.",
+    "files": [
+      {
+        "id": "F03BJSW357E",
+        "created": 1649919256,
+        "timestamp": 1649919256,
+        "name": "WhatsApp Image 2022-04-14 at 12.13.50 PM.jpeg",
+        "title": "WhatsApp Image 2022-04-14 at 12.13.50 PM.jpeg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02UG3G5X8B",
+        "editable": false,
+        "size": 156034,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03BJSW357E/whatsapp_image_2022-04-14_at_12.13.50_pm.jpeg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03BJSW357E/download/whatsapp_image_2022-04-14_at_12.13.50_pm.jpeg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 206,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 275,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 412,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 458,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 549,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BJSW357E-eac3f1a660/whatsapp_image_2022-04-14_at_12.13.50_pm_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 586,
+        "original_w": 1280,
+        "original_h": 732,
+        "thumb_tiny": "AwAbADDR4yct+tGV/vH86aep+5QCR3SgB2V/vfrRlf7360m4/wB5aNx/vLQA7cvqKUEHoaZuPqtKpJ7j8KAGlhuPHOaN/wBakwKTAoAb5mPWjzB6U/AooAZ5ntTgxJ6EUtFAH//Z",
+        "permalink": "https://s11s.slack.com/files/U02UG3G5X8B/F03BJSW357E/whatsapp_image_2022-04-14_at_12.13.50_pm.jpeg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03BJSW357E-50d189c993",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02UG3G5X8B",
+    "display_as_bot": false,
+    "ts": "1649919307.692179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6YVS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi, We are putting together our website's privacy policy and tnc. And we will potentially have visitors and eventually prospects from EU and Canada. So we need to be GDPR and Canadian privacy laws compliant. So while reading this up, I found the below image, which basically states - that if we enrich our contact information from indirect sources like public directories, the internet, etc., we need to notify them within a month.\n\nNot feeling very confident about the feasibility of this, was wondering if anyone has worked around GDPR compliant policies and knows the operational aspect of it.\nWould appreciate any input."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "57feb1be-a860-4556-9ed0-4207f35ec583",
+    "thread_ts": "1649919307.692179",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649935448.977789",
+    "reply_users": [
+      "U03A397SJCF",
+      "U02UG3G5X8B"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "ba08a41f-609f-4a36-8b54-bdb656556bfe",
+    "type": "message",
+    "text": "Asking for a friend:\nAny recommendations for Clearbit-style Email -&gt; Business info for Podcasters/Youtubers?\n\ne.g. get their podcast name, channel name, engagement figures and so on",
+    "user": "U032MN1BESJ",
+    "ts": "1649681140.986049",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3lx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Asking for a friend:\nAny recommendations for Clearbit-style Email -> Business info for Podcasters/Youtubers?\n\ne.g. get their podcast name, channel name, engagement figures and so on"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649681140.986049",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649685372.194559",
+    "reply_users": [
+      "U03A1LDE9PH"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "6b681a35-9105-48bc-89cb-f0ecf9f08692",
+    "type": "message",
+    "text": "anyone here tried a qr code platform + clearbit + HS/SF integration for enriching the info of people who scan your code? looking for some insights on the accuracy of the data mapping",
+    "user": "U02U94HSBV4",
+    "ts": "1649331188.330849",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4+tO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "anyone here tried a qr code platform + clearbit + HS/SF integration for enriching the info of people who scan your code? looking for some insights on the accuracy of the data mapping"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649331188.330849",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649337128.458789",
+    "reply_users": [
+      "U03158A1WPK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "c319758e-7287-4c82-971d-88c68250cf46",
+    "type": "message",
+    "text": "Have you worked on a Hubspot Calendly Integration?\n\nCustomer Journey - Request a demo button --&gt; Hubspot embed form---&gt; Calendly picker for one of the random reps( this could be email based as well)\n\nHow to achieve this?",
+    "user": "U02UGB8DERY",
+    "ts": "1649229283.644479",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qc1n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have you worked on a Hubspot Calendly Integration?\n\nCustomer Journey - Request a demo button --> Hubspot embed form---> Calendly picker for one of the random reps( this could be email based as well)\n\nHow to achieve this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649229283.644479",
+    "reply_count": 25,
+    "reply_users_count": 10,
+    "latest_reply": "1649313187.477799",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02UGB8DERY",
+      "U02UJBF2Y4C",
+      "U02PDC6B0HH",
+      "U02TTEFFU6B",
+      "U02VCEMMWAH",
+      "U02UUCE1ASD",
+      "U0390GQBHN2",
+      "U03158A1WPK",
+      "U02VBNKU9T6"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e913805b-3392-4530-93f0-def8377bc4db",
+    "type": "message",
+    "text": "Folks - We are setting up a MarkOps function officially within the team. Until now, a lot of activities were scattered, and there was no accountability/ownership. With the new setup coming in, I am trying to frame the KRAs/KPIs that will help define success for the function. Can any MarkOps expert suggest what should be the top 3-5 KRAs/KPIs that we should track in a B2B software company?",
+    "user": "U030SKG09E1",
+    "ts": "1649157722.161039",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WMDDd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks - We are setting up a MarkOps function officially within the team. Until now, a lot of activities were scattered, and there was no accountability/ownership. With the new setup coming in, I am trying to frame the KRAs/KPIs that will help define success for the function. Can any MarkOps expert suggest what should be the top 3-5 KRAs/KPIs that we should track in a B2B software company?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649157722.161039",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649425372.162399",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02UJBF2Y4C",
+      "U02PDC6B0HH",
+      "U03158A1WPK",
+      "U030SKG09E1"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "1645c728-b401-45b8-8bf6-54d95fab3eee",
+    "type": "message",
+    "text": "On wordpress versus webflow - <https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-6914971737054945280-WSAR?utm_source=linkedin_share&amp;utm_medium=android_app|https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-691497[…]945280-WSAR?utm_source=linkedin_share&amp;utm_medium=android_app>",
+    "user": "U03158A1WPK",
+    "ts": "1649064369.027209",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-6914971737054945280-WSAR?utm_source=linkedin_share&utm_medium=android_app",
+        "image_url": "https://static-exp1.licdn.com/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "image_width": 438,
+        "image_height": 250,
+        "image_bytes": 34857,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-6914971737054945280-WSAR?utm_source=linkedin_share&amp;utm_medium=android_app",
+        "fallback": "Jay Desai on LinkedIn: #marketing #content #growth | 124 comments",
+        "text": "If you're still using WordPress for your marketing site, you're leaving revenue on the table. Confused? Angry? Agree? Here's why I say that, and what ... 124 comments on LinkedIn",
+        "title": "Jay Desai on LinkedIn: #marketing #content #growth | 124 comments",
+        "title_link": "https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-6914971737054945280-WSAR?utm_source=linkedin_share&utm_medium=android_app",
+        "service_name": "linkedin.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=XRr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On wordpress versus webflow - "
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-6914971737054945280-WSAR?utm_source=linkedin_share&utm_medium=android_app",
+                "text": "https://www.linkedin.com/posts/jayanishdesai_marketing-content-growth-activity-691497[…]945280-WSAR?utm_source=linkedin_share&utm_medium=android_app"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649064369.027209",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1649191641.416439",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U03158A1WPK",
+      "U02PDC4883V",
+      "U030SDYNX7V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "users": [
+          "U02USELSBRT"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "409D7D6B-ED71-47D0-ACA4-5F7A1786F1E2",
+    "type": "message",
+    "text": "Zero cost, no code checklist for pre-launch startups:\n• Typedream to build the landing page\n• <http://Copy.ai|Copy.ai> to produce text for landing page\n• Canva to create designs\n• Figma to show mockups of your app in action\n• Buffer to publish word of this new page on social media\n• tally.so to create forms to collect interested users\n• Airtable to check the early signup forms in one place\n• Mailchimp to manage mailing lists for interested early users\n• Slack to manage community of interested early users\n• Make to create tasks and workflows in backend\n• Notion to handle project management",
+    "user": "U039FQ2SNNN",
+    "ts": "1648996922.782439",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GXHG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zero cost, no code checklist for pre-launch startups:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Typedream to build the landing page"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Copy.ai to produce text for landing page"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Canva to create designs"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Figma to show mockups of your app in action"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Buffer to publish word of this new page on social media"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "tally.so to create forms to collect interested users"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Airtable to check the early signup forms in one place"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Mailchimp to manage mailing lists for interested early users"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Slack to manage community of interested early users"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Make to create tasks and workflows in backend"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Notion to handle project management"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "offset": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "users": [
+          "U02UFNZS7NW",
+          "U02V75V0YBX",
+          "U031QKGPNRK",
+          "U033RUXVCAY",
+          "U039HU366EQ",
+          "U02ULCHDGB0",
+          "U0356KW9T1B",
+          "U03B6AGE0HE"
+        ],
+        "count": 8
+      },
+      {
+        "name": "anatomical_heart",
+        "users": [
+          "U02USELSBRT",
+          "U02V75V0YBX",
+          "U031QKGPNRK"
+        ],
+        "count": 3
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U02UG3G5X8B"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3a267641-52b3-4f37-b0db-ffe011e3e335",
+    "type": "message",
+    "text": "I got a call the other from an insurance company saying “hey, saw that you visited our website, did you find what you were looking for?“. I have an account with them, but unsure if I was signed in at the time. I am curious as to how this is done, do they have some kind of IP based lead scoring going on or their sales folks get a notification when I am about to convert? What does the tech stack for this look like?",
+    "user": "U031KD0PNTX",
+    "ts": "1648721684.104159",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A6a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got a call the other from an insurance company saying “hey, saw that you visited our website, did you find what you were looking for?“. I have an account with them, but unsure if I was signed in at the time. I am curious as to how this is done, do they have some kind of IP based lead scoring going on or their sales folks get a notification when I am about to convert? What does the tech stack for this look like?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648721684.104159",
+    "reply_count": 9,
+    "reply_users_count": 7,
+    "latest_reply": "1649060886.275749",
+    "reply_users": [
+      "U02URS98P9B",
+      "U02USELSBRT",
+      "U031KD0PNTX",
+      "U039FQ2SNNN",
+      "U032AUA6KFV",
+      "U03158A1WPK",
+      "U02V22EUXM4"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "5ae11f1d-bc92-4880-a82a-70139649392b",
+    "type": "message",
+    "text": "*If not Hubspot, what else?* [ we had some issues in tracking custom events ] here are the requirments\n• Event tracking on the website\n• Lead capture\n• email automation\n• Ad campaign integration\n• Forms\n• Lead scoring\n• Integration with Salesforce Sales Cloud\n",
+    "user": "U02VADQNUGJ",
+    "ts": "1648716627.737649",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0qw+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If not Hubspot, what else? ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "[ we had some issues in tracking custom events ] here are the requirments\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Event tracking on the website"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Lead capture"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "email automation"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Ad campaign integration"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Forms"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Lead scoring"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Integration with Salesforce Sales Cloud"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648716627.737649",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1648786911.798009",
+    "reply_users": [
+      "U0316818QSH",
+      "U02URS98P9B",
+      "U036NSXKBPZ",
+      "U03158A1WPK",
+      "U0387KA15QX"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "762fe022-f4a9-4788-b671-4a81760ffa10",
+    "type": "message",
+    "text": "Looking for a better Mailchimp alternative for sales &amp; marketing sequences:\n\n• should have native HubSpot integration (trying to avoid Zapier cost :see_no_evil:)\n• Event-based email triggering (If the user did X thing in the app, send them 'this' email)\n• Rotate the 'From' field automatically based on the contact owner in HubSpot\n• Workflow automation &amp; A/B testing functionality\n• cheaper than Mailchimp &amp; ActiveCampaign\nPlease suggest if you know any tool :raised_hands:",
+    "user": "U0316818QSH",
+    "ts": "1648646672.389179",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zoM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looking for a better Mailchimp alternative for sales & marketing sequences:\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "should have native HubSpot integration (trying to avoid Zapier cost "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "see_no_evil"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Event-based email triggering (If the user did X thing in the app, send them 'this' email)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Rotate the 'From' field automatically based on the contact owner in HubSpot"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Workflow automation & A/B testing functionality"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "cheaper than Mailchimp & ActiveCampaign"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nPlease suggest if you know any tool "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648646672.389179",
+    "reply_count": 13,
+    "reply_users_count": 11,
+    "latest_reply": "1649317543.572079",
+    "reply_users": [
+      "U031QKGPNRK",
+      "U0325QQQALR",
+      "U02VBQCQ7EG",
+      "U0390GQBHN2",
+      "U033QDFML74",
+      "U03158A1WPK",
+      "U030FPEG8R4",
+      "U0316818QSH",
+      "U037UUE6TV3",
+      "U0352SBJFGW",
+      "U02ULCHDGB0"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "62d2eaa4-92d6-41b0-9d0b-bb4c1b88a995",
+    "type": "message",
+    "text": "What is the best way of connecting Webflow and Hubspot forms? Would Embedded forms do or I have to go via API or ?\n\nOne point: I do need to see form interactions and all the from related data. So what is the best way to integrate these forms on Webflow.\n\nThanks",
+    "user": "U02URS98P9B",
+    "ts": "1648623368.646809",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q1HR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What is the best way of connecting Webflow and Hubspot forms? Would Embedded forms do or I have to go via API or ?\n\nOne point: I do need to see form interactions and all the from related data. So what is the best way to integrate these forms on Webflow.\n\nThanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648623368.646809",
+    "reply_count": 6,
+    "reply_users_count": 4,
+    "latest_reply": "1648625928.671279",
+    "reply_users": [
+      "U02USELSBRT",
+      "U038S3E22GM",
+      "U02URS98P9B",
+      "U02UJBF2Y4C"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "7fdd7984-44e8-4a2b-baa5-fc73ca696fc1",
+    "type": "message",
+    "text": "Webflow question: how can we copy just one page ( with all its elements and style ) from one account to a different account?",
+    "user": "U02UJBF2Y4C",
+    "ts": "1648620461.485889",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tda",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Webflow question: how can we copy just one page ( with all its elements and style ) from one account to a different account?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648620461.485889",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1648621586.582719",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02UJBF2Y4C"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  }
+]

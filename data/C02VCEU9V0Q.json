@@ -1,0 +1,1293 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783084.474229",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "type": "message",
+    "text": "Royal Rumble begins:",
+    "files": [
+      {
+        "id": "F03CRQPD27N",
+        "created": 1650776757,
+        "timestamp": 1650776757,
+        "name": "Screenshot_20220424-103546_LinkedIn.jpg",
+        "title": "Screenshot_20220424-103546_LinkedIn.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02TTEFFU6B",
+        "editable": false,
+        "size": 195662,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03CRQPD27N/screenshot_20220424-103546_linkedin.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03CRQPD27N/download/screenshot_20220424-103546_linkedin.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_360.jpg",
+        "thumb_360_w": 168,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_480.jpg",
+        "thumb_480_w": 224,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_720.jpg",
+        "thumb_720_w": 336,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1713,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_960.jpg",
+        "thumb_960_w": 448,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CRQPD27N-f13c980bda/screenshot_20220424-103546_linkedin_1024.jpg",
+        "thumb_1024_w": 478,
+        "thumb_1024_h": 1024,
+        "original_w": 1080,
+        "original_h": 2312,
+        "thumb_tiny": "AwAwABa6hJ3DyyuGPU9ak59Kbg56Gja1ADwO9LSKCBzS0ARnGetHy92NGeegoz7CgBy47GnU1Wyegp1AEZByaAv0/OnBRk5o2rQAq9OuaWkH0paAP//Z",
+        "permalink": "https://s11s.slack.com/files/U02TTEFFU6B/F03CRQPD27N/screenshot_20220424-103546_linkedin.jpg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03CRQPD27N-3bfc232306",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02TTEFFU6B",
+    "display_as_bot": false,
+    "ts": "1650776835.087919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ePeQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Royal Rumble begins:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "683d3134-33f1-42cf-830a-ee71b548af0a",
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "U033DB58U9E",
+          "U03560PQ082"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "B6163C38-2843-4247-B847-795BE528C29B",
+    "type": "message",
+    "text": "So I’ve taken up the process of creating sales battle cards for my product. I have a few ideas on how to do it. But what are some of the best battlecards that you all have seen? And what are the headings (pain,benefits, etc) that a battlecard must have?",
+    "user": "U02V5Q7DUPJ",
+    "ts": "1650510724.124989",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4jH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So I’ve taken up the process of creating sales battle cards for my product. I have a few ideas on how to do it. But what are some of the best battlecards that you all have seen? And what are the headings (pain,benefits, etc) that a battlecard must have?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650510724.124989",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1650532819.252979",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02UUCE1ASD",
+      "U02V5Q6P716",
+      "U030L4PHVN2",
+      "U033DB58U9E"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "4fe0c313-4a89-487e-af2a-283bbdb70218",
+    "type": "message",
+    "text": "Any B2B marketing boot camps, think tanks, resources, and certifications?\nIf any, please comment or DM.\nI'm trying to learn B2B marketing basics",
+    "user": "U03ACCJ4CVC",
+    "ts": "1650468285.420529",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WXM6G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any B2B marketing boot camps, think tanks, resources, and certifications?\nIf any, please comment or DM.\nI'm trying to learn B2B marketing basics"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650468285.420529",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650474609.832619",
+    "reply_users": [
+      "U02USELSBRT",
+      "U030E27CBB3"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U030SDYNX7V"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "45f30d81-273a-430d-9d46-7fd8b0d5fe01",
+    "type": "message",
+    "text": "Anyone knows a great roadmap of courses to learn product marketing for someone at a noob level?",
+    "user": "U03A5S0KQMA",
+    "ts": "1650352213.523069",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Osh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone knows a great roadmap of courses to learn product marketing for someone at a noob level?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650352213.523069",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650572586.366539",
+    "reply_users": [
+      "U02V5Q6P716",
+      "U03A5S0KQMA"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "65a2829d-6863-486e-a148-c7e508096d1c",
+    "type": "message",
+    "text": "Hi Everyone,\nI'm looking for a course that can help me Structure Sales Enablement and Measure Results better in my org. Any Sales Enablement specific courses that are worth taking up?\n\nI found this on Hubspot - <https://academy.hubspot.com/courses/sales-enablement>\nAny reviews on this? Or any other recommendations?",
+    "user": "U038GCYAUB1",
+    "ts": "1650286594.027589",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://academy.hubspot.com/courses/sales-enablement",
+        "image_url": "https://academy.hubspot.com/hubfs/assets/hubspot.com/academy/images/default-share-image.png#keepProtocol",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 45701,
+        "service_icon": "https://academy.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+        "id": 1,
+        "original_url": "https://academy.hubspot.com/courses/sales-enablement",
+        "fallback": "Courses &amp; Lessons | HubSpot Academy",
+        "text": "In this free certification course, you’ll learn how to develop a sales enablement strategy and align your marketing and sales teams around business goals.",
+        "title": "Courses &amp; Lessons | HubSpot Academy",
+        "title_link": "https://academy.hubspot.com/courses/sales-enablement",
+        "service_name": "academy.hubspot.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3=yk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Everyone,\nI'm looking for a course that can help me Structure Sales Enablement and Measure Results better in my org. Any Sales Enablement specific courses that are worth taking up?\n\nI found this on Hubspot - "
+              },
+              {
+                "type": "link",
+                "url": "https://academy.hubspot.com/courses/sales-enablement"
+              },
+              {
+                "type": "text",
+                "text": "\nAny reviews on this? Or any other recommendations?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650286594.027589",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650467618.702539",
+    "reply_users": [
+      "U03ACCJ4CVC"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2cda57ba-02e7-4483-9b22-7516eac1e63c",
+    "type": "message",
+    "text": "I wanted to know if anyone is using podcast as a medium for lead-gen? or is it mainly branding? Let me know your thoughts.",
+    "user": "U031PUU5Z0U",
+    "ts": "1649943318.935109",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9px",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wanted to know if anyone is using podcast as a medium for lead-gen? or is it mainly branding? Let me know your thoughts."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649943318.935109",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1650298997.387899",
+    "reply_users": [
+      "U038GCYAUB1",
+      "U031PUU5Z0U"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "a517b910-8399-482a-b1f9-cf721539ff1a",
+    "type": "message",
+    "text": "For your platform products, PMMs, have you figured what is the *repeatable interactions* (the one thing) on which you expect your platform to grow its user base? say 3 years from now? Please leave your comments. For MS teams, it is probably the more than 700 apps and xx users using per month using it to enable unified communication. For clearbit it is the 500 million records accessed / month for enrichment and give 1000s businesses deeper understanding of their customers. What’s yours? <https://www.youtube.com/watch?v=EonUssZIY_o|Clearbit: The rocket fuel 'enriching' PLG sales - YouTube> this video led me to enquire (probably I am re-sharing as i cant find who first shared but so inspirational…..",
+    "user": "U02UZ4T10PQ",
+    "ts": "1649743460.860869",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=EonUssZIY_o",
+        "thumb_url": "https://i.ytimg.com/vi/EonUssZIY_o/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/EonUssZIY_o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=EonUssZIY_o",
+        "fallback": "YouTube Video: Clearbit: The rocket fuel 'enriching' PLG sales",
+        "title": "Clearbit: The rocket fuel 'enriching' PLG sales",
+        "title_link": "https://www.youtube.com/watch?v=EonUssZIY_o",
+        "author_name": "Top of the Lyne",
+        "author_link": "https://www.youtube.com/channel/UCHxEq1sQrLsQbmXEmMMNJ4A",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mn1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For your platform products, PMMs, have you figured what is the "
+              },
+              {
+                "type": "text",
+                "text": "repeatable interactions",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " (the one thing) on which you expect your platform to grow its user base? say 3 years from now? Please leave your comments. For MS teams, it is probably the more than 700 apps and xx users using per month using it to enable unified communication. For clearbit it is the 500 million records accessed / month for enrichment and give 1000s businesses deeper understanding of their customers. What’s yours? "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=EonUssZIY_o",
+                "text": "Clearbit: The rocket fuel 'enriching' PLG sales - YouTube"
+              },
+              {
+                "type": "text",
+                "text": " this video led me to enquire (probably I am re-sharing as i cant find who first shared but so inspirational….."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649743460.860869",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649747259.775639",
+    "reply_users": [
+      "U02USELSBRT"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "928e94a3-8afb-4800-8799-775e7c13981b",
+    "type": "message",
+    "text": ":rotating_light:Product Marketing folks with experience in *events* - looking for some advice:rotating_light:\n\n_Context_: I work with a SaaS co building an operating system for vineyards. We help them take data-backed decisions while saving time &amp; money.\n\nI'm attending a few large scale wine trade events in the coming 45-60 days and the audience is going to be made up of our ICPs (vineyard owners, operators, viticulturists &amp; winemakers). As you can imagine, this lot is different from the conventional digital-native audience from SaaS/consumer-tech cos we're accustomed with. As a first time participant, we've decided to not invest in booths at the events this year &amp; deploy this $ elsewhere.\n\nI was wondering if you have references/suggestions based on experience (<https://www.freshworks.com/live-chat-software/business-hack-90-percent-response-rate-blog/|example>) on how we can best use trade events for generating awareness &amp; making meaningful conversations for qualifying leads.",
+    "user": "U02VD2JL8N8",
+    "ts": "1649742018.729629",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://www.freshworks.com/live-chat-software/business-hack-90-percent-response-rate-blog/",
+        "ts": 1529913883,
+        "service_icon": "https://www.freshworks.com/live-chat-software/wp-content/themes/twenty18-child/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.freshworks.com/live-chat-software/business-hack-90-percent-response-rate-blog/",
+        "fallback": "Freshchat Blog: How we hacked events to get a 90% response rate",
+        "text": "From crafting personalized swags to writing great post-event emails, here are 3 things that we at Freshchat did to get a 90% response rate from people we met across the three startup events.",
+        "title": "How we hacked events to get a 90% response rate",
+        "title_link": "https://www.freshworks.com/live-chat-software/business-hack-90-percent-response-rate-blog/",
+        "service_name": "Freshchat Blog"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C6D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rotating_light"
+              },
+              {
+                "type": "text",
+                "text": "Product Marketing folks with experience in "
+              },
+              {
+                "type": "text",
+                "text": "events",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " - looking for some advice"
+              },
+              {
+                "type": "emoji",
+                "name": "rotating_light"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Context",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": I work with a SaaS co building an operating system for vineyards. We help them take data-backed decisions while saving time & money.\n\nI'm attending a few large scale wine trade events in the coming 45-60 days and the audience is going to be made up of our ICPs (vineyard owners, operators, viticulturists & winemakers). As you can imagine, this lot is different from the conventional digital-native audience from SaaS/consumer-tech cos we're accustomed with. As a first time participant, we've decided to not invest in booths at the events this year & deploy this $ elsewhere.\n\nI was wondering if you have references/suggestions based on experience ("
+              },
+              {
+                "type": "link",
+                "url": "https://www.freshworks.com/live-chat-software/business-hack-90-percent-response-rate-blog/",
+                "text": "example"
+              },
+              {
+                "type": "text",
+                "text": ") on how we can best use trade events for generating awareness & making meaningful conversations for qualifying leads."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "90a38e44-92b3-4b87-832e-2c8e92133287",
+    "type": "message",
+    "text": "<http://blog.chetnetwork.com/2021/07/22/the-top-ten-product-marketers-to-follow-on-linkedin/> Do we have something similar for folks based out of India?",
+    "user": "U02VBJDHX28",
+    "ts": "1649698046.329979",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "http://blog.chetnetwork.com/2021/07/22/the-top-ten-product-marketers-to-follow-on-linkedin/",
+        "ts": 1626977864,
+        "image_url": "https://lh4.googleusercontent.com/K1QjVAvh8KVu95KspQ2g0WpxKa6HCy1IOB6FmGiXE83hEOU-Sd9KvExCBbxdZamJ4Dlm5UFdXo8p38eIhsfEwDBydu8qA6t1fiHwZISgZeBleatfF3syNT8XpJvUXwl24nuao-u8",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 216630,
+        "service_icon": "http://blog.chetnetwork.com/wp-content/uploads/2021/05/cropped-Frame-1-180x180.png",
+        "id": 1,
+        "original_url": "http://blog.chetnetwork.com/2021/07/22/the-top-ten-product-marketers-to-follow-on-linkedin/",
+        "fallback": "Chet: The Top Ten Product Marketers to Follow On LinkedIn - Chet",
+        "text": "Keeping up with influencers on social media has become as important as doing the job itself. Here is a list of 1o Product Marketers to follow on LinkedIn.",
+        "title": "The Top Ten Product Marketers to Follow On LinkedIn - Chet",
+        "title_link": "http://blog.chetnetwork.com/2021/07/22/the-top-ten-product-marketers-to-follow-on-linkedin/",
+        "service_name": "Chet",
+        "fields": [
+          {
+            "value": "Anurita Majumdar",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "6 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WLS=X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "http://blog.chetnetwork.com/2021/07/22/the-top-ten-product-marketers-to-follow-on-linkedin/"
+              },
+              {
+                "type": "text",
+                "text": " Do we have something similar for folks based out of India?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4b5ea027-9c9b-4e1f-8c21-770cadf1a053",
+    "type": "message",
+    "text": "Can someone point me to/share their winback email campaigns that worked well?\n\nI looking for subtle re-engagement emails for unresponsive leads.",
+    "user": "U02URS98P9B",
+    "ts": "1649697245.953439",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bm8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can someone point me to/share their winback email campaigns that worked well?\n\nI looking for subtle re-engagement emails for unresponsive leads."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649697245.953439",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649730930.547279",
+    "reply_users": [
+      "U0306HUGT6C"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U038GCYAUB1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b40a11e6-75c6-43e7-8c9f-0b315fd86c62",
+    "type": "message",
+    "text": "Anyone has some great consumer-facing product marketing case studies/roadmaps that have been super successful in the past?",
+    "user": "U03A5S0KQMA",
+    "ts": "1649671229.493509",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8YeUS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone has some great consumer-facing product marketing case studies/roadmaps that have been super successful in the past?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649671229.493509",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649697374.520199",
+    "reply_users": [
+      "U02VD2JL8N8"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U02V5Q6P716"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "528fb71e-05cc-4800-be50-be39e9835fad",
+    "type": "message",
+    "text": "Hey guys we are looking for alternatives of GT Metrix for our Website Auditing.\n\nCame across <http://Auditzy.com|Auditzy.com>, need reviews thanks!",
+    "user": "U030H7UAV1C",
+    "ts": "1649430991.132899",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U030H7UAV1C",
+      "ts": "1649431003.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qwj4H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys we are looking for alternatives of GT Metrix for our Website Auditing.\n\nCame across "
+              },
+              {
+                "type": "link",
+                "url": "http://Auditzy.com",
+                "text": "Auditzy.com"
+              },
+              {
+                "type": "text",
+                "text": ", need reviews thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649430991.132899",
+    "reply_count": 7,
+    "reply_users_count": 5,
+    "latest_reply": "1649657441.732559",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U02PDC6B0HH",
+      "U030H7UAV1C",
+      "U02PDC4883V",
+      "U030SDYNX7V"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "4565feb2-c48d-40af-b3be-7353cab5b46c",
+    "type": "message",
+    "text": "Hello everyone I am currently hiring for Product marketing folks for B2B SaaS Start Up companies. Let me know if anyone within the community is looking for a change or up for a new challenge. Thanks :)",
+    "user": "U039PF71127",
+    "ts": "1649236701.197009",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s9A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone I am currently hiring for Product marketing folks for B2B SaaS Start Up companies. Let me know if anyone within the community is looking for a change or up for a new challenge. Thanks :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649236701.197009",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1649599378.051369",
+    "reply_users": [
+      "U039PF71127",
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e8aa087e-3b7e-4d56-9719-bdf39e839cb1",
+    "type": "message",
+    "text": "Hey all,\n\nAre you guys aware of any resources/case studies for B2B product adoption?",
+    "user": "U039HH3LP43",
+    "ts": "1649172552.265139",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L3BDn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all,\n\nAre you guys aware of any resources/case studies for B2B product adoption?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649172552.265139",
+    "reply_count": 14,
+    "reply_users_count": 3,
+    "latest_reply": "1649415230.544719",
+    "reply_users": [
+      "U02UGB8DERY",
+      "U039HH3LP43",
+      "U039FQ2SNNN"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "a8ce9a54-4724-4ecd-85c1-697c83d0f4a5",
+    "type": "message",
+    "text": "Folks any good courses for content writing for PMMs for sales enablement out there ?",
+    "user": "U02V2FKLDJM",
+    "ts": "1649164919.786189",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=WC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks any good courses for content writing for PMMs for sales enablement out there ?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1CF1D1CA-F6A4-4071-B3BD-EBB6DCF41543",
+    "type": "message",
+    "text": "#suggestions please\n\nWanted some suggestions on joint feature launch plan. \nBackground - we have done a product integration with loom and looking for a joint PR launch.\n\nNeed suggestions on what all we can do with them other than social media posts. ",
+    "user": "U031RCMMT5E",
+    "ts": "1649048672.566509",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fSJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#suggestions please\n\nWanted some suggestions on joint feature launch plan. \nBackground - we have done a product integration with loom and looking for a joint PR launch.\n\nNeed suggestions on what all we can do with them other than social media posts. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649048672.566509",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649051390.966439",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U033DB58U9E",
+      "U031RCMMT5E"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e62ef3ec-6c03-4631-9d0a-101b083905e9",
+    "type": "message",
+    "text": "Anyone here has experience in building and scaling product analytics campaigns on Mixpanel...? Would love to talk and collab",
+    "user": "U0323V4CLRY",
+    "ts": "1648908724.533279",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V+7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone here has experience in building and scaling product analytics campaigns on Mixpanel...? Would love to talk and collab"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648908724.533279",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649360770.356159",
+    "reply_users": [
+      "U02UY3EPQDA",
+      "U02PDC4883V",
+      "U0352SBJFGW",
+      "U0323V4CLRY"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "8f8e7225-4daa-44f8-b335-f055469ba816",
+    "type": "message",
+    "text": "Thanks in Advance",
+    "user": "U030H7UAV1C",
+    "ts": "1648882491.312469",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iwg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks in Advance"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c2deafa0-3bc3-4634-947c-0bdc6d432e5e",
+    "type": "message",
+    "text": "Hey everyone! We are looking for a no code CRM tool for our email marketing, can you guys suggest some CRMs best for template preparation?",
+    "user": "U030H7UAV1C",
+    "ts": "1648882485.681369",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WE=i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone! We are looking for a no code CRM tool for our email marketing, can you guys suggest some CRMs best for template preparation?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648882485.681369",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649049414.114239",
+    "reply_users": [
+      "U02UY3EPQDA",
+      "U039FQ2SNNN",
+      "U02USELSBRT"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "3e282e83-bd1a-47fc-bb64-62edf9841271",
+    "type": "message",
+    "text": "Hello Everyone! I am looking for a list of B2B SaaS companies but SMB's. I have so far found these Slintel, Hiver, Fyle, Crowdfire and Pilvo. Can someone please help me build this list?",
+    "user": "U039PF71127",
+    "ts": "1648813796.156269",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5tHu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone! I am looking for a list of B2B SaaS companies but SMB's. I have so far found these Slintel, Hiver, Fyle, Crowdfire and Pilvo. Can someone please help me build this list?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648813796.156269",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1648820623.002419",
+    "reply_users": [
+      "U039L895FA4",
+      "U02USELSBRT",
+      "U038W1678JX",
+      "U039PF71127",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "7b1ad52d-9d54-4ad8-ad67-d6f77de87eb8",
+    "type": "message",
+    "text": "Hey all,\n\nI came across this tool providing a free Website Monitoring, Auditing and Analysis!\n\nLink: <https://auditzy.com|https://auditzy.com>\n\nTried it a bit, I think it may be helpful for a lot of you.",
+    "user": "U030H7UAV1C",
+    "ts": "1648746081.264329",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://auditzy.com/",
+        "service_icon": "https://auditzy.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://auditzy.com",
+        "fallback": "Auditzy -  Check Website Speed Test | Audit, and Monitor Pages",
+        "text": "Auditzy is the best tool to check your Website Speed Test, Monitor and Analyse your Pages Performance with advanced features like Core Web Vital tracking",
+        "title": "Auditzy -  Check Website Speed Test | Audit, and Monitor Pages",
+        "title_link": "https://auditzy.com/",
+        "service_name": "auditzy.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wk95",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all,\n\nI came across this tool providing a free Website Monitoring, Auditing and Analysis!\n\nLink: "
+              },
+              {
+                "type": "link",
+                "url": "https://auditzy.com",
+                "text": "https://auditzy.com"
+              },
+              {
+                "type": "text",
+                "text": "\n\nTried it a bit, I think it may be helpful for a lot of you."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "871b4c60-e42f-43de-bb9f-280090f6140a",
+    "type": "message",
+    "text": "What are your most loved sales decks? Bonus thanks if you can link or share pdf.",
+    "user": "U02TTEFFU6B",
+    "ts": "1648726552.930589",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M2bd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What are your most loved sales decks? Bonus thanks if you can link or share pdf."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648726552.930589",
+    "reply_count": 15,
+    "reply_users_count": 10,
+    "latest_reply": "1649986700.309289",
+    "reply_users": [
+      "U038W1678JX",
+      "U031KD0PNTX",
+      "U02V9QUDK1Q",
+      "U032AUA6KFV",
+      "U031G83CGCQ",
+      "U02UZ4T10PQ",
+      "U02TTEFFU6B",
+      "U02USELSBRT",
+      "U030PQRLHEH",
+      "U02VD2JL8N8"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "d1207a29-4692-4586-945d-73068e8b1e00",
+    "type": "message",
+    "text": "Hey all, which tool is good for user onboarding emails sequencing?",
+    "user": "U038W1678JX",
+    "ts": "1648726447.743269",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Umye",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all, which tool is good for user onboarding emails sequencing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648726447.743269",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1648884291.827349",
+    "reply_users": [
+      "U031G83CGCQ",
+      "U039MLMNSQH",
+      "U038W1678JX",
+      "U039PF71127",
+      "U02UY3EPQDA"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "dafe3052-74c6-4f46-8f3c-00f18bb3108e",
+    "type": "message",
+    "text": "Folks - Which B2B SaaS firms you will mention if one is asked which are the best firms with regards to Product marketing?",
+    "user": "U02VBJDHX28",
+    "ts": "1648707516.527529",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LbQPB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks - Which B2B SaaS firms you will mention if one is asked which are the best firms with regards to Product marketing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648707516.527529",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1648709161.834359",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02VBJDHX28",
+      "U033DB58U9E"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "bcfa94f0-02ff-47f8-b4b1-23228e0f9527",
+    "type": "message",
+    "text": "Any leads on a Product Marketing agency?",
+    "user": "U0318JZUESX",
+    "ts": "1648623959.712489",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zggxL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any leads on a Product Marketing agency?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648623959.712489",
+    "reply_count": 7,
+    "reply_users_count": 4,
+    "latest_reply": "1648884406.748419",
+    "reply_users": [
+      "U0306HUGT6C",
+      "U039MLMNSQH",
+      "U02UMSC2690",
+      "U033DB58U9E"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U037QSG25PG"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a6d74432-d389-4105-9dbd-48d36f7cb080",
+    "type": "message",
+    "text": "While creating a *product narrative*, which resources do you refer to? Would be nice to know a few frameworks and see some examples",
+    "user": "U038FBFLN2K",
+    "ts": "1648620181.774359",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "la+i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "While creating a "
+              },
+              {
+                "type": "text",
+                "text": "product narrative",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ", which resources do you refer to? Would be nice to know a few frameworks and see some examples"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648620181.774359",
+    "reply_count": 4,
+    "reply_users_count": 3,
+    "latest_reply": "1648623891.606009",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U038FBFLN2K",
+      "U0318JZUESX"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Sony Playstation’s upcoming pricing update blog post is a mind bender. Please don’t be them when announcing new pricing :slightly_smiling_face:",
+    "files": [
+      {
+        "id": "F039YH90596",
+        "created": 1648614115,
+        "timestamp": 1648614115,
+        "name": "Screenshot 2022-03-30 at 9.50.26 AM.png",
+        "title": "Screenshot 2022-03-30 at 9.50.26 AM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U031QKGPNRK",
+        "editable": false,
+        "size": 684587,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F039YH90596/screenshot_2022-03-30_at_9.50.26_am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F039YH90596/download/screenshot_2022-03-30_at_9.50.26_am.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_360.png",
+        "thumb_360_w": 253,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_480.png",
+        "thumb_480_w": 337,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_720.png",
+        "thumb_720_w": 505,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1140,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_960.png",
+        "thumb_960_w": 674,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F039YH90596-df0007ad14/screenshot_2022-03-30_at_9.50.26_am_1024.png",
+        "thumb_1024_w": 719,
+        "thumb_1024_h": 1024,
+        "original_w": 1082,
+        "original_h": 1542,
+        "thumb_tiny": "AwAwACHSI78/nQD6ZoNJQA78KKQCloAh3N7/AJ//AFqNze/5/wD1qmopgNPXk0ZFKeKM0gDI9aXOaBRQAUUUUAIR35pAR70p96TAoAdkUUmKAKAFooooA//Z",
+        "permalink": "https://s11s.slack.com/files/U031QKGPNRK/F039YH90596/screenshot_2022-03-30_at_9.50.26_am.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F039YH90596-cb5e1ceaf3",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U031QKGPNRK",
+    "display_as_bot": false,
+    "ts": "1648614119.134529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CpF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sony Playstation’s upcoming pricing update blog post is a mind bender. Please don’t be them when announcing new pricing "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "b23f77ae-ca7b-4761-88f6-27abb6a88585",
+    "thread_ts": "1648614119.134529",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1648630753.383099",
+    "reply_users": [
+      "U02PDC4883V",
+      "U03560PQ082",
+      "U030N8RHURZ",
+      "U030SDYNX7V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U02PDC4883V",
+          "U02UMB0T7BM"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

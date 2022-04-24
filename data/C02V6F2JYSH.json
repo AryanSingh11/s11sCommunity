@@ -1,0 +1,790 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783110.025209",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "eefe6636-edc4-431a-b990-3f3d965c8e1c",
+    "type": "message",
+    "text": "My website blogs are not indexing on google search. It's showing discovered by google but not yet indexed. Can anyone help me to resolve this issue?",
+    "user": "U038F88AS0N",
+    "ts": "1650689700.804379",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ic0Ay",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My website blogs are not indexing on google search. It's showing discovered by google but not yet indexed. Can anyone help me to resolve this issue?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650689700.804379",
+    "reply_count": 6,
+    "reply_users_count": 4,
+    "latest_reply": "1650707427.371619",
+    "reply_users": [
+      "U03A2UNJJDD",
+      "U038F88AS0N",
+      "U02VA7QD8UB",
+      "U0316K76612"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "7D401E14-A88E-43F1-977A-86DE54E4ACF7",
+    "type": "message",
+    "text": "Given it's all SaaS + content folks here, can we help each other by link exchanges or guest posts? Will help boost DR for the domain if rightly done, let me know if anyone's interested\n\nAdmins - there are a lot of Slack communities meant for this. If we can create a channel, that'd be great (only contextual guest posts and link exchanges, no paid links or ads)",
+    "user": "U02V4H04XT8",
+    "ts": "1650467511.620789",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ERh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Given it's all SaaS + content folks here, can we help each other by link exchanges or guest posts? Will help boost DR for the domain if rightly done, let me know if anyone's interested\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Admins - there are a lot of Slack communities meant for this. If we can create a channel, that'd be great (only contextual guest posts and link exchanges, no paid links or ads)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650467511.620789",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1650520938.840099",
+    "reply_users": [
+      "U03C4NNJWGK",
+      "U03AF2HBZPX",
+      "U02USELSBRT",
+      "U031QKGPNRK",
+      "U02V4H04XT8"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "man-gesturing-no",
+        "users": [
+          "U02U94HSBV4",
+          "U0325QQQALR"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1e9d5123-aa59-4e14-94cb-6a5c9092b789",
+    "type": "message",
+    "text": "Has anyone found the topic cluster ( or pilllar ) strategy successful for a service based business? I am thinking to implement this and would love to know more about your experience.\n\nI was not getting enough confidence after reading articles on the website hence the question.",
+    "user": "U03208N6E2G",
+    "ts": "1650448725.671689",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SZdvW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anyone found the topic cluster ( or pilllar ) strategy successful for a service based business? I am thinking to implement this and would love to know more about your experience.\n\nI was not getting enough confidence after reading articles on the website hence the question."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650448725.671689",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1650518408.529809",
+    "reply_users": [
+      "U02USELSBRT",
+      "U03208N6E2G",
+      "U031QKGPNRK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2889d146-e2af-4f63-9be2-ffc51ce63145",
+    "type": "message",
+    "text": "<https://twitter.com/timsoulo/status/1516597198812712962?t=Qie6RiF-VZ6vFq0nUsLNAw&amp;s=19|https://twitter.com/timsoulo/status/1516597198812712962?t=Qie6RiF-VZ6vFq0nUsLNAw&amp;s=19>\n\nVery interesting",
+    "user": "U02PDC4883V",
+    "ts": "1650425224.540539",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://twitter.com/timsoulo/status/1516597198812712962?t=Qie6RiF-VZ6vFq0nUsLNAw&amp;s=19",
+        "ts": 1650419923,
+        "image_url": "https://pbs.twimg.com/media/FQwJHT0UYAI4lny.jpg",
+        "image_width": 1199,
+        "image_height": 700,
+        "image_bytes": 93371,
+        "id": 1,
+        "original_url": "https://twitter.com/timsoulo/status/1516597198812712962?t=Qie6RiF-VZ6vFq0nUsLNAw&amp;s=19",
+        "fallback": "<https://twitter.com/timsoulo|@timsoulo>: An interesting SEO case has been making waves on LinkedIn.\n\nSomeone created a website by scraping millions of \"People also asked\" questions from Google.\n\nIn less than a year they got 144k indexed pages, bringing 5.1 Million visits (as per <https://twitter.com/ahrefs|@ahrefs>).\n\nCredit: <https://twitter.com/FeryKaszoni|@FeryKaszoni> <https://pbs.twimg.com/media/FQwJHT0UYAI4lny.jpg>",
+        "text": "An interesting SEO case has been making waves on LinkedIn.\n\nSomeone created a website by scraping millions of \"People also asked\" questions from Google.\n\nIn less than a year they got 144k indexed pages, bringing 5.1 Million visits (as per <https://twitter.com/ahrefs|@ahrefs>).\n\nCredit: <https://twitter.com/FeryKaszoni|@FeryKaszoni> <https://pbs.twimg.com/media/FQwJHT0UYAI4lny.jpg>",
+        "author_name": "Tim Soulo 🇺🇦",
+        "author_link": "https://twitter.com/timsoulo/status/1516597198812712962",
+        "author_icon": "https://pbs.twimg.com/profile_images/1498120612375531522/LnC2JXib_normal.jpg",
+        "author_subname": "@timsoulo",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WLR4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://twitter.com/timsoulo/status/1516597198812712962?t=Qie6RiF-VZ6vFq0nUsLNAw&s=19",
+                "text": "https://twitter.com/timsoulo/status/1516597198812712962?t=Qie6RiF-VZ6vFq0nUsLNAw&s=19"
+              },
+              {
+                "type": "text",
+                "text": "\n\nVery interesting"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U0316818QSH",
+          "U03208N6E2G"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5c21a877-67e1-4abf-a5a2-4e675685f7a3",
+    "type": "message",
+    "text": "Is paying tools like SEMRush / Ahrefs are worth for the money as they are expensive? When is the right time to invest on these tools?",
+    "user": "U038W1678JX",
+    "ts": "1650422200.189719",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1ki0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is paying tools like SEMRush / Ahrefs are worth for the money as they are expensive? When is the right time to invest on these tools?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650422200.189719",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650445702.400419",
+    "reply_users": [
+      "U02V5Q7DUPJ",
+      "U02VA7QD8UB",
+      "U03B77PCDNY",
+      "U03BZJ0KK1R"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "5d8993fe-ba0a-449b-b7f9-cc2ee3defbb7",
+    "type": "message",
+    "text": "hey folks, if I add my product videos in YouTube and give a specific description based on the keywords we use, will that help in SEO?",
+    "user": "U038WP8PLUA",
+    "ts": "1650304333.437819",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jkegb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey folks, if I add my product videos in YouTube and give a specific description based on the keywords we use, will that help in SEO?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650304333.437819",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650346126.259569",
+    "reply_users": [
+      "U02USELSBRT",
+      "U02PDC4883V",
+      "U038WP8PLUA"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "dfc72372-5ca0-4469-9932-c14b1e8dd0a6",
+    "type": "message",
+    "text": "Someone recommended us to add a chatbot on the website for SEO. Does it really help?\nAlso any recommendation for a good chatbot.\n\nThanks in advance",
+    "user": "U033RUXVCAY",
+    "ts": "1650022239.554179",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k1Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Someone recommended us to add a chatbot on the website for SEO. Does it really help?\nAlso any recommendation for a good chatbot.\n\nThanks in advance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650022239.554179",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1650100915.504719",
+    "reply_users": [
+      "U02USELSBRT",
+      "U032MN1BESJ",
+      "U0316K76612",
+      "U033RUXVCAY"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "441F99FF-9FF1-41F1-B771-CDD9F3F8EF8C",
+    "type": "message",
+    "text": "Good read\n\n<https://twitter.com/rahulmarthak/status/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw|https://twitter.com/rahulmarthak/status/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw>",
+    "user": "U02V991KYHZ",
+    "ts": "1649783857.319329",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://twitter.com/rahulmarthak/status/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw",
+        "ts": 1649775210,
+        "image_url": "https://pbs.twimg.com/media/FQJl7fLagAAeNw2.jpg",
+        "image_width": 1200,
+        "image_height": 624,
+        "image_bytes": 57966,
+        "id": 1,
+        "original_url": "https://twitter.com/rahulmarthak/status/1513893074287861761?s=21&amp;t=YD3FUCawm0j2IpWPch6Csw",
+        "fallback": "<https://twitter.com/RahulMarthak|@RahulMarthak>: How <https://twitter.com/mydukaanapp|@mydukaanapp> leverages the power of SEO!\n\nAn Indian Startup valued at around $70M, generates more than 400k monthly organic traffic &amp; crazy 700k Backlinks.\n\nLet’s dive into Dukaan’s #SEO Strategy\n\nA Thread :thread: :point_down: <https://pbs.twimg.com/media/FQJl7fLagAAeNw2.jpg>",
+        "text": "How <https://twitter.com/mydukaanapp|@mydukaanapp> leverages the power of SEO!\n\nAn Indian Startup valued at around $70M, generates more than 400k monthly organic traffic &amp; crazy 700k Backlinks.\n\nLet’s dive into Dukaan’s #SEO Strategy\n\nA Thread :thread: :point_down: <https://pbs.twimg.com/media/FQJl7fLagAAeNw2.jpg>",
+        "author_name": "Rahul Marthak",
+        "author_link": "https://twitter.com/RahulMarthak/status/1513893074287861761",
+        "author_icon": "https://pbs.twimg.com/profile_images/1491090492850794497/9ovsiZOT_normal.jpg",
+        "author_subname": "@RahulMarthak",
+        "service_name": "twitter",
+        "service_url": "https://twitter.com/",
+        "footer": "Twitter",
+        "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yF2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good read\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://twitter.com/rahulmarthak/status/1513893074287861761?s=21&t=YD3FUCawm0j2IpWPch6Csw",
+                "text": "https://twitter.com/rahulmarthak/status/1513893074287861761?s=21&t=YD3FUCawm0j2IpWPch6Csw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649783857.319329",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649828802.891609",
+    "reply_users": [
+      "U03B77PCDNY"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e9abcc66-f15e-4e4f-ab93-aa6f1c0ae1b1",
+    "type": "message",
+    "text": "Hello Everyone,\n\nAny advice or tips on How to start with the content Marketing Plan for a new Product. We have now 0 Blog. We are kind of a marketplace that connects Founders &amp; Investors. So I should map 2 Way content marketing strategy.\n\nIf anyone here has any experience on Building a content marketing  strategy for a marketplace kind of a Product.",
+    "user": "U02U9C39MAA",
+    "ts": "1649776801.784799",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/PWi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone,\n\nAny advice or tips on How to start with the content Marketing Plan for a new Product. We have now 0 Blog. We are kind of a marketplace that connects Founders & Investors. So I should map 2 Way content marketing strategy.\n\nIf anyone here has any experience on Building a content marketing  strategy for a marketplace kind of a Product."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649776801.784799",
+    "reply_count": 5,
+    "reply_users_count": 5,
+    "latest_reply": "1649924020.423629",
+    "reply_users": [
+      "U02USELSBRT",
+      "U031KD0PNTX",
+      "U03AF2HBZPX",
+      "U02VAPDACUQ",
+      "U03014JNGMQ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "3A272283-E05F-4E41-A3AF-4F70D5E81684",
+    "type": "message",
+    "text": "Hey Folks,\n\nIf you had you to choose between SemRush and Ahref which one would you recommend for keyword research, site audit, content gaps, competitor analysis ",
+    "user": "U02V991KYHZ",
+    "ts": "1649751227.885619",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j56u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Folks,\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "If you had you to choose between SemRush and Ahref which one would you recommend for keyword research, site audit, content gaps, competitor analysis "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649751227.885619",
+    "reply_count": 12,
+    "reply_users_count": 12,
+    "latest_reply": "1649939478.328289",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U038F88AS0N",
+      "U02U94HSBV4",
+      "U0363DZU3QF",
+      "U0325QQQALR",
+      "U02PDC4883V",
+      "U03560PQ082",
+      "U030ZBUDAUC",
+      "U02VA7QD8UB",
+      "U02V991KYHZ",
+      "U03B77PCDNY",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "4416EE25-035D-4027-A633-571CC448AAE5",
+    "type": "message",
+    "text": "Hola everyone!\nCan anyone suggest good resource to learn mapping user journey in GA. We want to understand of the total visitors only X% is getting converted to MQL. Want to understand where are the drops happening till the completion of the goal(book a demo). What is the path that is taken by the user",
+    "user": "U03AUT302TU",
+    "ts": "1649690203.476349",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vMjE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hola everyone!\nCan anyone suggest good resource to learn mapping user journey in GA. We want to understand of the total visitors only X% is getting converted to MQL. Want to understand where are the drops happening till the completion of the goal(book a demo). What is the path that is taken by the user"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649690203.476349",
+    "reply_count": 7,
+    "reply_users_count": 2,
+    "latest_reply": "1649739411.046079",
+    "reply_users": [
+      "U03A397SJCF",
+      "U03AUT302TU"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "348e8020-9398-42f1-9285-272b0f4daf6d",
+    "type": "message",
+    "text": "If you couldn’t attend Brighton SEO like me, here are the *<https://docs.google.com/spreadsheets/d/1kIAEtyhqedesbA_YxP-QBMwZmuiyw0HSHC6Nl4SoE6s/htmlview#gid=408787110|slide decks>*. Enjoy! :v:",
+    "user": "U02VA7QD8UB",
+    "ts": "1649681801.686159",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yItla",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you couldn’t attend Brighton SEO like me, here are the "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1kIAEtyhqedesbA_YxP-QBMwZmuiyw0HSHC6Nl4SoE6s/htmlview#gid=408787110",
+                "text": "slide decks",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ". Enjoy! "
+              },
+              {
+                "type": "emoji",
+                "name": "v"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649681801.686159",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649765816.199459",
+    "reply_users": [
+      "U030KSSTADU"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "100",
+        "users": [
+          "U02U94HSBV4",
+          "U039FQ2SNNN",
+          "U03AF2HBZPX",
+          "U02VAPDACUQ",
+          "U03560PQ082",
+          "U02PDC6B0HH",
+          "U030SDYNX7V",
+          "U03014JNGMQ"
+        ],
+        "count": 8
+      },
+      {
+        "name": "star-struck",
+        "users": [
+          "U0325QQQALR",
+          "U03AF2HBZPX",
+          "U03560PQ082",
+          "U031YH4D36U",
+          "U030KSSTADU"
+        ],
+        "count": 5
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U031BFZ006T"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "436f6f8d-5998-4407-900c-24af8f3ea672",
+    "type": "message",
+    "text": "Hi Guys,\n\nI'm getting this \"*Discovered – currently not indexed*\" issue for the past 10-20 days. Earlier the pages were indexed on the google search engine. But for the past few days, it is showing this error on the google search console.\n\nCan anybody help me to sort this issue out?",
+    "user": "U038F88AS0N",
+    "ts": "1649482469.280849",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kK40",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Guys,\n\nI'm getting this \""
+              },
+              {
+                "type": "text",
+                "text": "Discovered – currently not indexed",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\" issue for the past 10-20 days. Earlier the pages were indexed on the google search engine. But for the past few days, it is showing this error on the google search console.\n\nCan anybody help me to sort this issue out?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649482469.280849",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649494698.196089",
+    "reply_users": [
+      "U0325QQQALR",
+      "U02VA7QD8UB"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "043E382F-361F-43AE-A274-D5647B3B7643",
+    "type": "message",
+    "text": "Have a friend in Canada looking for support in SEO for some real estate websites. Do let me know if anyone is interested",
+    "user": "U03AJ8BHKNC",
+    "ts": "1649267201.566719",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vy8d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have a friend in Canada looking for support in SEO for some real estate websites. Do let me know if anyone is interested"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649267201.566719",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649397324.477359",
+    "reply_users": [
+      "U03A0H0N2LD"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "c512a108-0990-4208-92c4-9b458829d796",
+    "type": "message",
+    "text": "Hey folks,\n\nOne of our client's SEO agency is suggesting them to buy Rank Math. Is it worth investing for on page SEO, and also is it better than Yoast?\n\nOr any other alternate recommendation for this?\n\nThanks in advance",
+    "user": "U033RUXVCAY",
+    "ts": "1649065875.219319",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iWCR5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey folks,\n\nOne of our client's SEO agency is suggesting them to buy Rank Math. Is it worth investing for on page SEO, and also is it better than Yoast?\n\nOr any other alternate recommendation for this?\n\nThanks in advance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649065875.219319",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649159982.545399",
+    "reply_users": [
+      "U02VAPDACUQ",
+      "U033RUXVCAY",
+      "U0316K76612"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "dd91495e-0923-41ce-b190-1eb742bd62ef",
+    "type": "message",
+    "text": "Hi everyone, looking for tips on international seo. Problem statement: our website and content (<http://www.superbeings.ai|www.superbeings.ai>) ranks decently for India but is way behind in the US. Most resources on the internet suggest 3 ways - different domain, sub-folder, or subdomain. Have you tried any? Do you think .com domain rather than .ai will make it better?",
+    "user": "U030SH0HR6X",
+    "ts": "1648638640.730449",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=Ro7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi everyone, looking for tips on international seo. Problem statement: our website and content ("
+              },
+              {
+                "type": "link",
+                "url": "http://www.superbeings.ai",
+                "text": "www.superbeings.ai"
+              },
+              {
+                "type": "text",
+                "text": ") ranks decently for India but is way behind in the US. Most resources on the internet suggest 3 ways - different domain, sub-folder, or subdomain. Have you tried any? Do you think .com domain rather than .ai will make it better?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648638640.730449",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1650442965.022019",
+    "reply_users": [
+      "U0316NH4FQV",
+      "U037VSS964S",
+      "U030SH0HR6X",
+      "U03208N6E2G"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "71838f06-760d-46ae-9e2f-dc6c96ac1801",
+    "type": "message",
+    "text": "Hi Everyone, I set up the new GA4 tag for my website through GTM. I set up the tag and trigger correctly, but there's no data being populated.\n\nNeed some help understanding where I went wrong and how to fix this. Thanks!",
+    "user": "U033QDFML74",
+    "ts": "1648624009.280139",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U033QDFML74",
+      "ts": "1648624040.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T5XRJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Everyone, I set up the new GA4 tag for my website through GTM. I set up the tag and trigger correctly, but there's no data being populated.\n\nNeed some help understanding where I went wrong and how to fix this. Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648624009.280139",
+    "reply_count": 9,
+    "reply_users_count": 5,
+    "latest_reply": "1648706449.191039",
+    "reply_users": [
+      "U02PDC4883V",
+      "U033QDFML74",
+      "U038W1678JX",
+      "U038L2K4R08",
+      "U02USELSBRT"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  }
+]

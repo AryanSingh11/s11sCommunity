@@ -1,0 +1,1052 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783094.418839",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "type": "message",
+    "text": "FML",
+    "files": [
+      {
+        "id": "F03CCD7MR6J",
+        "created": 1650634621,
+        "timestamp": 1650634621,
+        "name": "Screenshot 2022-04-22 at 7.05.55 PM.png",
+        "title": "Screenshot 2022-04-22 at 7.05.55 PM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U030SDYNX7V",
+        "editable": false,
+        "size": 51669,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03CCD7MR6J/screenshot_2022-04-22_at_7.05.55_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03CCD7MR6J/download/screenshot_2022-04-22_at_7.05.55_pm.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 135,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 179,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 269,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 299,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 359,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03CCD7MR6J-b92fcde7db/screenshot_2022-04-22_at_7.05.55_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 383,
+        "original_w": 1520,
+        "original_h": 568,
+        "thumb_tiny": "AwARADDQwtL8vp+lGeMc0A/WgA+X0H5Uvy+n6UZ9jRn2NACfL6fpS/Kew/KjPsaAfagBR0FFA6CigAooooAKKKKAP//Z",
+        "permalink": "https://s11s.slack.com/files/U030SDYNX7V/F03CCD7MR6J/screenshot_2022-04-22_at_7.05.55_pm.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03CCD7MR6J-3eb71cff9e",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U030SDYNX7V",
+    "display_as_bot": false,
+    "ts": "1650634624.932609",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IPfJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "FML"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "edited": {
+      "user": "U030SDYNX7V",
+      "ts": "1650634630.000000"
+    },
+    "client_msg_id": "746d4443-0f81-42e4-b0db-210b1cd4a5e1",
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U02PDC4883V"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9bac24b6-a3af-4a0c-95f8-3caa9f44a4ea",
+    "type": "message",
+    "text": "<https://app.rigi.club/|This product just raised 10 Mn USD. >\n\nQ. What's so unique about this product idea?",
+    "user": "U02PDC6B0HH",
+    "ts": "1650529915.016359",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://app.rigi.club/",
+        "image_url": "https://d16pymai44111.cloudfront.net/small_meta.jpeg",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 133268,
+        "id": 1,
+        "original_url": "https://app.rigi.club/",
+        "fallback": "Rigi - Bharat ka apna broadcast platform",
+        "text": "On Rigi you can join or create your own broadcast channel, groups for unlimited users or do 1 to 1 messaging with your friends &amp; followers!",
+        "title": "Rigi - Bharat ka apna broadcast platform",
+        "title_link": "https://app.rigi.club/",
+        "service_name": "app.rigi.club"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pt23m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://app.rigi.club/",
+                "text": "This product just raised 10 Mn USD. "
+              },
+              {
+                "type": "text",
+                "text": "\n\nQ. What's so unique about this product idea?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650529915.016359",
+    "reply_count": 8,
+    "reply_users_count": 4,
+    "latest_reply": "1650606165.794389",
+    "reply_users": [
+      "U02UGB8DERY",
+      "U02USELSBRT",
+      "U02PDC6B0HH",
+      "U032AUA6KFV"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "d9d39c03-726b-42ad-a9b1-d3eb534393ff",
+    "type": "message",
+    "text": "If there was a function i loved next to tech it is marketing, if there is a team which can annoy the fuck out of me its the MARKETING team :disappointed:",
+    "user": "U030SDYNX7V",
+    "ts": "1649913909.584099",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BGvpr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If there was a function i loved next to tech it is marketing, if there is a team which can annoy the fuck out of me its the MARKETING team "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649913909.584099",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1649919928.348969",
+    "reply_users": [
+      "U02PDC4883V",
+      "U030SDYNX7V",
+      "U02U94HSBV4",
+      "U02PDC6B0HH"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U02PDC4883V",
+          "U02TTEFFU6B",
+          "U02ULCHDGB0",
+          "U03560PQ082",
+          "U039L0HCSHW"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a3526d86-8de4-422d-b05f-bca834e7a3ba",
+    "type": "message",
+    "text": "My friend and I tried Hirect for two weeks for a role (as a candidate). One of those \"great intentions but poor execution\" experience in my opinion. You take your time to put the right filters, make your profile to be as impressive as possible, select just the right companies/start-ups which have directly founders instead of HR managers or third party agents hiring, send the perfect first impression message through Hirect chat (after 4 drafts) and voila - NO RESPONSE. \nWell, you're as good as LinkedIn Easy apply then no? :face_with_hand_over_mouth:",
+    "user": "U0362R42317",
+    "ts": "1649765639.972279",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2YOrw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My friend and I tried Hirect for two weeks for a role (as a candidate). One of those \"great intentions but poor execution\" experience in my opinion. You take your time to put the right filters, make your profile to be as impressive as possible, select just the right companies/start-ups which have directly founders instead of HR managers or third party agents hiring, send the perfect first impression message through Hirect chat (after 4 drafts) and voila - NO RESPONSE. \nWell, you're as good as LinkedIn Easy apply then no? "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_hand_over_mouth"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U02UHTMEGR3"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "07f10939-1882-4003-9a32-82a2d336ced8",
+    "type": "message",
+    "text": "Has anyone else faced a situation where founder comes to you and asks you to evaluate a tool from a startup in the the VC portfolio, and gives no other reason. I faced it 3 years back - 2/3 times and there were not other reasons given. Just spend the teams time trying out a new tool\n\nGot reminded of it as I just got an email from a founder/friend who is part of a VC portfolio and another portfolio company just raised funding and wants to contact me/my team",
+    "user": "U031QKGPNRK",
+    "ts": "1649763521.715459",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U031QKGPNRK",
+      "ts": "1649763640.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "71IRN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anyone else faced a situation where founder comes to you and asks you to evaluate a tool from a startup in the the VC portfolio, and gives no other reason. I faced it 3 years back - 2/3 times and there were not other reasons given. Just spend the teams time trying out a new tool\n\nGot reminded of it as I just got an email from a founder/friend who is part of a VC portfolio and another portfolio company just raised funding and wants to contact me/my team"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649763521.715459",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649939648.084069",
+    "reply_users": [
+      "U030SHA1S2W",
+      "U03A397SJCF",
+      "U02USELSBRT",
+      "U03AQFPP9BL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U030SHA1S2W"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ce7e8e5d-c3c0-4a77-b721-8e8cc7c28cb9",
+    "type": "message",
+    "text": "First hiring a pool of people with high salary &amp; then sack them when you can't grow more!\n\nHow can this be justified?",
+    "user": "U03AHQURB98",
+    "ts": "1649589551.397349",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gSmj7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "First hiring a pool of people with high salary & then sack them when you can't grow more!\n\nHow can this be justified?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649589551.397349",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649649594.069439",
+    "reply_users": [
+      "U02VA7QD8UB",
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "4c599fab-059c-4328-9e0a-4414871b0a1b",
+    "type": "message",
+    "text": "slightly off topic but anyone following the instahyre controversy? one of the craziest things ive seen in the startup world",
+    "user": "U030N8RHURZ",
+    "ts": "1649580288.318549",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xn=V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "slightly off topic but anyone following the instahyre controversy? one of the craziest things ive seen in the startup world"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649580288.318549",
+    "reply_count": 17,
+    "reply_users_count": 9,
+    "latest_reply": "1649668098.924049",
+    "reply_users": [
+      "U02TTEFFU6B",
+      "U030SHA1S2W",
+      "U031QKGPNRK",
+      "U02PDC4883V",
+      "U03560PQ082",
+      "U02VA7QD8UB",
+      "U02U94HSBV4",
+      "U030N8RHURZ",
+      "U039L895FA4"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e8d665e8-fb3d-48da-9bc9-4a86d1183b9a",
+    "type": "message",
+    "text": "What's these Unacademy stores all about?",
+    "user": "U02TTEFFU6B",
+    "ts": "1649500508.842289",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "COlx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What's these Unacademy stores all about?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649500508.842289",
+    "reply_count": 7,
+    "reply_users_count": 6,
+    "latest_reply": "1650004994.116399",
+    "reply_users": [
+      "U031QKGPNRK",
+      "U033ASE526S",
+      "U031KD0PNTX",
+      "U039DHTUVQF",
+      "U02USELSBRT",
+      "U02V8NZMWSX"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U0362R42317",
+          "U031QKGPNRK",
+          "U03560PQ082"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a057782f-b8ef-482e-b796-2681edd3294f",
+    "type": "message",
+    "text": "Can someone summarise this please?\n<https://www.linkedin.com/in/monamohanty/recent-activity/shares/>",
+    "user": "U02PDC6B0HH",
+    "ts": "1649415769.152499",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PBxBg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can someone summarise this please?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/monamohanty/recent-activity/shares/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649415769.152499",
+    "reply_count": 17,
+    "reply_users_count": 5,
+    "latest_reply": "1649450527.104409",
+    "reply_users": [
+      "U02UZL0FMC1",
+      "U030SDYNX7V",
+      "U02PDC4883V",
+      "U02PDC6B0HH",
+      "U02USELSBRT"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "12c55614-da84-4b1b-afbd-9cabff9c5d23",
+    "type": "message",
+    "text": "troubles of the part-time marketer - conversion doubled and i have no explanation :disappointed:",
+    "user": "U030SDYNX7V",
+    "ts": "1649395678.037939",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "et+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "troubles of the part-time marketer - conversion doubled and i have no explanation "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649395678.037939",
+    "reply_count": 13,
+    "reply_users_count": 5,
+    "latest_reply": "1649664324.532269",
+    "reply_users": [
+      "U02PDC4883V",
+      "U030SDYNX7V",
+      "U039FQ2SNNN",
+      "U02USELSBRT",
+      "U038L2K4R08"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U02PDC4883V"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F03AM0SRHNE",
+        "created": 1649359433,
+        "timestamp": 1649359433,
+        "name": "Screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02.jpg",
+        "title": "Screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U033ASE526S",
+        "editable": false,
+        "size": 28822,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03AM0SRHNE/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03AM0SRHNE/download/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 124,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 165,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 247,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 275,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 330,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AM0SRHNE-89cdd2c5e6/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 352,
+        "original_w": 1080,
+        "original_h": 371,
+        "thumb_tiny": "AwAQADCe7neKVQpXnsR1qfLHHJBI6cVIVUnJUE+4pCuW6kUAN3H1z+VG4+v8qXbz1NKV56nmgBASRxk/lTgSeoxQBtHc0vegD//Z",
+        "permalink": "https://s11s.slack.com/files/U033ASE526S/F03AM0SRHNE/screenshot_2022-04-07-14-19-22-29_0b2fce7a16bf2b728d6ffa28c8d60efb__02.jpg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03AM0SRHNE-f05463b31b",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U033ASE526S",
+    "display_as_bot": false,
+    "ts": "1649359441.350449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "12fD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "4d57ef9b-9a1c-4667-819f-75808e51f05c",
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U02UHQYEF70",
+          "U02PDC4883V",
+          "U02U94HSBV4",
+          "U02URBKGVA7",
+          "U030N8RHURZ",
+          "U030ZR9D0FK",
+          "U0362R42317",
+          "U03847S3MJN",
+          "U0308538GDQ",
+          "U039PF71127",
+          "U030RKNTR6H"
+        ],
+        "count": 11
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8de25da2-f8c8-4e0a-8911-21ac70e3c4aa",
+    "type": "message",
+    "text": "<https://every.to/superorganizers/against-ikigai|https://every.to/superorganizers/against-ikigai>",
+    "user": "U02PDC4883V",
+    "ts": "1649294915.267379",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://every.to/superorganizers/against-ikigai",
+        "image_url": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/2115/IMG_0534.JPG",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 42097,
+        "service_icon": "https://every.to/favicon.ico",
+        "id": 1,
+        "original_url": "https://every.to/superorganizers/against-ikigai",
+        "fallback": "Against Ikigai",
+        "text": "And How to Move Toward a Diversified Portfolio of Meaning",
+        "title": "Against Ikigai",
+        "title_link": "https://every.to/superorganizers/against-ikigai",
+        "service_name": "every.to"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5cZW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://every.to/superorganizers/against-ikigai",
+                "text": "https://every.to/superorganizers/against-ikigai"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U031KD0PNTX",
+          "U039PF71127",
+          "U033AQ4MJQ6"
+        ],
+        "count": 3
+      },
+      {
+        "name": "bulb",
+        "users": [
+          "U038WP8PLUA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "138ff170-01b6-4a82-9b80-4e8bbfb3da7b",
+    "type": "message",
+    "text": "how to give feedback in a non offensive way :disappointed: especially when your blood boils at seeing the mistakes",
+    "user": "U030SDYNX7V",
+    "ts": "1649180136.323279",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vAGk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "how to give feedback in a non offensive way "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed"
+              },
+              {
+                "type": "text",
+                "text": " especially when your blood boils at seeing the mistakes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649180136.323279",
+    "reply_count": 9,
+    "reply_users_count": 6,
+    "latest_reply": "1649247326.373349",
+    "reply_users": [
+      "U02VD2JL8N8",
+      "U032AUA6KFV",
+      "U032MN1BESJ",
+      "U030SDYNX7V",
+      "U031QKGPNRK",
+      "U02VBNKU9T6"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "What does this even mean?",
+    "files": [
+      {
+        "id": "F03AUBUGY1E",
+        "created": 1649155751,
+        "timestamp": 1649155751,
+        "name": "Screenshot 2022-04-05 at 4.19.07 PM.png",
+        "title": "Screenshot 2022-04-05 at 4.19.07 PM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02PDC6B0HH",
+        "editable": false,
+        "size": 158702,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03AUBUGY1E/screenshot_2022-04-05_at_4.19.07_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03AUBUGY1E/download/screenshot_2022-04-05_at_4.19.07_pm.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_360.png",
+        "thumb_360_w": 340,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_480.png",
+        "thumb_480_w": 453,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_720.png",
+        "thumb_720_w": 679,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 848,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_960.png",
+        "thumb_960_w": 906,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03AUBUGY1E-9690e2c743/screenshot_2022-04-05_at_4.19.07_pm_1024.png",
+        "thumb_1024_w": 966,
+        "thumb_1024_h": 1024,
+        "original_w": 1038,
+        "original_h": 1100,
+        "thumb_tiny": "AwAwAC2/tUOWAUMepxSg47j8qMnP3h+dOwf7xoATk9CPypcH1H5UYP8AeNGD/eNACjPeikwf7xpaAGZO4j+lKN3cZpDuyetKN2P8aAFyf7v60ZPp+tHze1Hze1ABk/3f1pRnuMUnze1Hze1ADT1Py/zpdx/u0h6n5qTP+3QA7cf7tAJPakGD/F+VO2+5/OgAy3oPzpRnuKTb7n86WgD/2Q==",
+        "permalink": "https://s11s.slack.com/files/U02PDC6B0HH/F03AUBUGY1E/screenshot_2022-04-05_at_4.19.07_pm.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03AUBUGY1E-08ed113798",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02PDC6B0HH",
+    "display_as_bot": false,
+    "ts": "1649155760.497759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gTIzV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What does this even mean?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "02be1e82-073e-44b2-95d4-468ac60604f0",
+    "thread_ts": "1649155760.497759",
+    "reply_count": 23,
+    "reply_users_count": 10,
+    "latest_reply": "1649222535.390829",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02VBNKU9T6",
+      "U02PDC6B0HH",
+      "U02UZL0FMC1",
+      "U02VA7QD8UB",
+      "U037UUE6TV3",
+      "U032MN1BESJ",
+      "U033ASE526S",
+      "U02TTEFFU6B",
+      "U02U94HSBV4"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "smile",
+        "users": [
+          "U030MGFLT7F"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8AF59857-AC40-4ECE-A05F-1EC91B9BB8F8",
+    "type": "message",
+    "text": "What are your opinions on hustle culture? Good ? Great? Bad? Is it scalable?",
+    "user": "U039FQ2SNNN",
+    "ts": "1649072731.364559",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xFYc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What are your opinions on hustle culture? Good ? Great? Bad? Is it scalable?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649072731.364559",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649162277.082399",
+    "reply_users": [
+      "U02UY3EPQDA"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "30d492af-f75e-4407-a509-d7494e51ce25",
+    "type": "message",
+    "text": "Am tired of getting tips and articles about productivity across social media. Any recommendations for anti-productivity? pleasure in being bored/doing nothing? #NotKidding. Any psychologists or thought leaders you follow or like who talks about how disconnecting/doing nothing/being bored is also healthy.",
+    "user": "U031QKGPNRK",
+    "ts": "1649069600.731629",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u=PC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Am tired of getting tips and articles about productivity across social media. Any recommendations for anti-productivity? pleasure in being bored/doing nothing? #NotKidding. Any psychologists or thought leaders you follow or like who talks about how disconnecting/doing nothing/being bored is also healthy."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649069600.731629",
+    "reply_count": 10,
+    "reply_users_count": 8,
+    "latest_reply": "1649133579.158149",
+    "reply_users": [
+      "U02UGB8DERY",
+      "U033RUXVCAY",
+      "U031QKGPNRK",
+      "U02V9QUDK1Q",
+      "U02USELSBRT",
+      "U032AUA6KFV",
+      "U02PDC4883V",
+      "U0307CZ6CRF"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0cea0e99-ba80-4ef6-ba17-71e08809438b",
+    "type": "message",
+    "text": "“We are data-driven”\n\nIs by far the biggest lie that companies tell themselves!",
+    "user": "U02UY3EPQDA",
+    "ts": "1648884980.690959",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZQKe4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "“We are data-driven”\n\nIs by far the biggest lie that companies tell themselves!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "laughing",
+        "users": [
+          "U0380S2BZ9A",
+          "U030SDYNX7V",
+          "U038V229WRZ",
+          "U039H3ZSRD3",
+          "U02USELSBRT",
+          "U02URS98P9B"
+        ],
+        "count": 6
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cc31aef6-6004-4ba3-8c22-c44a2589ebf7",
+    "type": "message",
+    "text": "Mods - Premier League ke time pain kaun webinar rakhta hain :laughing:",
+    "user": "U02UMJJJALA",
+    "ts": "1648842937.908599",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Sn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Mods - Premier League ke time pain kaun webinar rakhta hain "
+              },
+              {
+                "type": "emoji",
+                "name": "laughing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648842937.908599",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1648898591.382619",
+    "reply_users": [
+      "U02PDC6B0HH",
+      "U038WP8PLUA",
+      "U02UMJJJALA"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "joy",
+        "users": [
+          "U02VBNKU9T6"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2823216c-c423-4515-9dd2-5e912a90180f",
+    "type": "message",
+    "text": "Anybody else gets super annoyed when people with 15-20 yrs exp. call the shots on things like meme marketing? Like how does one take social media inputs from somebody who pre dates the concept of social media?",
+    "user": "U030N8RHURZ",
+    "ts": "1648732573.575779",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J0pf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anybody else gets super annoyed when people with 15-20 yrs exp. call the shots on things like meme marketing? Like how does one take social media inputs from somebody who pre dates the concept of social media?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648732573.575779",
+    "reply_count": 7,
+    "reply_users_count": 5,
+    "latest_reply": "1648926091.800959",
+    "reply_users": [
+      "U033RUXVCAY",
+      "U02USELSBRT",
+      "U030N8RHURZ",
+      "U02VBNKU9T6",
+      "U030SDYNX7V"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "users": [
+          "U03996E48LB",
+          "U02URBKGVA7",
+          "U02TTEFFU6B",
+          "U030ZEY6Z0V",
+          "U038V229WRZ",
+          "U02UY3EPQDA",
+          "U02UZL0FMC1",
+          "U038FBFLN2K",
+          "U030ZR9D0FK",
+          "U039L0HCSHW",
+          "U030ML6FL00",
+          "U0308538GDQ",
+          "U030XB8C43Y",
+          "U02UV03PBB9"
+        ],
+        "count": 14
+      }
+    ]
+  }
+]

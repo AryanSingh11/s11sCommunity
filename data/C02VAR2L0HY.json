@@ -1,0 +1,170 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783065.532999",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "07ddbe7d-0bd5-4ea5-9bb9-7ebbf1b9f169",
+    "type": "message",
+    "text": ":wave: Hello, team!",
+    "user": "U03ANAPQ3J9",
+    "ts": "1649425500.396049",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YCMhs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "wave"
+              },
+              {
+                "type": "text",
+                "text": " Hello, team!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "wave",
+        "users": [
+          "U02PDC4883V",
+          "U031KD0PNTX"
+        ],
+        "count": 2
+      },
+      {
+        "name": "ghost",
+        "users": [
+          "U030L29FSN4",
+          "U039CLHUS2H"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": ":zipper_mouth_face::woozy_face:",
+    "files": [
+      {
+        "id": "F039FFP42G6",
+        "created": 1648789742,
+        "timestamp": 1648789742,
+        "name": "Image from iOS.jpg",
+        "title": "Image from iOS",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U0325QQQALR",
+        "editable": false,
+        "size": 27613,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F039FFP42G6/image_from_ios.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F039FFP42G6/download/image_from_ios.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 151,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 202,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 303,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F039FFP42G6-c9dc5257b8/image_from_ios_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 336,
+        "original_w": 828,
+        "original_h": 348,
+        "thumb_tiny": "AwAUADBUR2GVQkeopfKl/wCebVPbmQRxhACuTuz25qTHt+n/ANao5SrlTypR1Q0gR2+6pOPSrTRq6lWUEHrxSRwpEf3aBc9wKfKguV/Kl/55tTWR1GWQge9Xtze5/D/61MucfZ29cjtik4gmQwSOo2g8VKJGHTA/CoIvvGpKskk81/X9Kb58mev6U2m96AJfOf1/SobiV2UKTxT6hn7UnsOO5//Z",
+        "permalink": "https://s11s.slack.com/files/U0325QQQALR/F039FFP42G6/image_from_ios.jpg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F039FFP42G6-fe670721e6",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U0325QQQALR",
+    "display_as_bot": false,
+    "ts": "1648789862.739589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nxz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "zipper_mouth_face"
+              },
+              {
+                "type": "emoji",
+                "name": "woozy_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "62E8A08E-7244-43B6-83D2-B9E05E5CBA7A",
+    "thread_ts": "1648789862.739589",
+    "reply_count": 4,
+    "reply_users_count": 4,
+    "latest_reply": "1649657987.334379",
+    "reply_users": [
+      "U02USELSBRT",
+      "U035TLE6USV",
+      "U032G5AP31U",
+      "U030M1LS1L2"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "sweat_smile",
+        "users": [
+          "U02V4ARK50V",
+          "U02USELSBRT",
+          "U0320BWGR41",
+          "U039PF71127",
+          "U038V229WRZ"
+        ],
+        "count": 5
+      },
+      {
+        "name": "zipper_mouth_face",
+        "users": [
+          "U030ZR9D0FK",
+          "U035TLE6USV",
+          "U02VA7QD8UB",
+          "U039XDTLM4H",
+          "U03996E48LB"
+        ],
+        "count": 5
+      }
+    ]
+  }
+]

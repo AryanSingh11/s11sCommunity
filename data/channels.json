@@ -1,0 +1,616 @@
+[
+  {
+    "id": "C02NYMY18RM",
+    "name": "rants",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1638499811,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "rants",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC4883V",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas and funny GIFs. Go wild!",
+      "creator": "U02PDC4883V",
+      "last_set": 1638499811
+    },
+    "previous_names": [
+      "random"
+    ],
+    "num_members": 1295
+  },
+  {
+    "id": "C02PS0CGPU1",
+    "name": "general",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1638499811,
+    "is_archived": false,
+    "is_general": true,
+    "unlinked": 0,
+    "name_normalized": "general",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC4883V",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.\nNOTE: Please avoid @channel announcements unless extremely necessary.",
+      "creator": "U02VC7G2RHS",
+      "last_set": 1644493697
+    },
+    "previous_names": [],
+    "num_members": 1298
+  },
+  {
+    "id": "C02S4318139",
+    "name": "jobopps",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1641240250,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "jobopps",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "job openings, referrals, getting hired",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1641240251
+    },
+    "previous_names": [],
+    "num_members": 1278
+  },
+  {
+    "id": "C02SC17QD1U",
+    "name": "events",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1641240302,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "events",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "meetups, guest sessions, SaaS Saturdays\n\nplease don’t promote your company events, put them in <#C0318NH5G3C|shameless-plug> instead",
+      "creator": "U02U6FZRHRV",
+      "last_set": 1646305277
+    },
+    "previous_names": [],
+    "num_members": 1265
+  },
+  {
+    "id": "C02SFP7EZHT",
+    "name": "salaryboard",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1641240195,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "salaryboard",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "all things CTC",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1641240195
+    },
+    "previous_names": [],
+    "num_members": 1272
+  },
+  {
+    "id": "C02SK1UM1U5",
+    "name": "random_coffees",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1641308014,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "random_coffees",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "Random Connects",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1643624766
+    },
+    "purpose": {
+      "value": "Be part of this channel to connect randomly with folks in the community and have spontaneous conversation.\n\nPS: If you don't wish to be paired with a random person, you can leave the channel.",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1643624745
+    },
+    "previous_names": [
+      "watercooler"
+    ],
+    "num_members": 1282
+  },
+  {
+    "id": "C02SN04FX4K",
+    "name": "introduction",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1641307870,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "introduction",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Introduce Thyself",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1641307870
+    },
+    "previous_names": [],
+    "num_members": 1297
+  },
+  {
+    "id": "C02TULUG2QJ",
+    "name": "s11s-anonymous",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642057957,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "s11s-anonymous",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "For those who choose anonymity.\n`/anonymous` before your message to make it anonymous",
+      "creator": "U02ULN6EFNV",
+      "last_set": 1643013724
+    },
+    "previous_names": [],
+    "num_members": 1293
+  },
+  {
+    "id": "C02UG9PFP2A",
+    "name": "fun",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642602827,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "fun",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "for things over sutta or chai or coffee",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1642602827
+    },
+    "previous_names": [
+      "bakar"
+    ],
+    "num_members": 1131
+  },
+  {
+    "id": "C02UJ1ED951",
+    "name": "content-marketing",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642529611,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "content-marketing",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "All things content marketing",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1642529611
+    },
+    "previous_names": [],
+    "num_members": 1267
+  },
+  {
+    "id": "C02ULADU6TW",
+    "name": "ppc",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642529941,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ppc",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Paid marketing - Google Ads et al",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1642529942
+    },
+    "previous_names": [],
+    "num_members": 1289
+  },
+  {
+    "id": "C02ULDCRFL3",
+    "name": "abm",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642564658,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "abm",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC4883V",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 1288
+  },
+  {
+    "id": "C02UPC0JKAQ",
+    "name": "markops",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642579096,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "markops",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC4883V",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "This channel is for discussion around Marketing Operations - emails, tools, segmentation, reporting, analytics!",
+      "creator": "U02PDC4883V",
+      "last_set": 1642601678
+    },
+    "previous_names": [],
+    "num_members": 1267
+  },
+  {
+    "id": "C02V6F2JYSH",
+    "name": "seo",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1643015167,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "seo",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC4883V",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 900
+  },
+  {
+    "id": "C02VAR2L0HY",
+    "name": "marketing-horror",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1643033035,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "marketing-horror",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02ULN6EFNV",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Share horrifying marketing stories. After all, we learn from other's mistakes :wink:",
+      "creator": "U02ULN6EFNV",
+      "last_set": 1643033036
+    },
+    "previous_names": [],
+    "num_members": 903
+  },
+  {
+    "id": "C02VCEU9V0Q",
+    "name": "product-marketing",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1642600666,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "product-marketing",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "creator": "U02PDC6B0HH",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T02PFK13YLC"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "discuss all things product and marketing :smile:",
+      "creator": "U02PDC6B0HH",
+      "last_set": 1642600666
+    },
+    "previous_names": [],
+    "num_members": 1206
+  }
+]

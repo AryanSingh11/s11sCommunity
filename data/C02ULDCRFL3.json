@@ -1,0 +1,259 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783016.063369",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "61581134-4ff9-4fda-8758-db3ae44fba7e",
+    "type": "message",
+    "text": "Hola! want to start with ABM as strategy. Can anyone point out good resources to learn and implement?",
+    "user": "U03AUT302TU",
+    "ts": "1650529640.230099",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T3WQ9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hola! want to start with ABM as strategy. Can anyone point out good resources to learn and implement?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650529640.230099",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1650602824.606209",
+    "reply_users": [
+      "U02VBQCQ7EG"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heavy_plus_sign",
+        "users": [
+          "U038WP8PLUA"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "Writing hooks is a very personalized process based on the campaign and your target audience. No AI tools can give you   a best hook line, but just a basic understanding of its flow and structure.\n\nHere's how you can create hooks\n1) Write a hook\n2) Peer- test among your colleagues \n3) Implement it in your strategy\n4) AB test continuously using different alteration based on the data you obtained\n\nThere is no silver bullets to master hook, it's all about implementation, readjusting and iteration.",
+    "user": "U03AGQ4LGEN",
+    "ts": "1649997740.641609",
+    "thread_ts": "1649339896.067949",
+    "root": {
+      "client_msg_id": "845d45f8-a043-4a6a-93a0-7c1a62af1eba",
+      "type": "message",
+      "text": "How do you find hooks for personalized email? \nGoogle search to find relevant content and write copy. Or use tools like lyne, warmer etc to simply the process? \nShare what went wrong and what worked. \nTIA:pray:",
+      "user": "U02UPASEMU4",
+      "ts": "1649339896.067949",
+      "team": "T02PFK13YLC",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RXj4W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "How do you find hooks for personalized email? \nGoogle search to find relevant content and write copy. Or use tools like lyne, warmer etc to simply the process? \nShare what went wrong and what worked. \nTIA"
+                },
+                {
+                  "type": "emoji",
+                  "name": "pray"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1649339896.067949",
+      "reply_count": 6,
+      "reply_users_count": 5,
+      "latest_reply": "1649997740.641609",
+      "reply_users": [
+        "U03158A1WPK",
+        "U037UUE6TV3",
+        "U035NH9AL6N",
+        "U02UZQJMP8R",
+        "U03AGQ4LGEN"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xKB5k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Writing hooks is a very personalized process based on the campaign and your target audience. No AI tools can give you   a best hook line, but just a basic understanding of its flow and structure.\n\nHere's how you can create hooks\n1) Write a hook\n2) Peer- test among your colleagues \n3) Implement it in your strategy\n4) AB test continuously using different alteration based on the data you obtained\n\nThere is no silver bullets to master hook, it's all about implementation, readjusting and iteration."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "698b3a11-29b3-4e9f-a25b-d7c3ac4af14f",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U02UPASEMU4"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9bb7cab7-6f1d-4713-90a2-4930865120a4",
+    "type": "message",
+    "text": "Hola, Anyone here who can recommend an agency to help with outbound Lead Gen (aka set up a discovery call) thru multi channel outbound for the below regions:\n1. North America\n2. UK\n3. Germany\n4. Israel",
+    "user": "U03B6AGE0HE",
+    "ts": "1649911291.939689",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U03B6AGE0HE",
+      "ts": "1649911455.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4/U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hola, Anyone here who can recommend an agency to help with outbound Lead Gen (aka set up a discovery call) thru multi channel outbound for the below regions:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "North America"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "UK"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Germany"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Israel"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649911291.939689",
+    "reply_count": 13,
+    "reply_users_count": 6,
+    "latest_reply": "1650472622.013249",
+    "reply_users": [
+      "U02U9C2UTRC",
+      "U03B6AGE0HE",
+      "U03560PQ082",
+      "U030PQRLHEH",
+      "U030E27CBB3",
+      "U036NSXKBPZ"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "845d45f8-a043-4a6a-93a0-7c1a62af1eba",
+    "type": "message",
+    "text": "How do you find hooks for personalized email? \nGoogle search to find relevant content and write copy. Or use tools like lyne, warmer etc to simply the process? \nShare what went wrong and what worked. \nTIA:pray:",
+    "user": "U02UPASEMU4",
+    "ts": "1649339896.067949",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RXj4W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do you find hooks for personalized email? \nGoogle search to find relevant content and write copy. Or use tools like lyne, warmer etc to simply the process? \nShare what went wrong and what worked. \nTIA"
+              },
+              {
+                "type": "emoji",
+                "name": "pray"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649339896.067949",
+    "reply_count": 6,
+    "reply_users_count": 5,
+    "latest_reply": "1649997740.641609",
+    "reply_users": [
+      "U03158A1WPK",
+      "U037UUE6TV3",
+      "U035NH9AL6N",
+      "U02UZQJMP8R",
+      "U03AGQ4LGEN"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  }
+]

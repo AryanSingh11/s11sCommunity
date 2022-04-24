@@ -1,0 +1,851 @@
+[
+  {
+    "type": "message",
+    "subtype": "thread_broadcast",
+    "text": "Thanks <@U02VBQCQ7EG> for recs. We are working with kinjal and team for more than 6 months now for a different project. She know our process and structures better :slightly_smiling_face:",
+    "user": "U031NC9B67L",
+    "ts": "1650784246.160199",
+    "thread_ts": "1650369613.405829",
+    "root": {
+      "client_msg_id": "91ea5c4b-d068-470e-af45-3da266891857",
+      "type": "message",
+      "text": "Any good agency for managing B2B SaaS Ads",
+      "user": "U03BZJ0KK1R",
+      "ts": "1650369613.405829",
+      "team": "T02PFK13YLC",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s1ssq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Any good agency for managing B2B SaaS Ads"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1650369613.405829",
+      "reply_count": 8,
+      "reply_users_count": 7,
+      "latest_reply": "1650784246.160199",
+      "reply_users": [
+        "U02U6080NCX",
+        "U0316K76612",
+        "U03689EJ0U9",
+        "U032QUYKMGV",
+        "U031NC9B67L",
+        "U03BZJ0KK1R",
+        "U02VBQCQ7EG"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rw9=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U02VBQCQ7EG"
+              },
+              {
+                "type": "text",
+                "text": " for recs. We are working with kinjal and team for more than 6 months now for a different project. She know our process and structures better "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "444E115D-592F-4963-A951-32B1E4CB33F5"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1650783078.674339",
+    "user": "U03C8SYJGCF",
+    "text": "<@U03C8SYJGCF> has joined the channel",
+    "inviter": "U03DD6EGPKJ"
+  },
+  {
+    "client_msg_id": "b8ba3149-fd49-40d2-ad9a-4d1f82c04b21",
+    "type": "message",
+    "text": "has anyone here used reddit ads successfully?",
+    "user": "U031KD0PNTX",
+    "ts": "1650611507.974679",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+TF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "has anyone here used reddit ads successfully?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650611507.974679",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1650784083.828799",
+    "reply_users": [
+      "U02USELSBRT",
+      "U031KD0PNTX",
+      "U031NC9B67L",
+      "U0316K76612"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "2A9A15F3-981A-4311-B4D8-05A6B5244FA5",
+    "type": "message",
+    "text": "I’m looking for a senior performance marketer who has experience in managing $110k monthly budget, a strategist, highly analytical and an executioner. A person who can build and lead teams. Folks @here please connect him/her with me. ",
+    "user": "U02V5J4HB1P",
+    "ts": "1650591559.454509",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7p5R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m looking for a senior performance marketer who has experience in managing $110k monthly budget, a strategist, highly analytical and an executioner. A person who can build and lead teams. Folks @here please connect him/her with me. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650591559.454509",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650706861.772699",
+    "reply_users": [
+      "U030SDYNX7V",
+      "U02V5J4HB1P",
+      "U0316K76612"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "6c291969-6735-4464-9326-336cbe48e754",
+    "type": "message",
+    "text": "has anyone used Time Decay attribution model in GADs - need help in understanding how its useful vs last click and other models",
+    "user": "U030SDYNX7V",
+    "ts": "1650445057.356269",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LNK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "has anyone used Time Decay attribution model in GADs - need help in understanding how its useful vs last click and other models"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650445057.356269",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1650476838.927629",
+    "reply_users": [
+      "U02USELSBRT",
+      "U030SDYNX7V"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Hey all,\n\nA Google Ads noob here.\n\nI have GA4 enabled via Tag Manager in website but my Google Ads keep saying that I have \"Google Analytics tracking is linked to your account, but nothing is installed on your website.\"\n\nCan someone help? I still need to add GA universal analytics tag?",
+    "files": [
+      {
+        "id": "F03BY71VB5L",
+        "created": 1650431764,
+        "timestamp": 1650431764,
+        "name": "Screen Shot 2022-04-20 at 10.44.01.png",
+        "title": "Screen Shot 2022-04-20 at 10.44.01.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02URS98P9B",
+        "editable": false,
+        "size": 28621,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03BY71VB5L/screen_shot_2022-04-20_at_10.44.01.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03BY71VB5L/download/screen_shot_2022-04-20_at_10.44.01.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 67,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 89,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 134,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 149,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03BY71VB5L-0e4ef74793/screen_shot_2022-04-20_at_10.44.01_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 178,
+        "original_w": 990,
+        "original_h": 184,
+        "thumb_tiny": "AwAIADDSwexo+b1FLRQAnzeoo59qWigApKWg9KAP/9k=",
+        "permalink": "https://s11s.slack.com/files/U02URS98P9B/F03BY71VB5L/screen_shot_2022-04-20_at_10.44.01.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03BY71VB5L-dea64b06df",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U02URS98P9B",
+    "display_as_bot": false,
+    "ts": "1650431805.025709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8KS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all,\n\nA Google Ads noob here.\n\nI have GA4 enabled via Tag Manager in website but my Google Ads keep saying that I have \"Google Analytics tracking is linked to your account, but nothing is installed on your website.\"\n\nCan someone help? I still need to add GA universal analytics tag?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "948e7dd8-ffd2-40cd-b0cd-184236f14d45",
+    "thread_ts": "1650431805.025709",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1650443133.169559",
+    "reply_users": [
+      "U02USELSBRT",
+      "U031BVBGHCK",
+      "U02URS98P9B"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Dear startup marketers how much are you burning on IPL ads? ",
+    "files": [
+      {
+        "id": "F03C2A7FTC3",
+        "created": 1650388529,
+        "timestamp": 1650388529,
+        "name": "Image from iOS.jpg",
+        "title": "Image from iOS",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U039FQ2SNNN",
+        "editable": false,
+        "size": 54710,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "subtype": "slack_image",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03C2A7FTC3/image_from_ios.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03C2A7FTC3/download/image_from_ios.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 217,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 289,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 434,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03C2A7FTC3-d43ec42e4b/image_from_ios_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 482,
+        "original_w": 828,
+        "original_h": 499,
+        "thumb_tiny": "AwAcADC6AO4X/vml2ccBT/wGkXy+c7aU+VjjbQAeX7L/AN81LUX7vj7tO8tf7ooAfRUfljB+Ue1KEHHyigBu7J++h/Ggvx95D+NMR256UeYx4OPypASb/wDaT86kqt5jcdPyqzTAKKKKAP/Z",
+        "permalink": "https://s11s.slack.com/files/U039FQ2SNNN/F03C2A7FTC3/image_from_ios.jpg",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03C2A7FTC3-a75b319cc0",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U039FQ2SNNN",
+    "display_as_bot": false,
+    "ts": "1650388533.004289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OMY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Dear startup marketers how much are you burning on IPL ads? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "C56E3B0E-372D-4084-92B2-2C186CAB93A1"
+  },
+  {
+    "client_msg_id": "91ea5c4b-d068-470e-af45-3da266891857",
+    "type": "message",
+    "text": "Any good agency for managing B2B SaaS Ads",
+    "user": "U03BZJ0KK1R",
+    "ts": "1650369613.405829",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s1ssq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any good agency for managing B2B SaaS Ads"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650369613.405829",
+    "reply_count": 8,
+    "reply_users_count": 7,
+    "latest_reply": "1650784246.160199",
+    "reply_users": [
+      "U02U6080NCX",
+      "U0316K76612",
+      "U03689EJ0U9",
+      "U032QUYKMGV",
+      "U031NC9B67L",
+      "U03BZJ0KK1R",
+      "U02VBQCQ7EG"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0eaf205c-5c0a-4922-af5e-7db96fe73036",
+    "type": "message",
+    "text": "Our Job title campaigns on Facebook, have very limited reach right now and campaigns have maxed out and have a frequency of 8-9. Wanted to check in the group if anyone has used Clearbit for FB and is it worth it?",
+    "user": "U031G7L2CE4",
+    "ts": "1650357326.079719",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "03V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Our Job title campaigns on Facebook, have very limited reach right now and campaigns have maxed out and have a frequency of 8-9. Wanted to check in the group if anyone has used Clearbit for FB and is it worth it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1650357326.079719",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1650393018.104889",
+    "reply_users": [
+      "U02USELSBRT",
+      "U03158A1WPK"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "30882a2a-de3a-49bd-92b8-130a2a99a56a",
+    "type": "message",
+    "text": "Does anyone have a recommendation for a vendor / agency that can make Google Ad payments on our behalf. Need some urgent recommendations here.\nThanks in advance.",
+    "user": "U02V5F2JFME",
+    "ts": "1649939737.469799",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xk1s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone have a recommendation for a vendor / agency that can make Google Ad payments on our behalf. Need some urgent recommendations here.\nThanks in advance."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c887675f-833f-41db-b27b-0d32d181d25e",
+    "type": "message",
+    "text": "Is their any tool which can be used to track competitor social media activity?\n\nSomething like LinkedIn Competitor but that only allows 10 entity to add!",
+    "user": "U03AHQURB98",
+    "ts": "1649914708.794839",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JQI5p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is their any tool which can be used to track competitor social media activity?\n\nSomething like LinkedIn Competitor but that only allows 10 entity to add!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649914708.794839",
+    "reply_count": 7,
+    "reply_users_count": 7,
+    "latest_reply": "1650507965.890369",
+    "reply_users": [
+      "U0318JZUESX",
+      "U0316818QSH",
+      "U02V22EUXM4",
+      "U03B77PCDNY",
+      "U02UM4DF6KV",
+      "U02UPBP2012",
+      "U03AHQURB98"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "1CA18E5F-4436-48B4-8F92-6D2586CE775D",
+    "type": "message",
+    "text": "Hey people, I wanted to check if there are any tools or agencies that can help with a list of Instagram businesses. Know of any? ",
+    "user": "U030L29FSN4",
+    "ts": "1649773532.008639",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oRHC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey people, I wanted to check if there are any tools or agencies that can help with a list of Instagram businesses. Know of any? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649773532.008639",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649855597.536109",
+    "reply_users": [
+      "U037QSG25PG",
+      "U030L29FSN4"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "c6cf830f-cc9e-4d4e-9101-fa96b6f05de9",
+    "type": "message",
+    "text": "Hi folks\nCurrently researching about this, would appreciate inputs:\nWhich kind of videos have you seen doing well for top of the funnel or brand awareness ad campaigns? Context is B2B SaaS.\nAny examples of good videos you have come across that fit the bill?",
+    "user": "U032WAF0HHC",
+    "ts": "1649757513.756809",
+    "team": "T02PFK13YLC",
+    "edited": {
+      "user": "U032WAF0HHC",
+      "ts": "1649760217.000000"
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0zGj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi folks\nCurrently researching about this, would appreciate inputs:\nWhich kind of videos have you seen doing well for top of the funnel or brand awareness ad campaigns? Context is B2B SaaS.\nAny examples of good videos you have come across that fit the bill?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649757513.756809",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1649760504.340639",
+    "reply_users": [
+      "U02USELSBRT",
+      "U031BVBGHCK",
+      "U031KD0PNTX"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "This pisses me off. Years back when i just got into performance marketing, when i used to run web traffic campaigns and brand awareness campaigns and shiz and get 0 conversions i couldnt believe that our ads were so bad. They were actually really good. So i installed an ip tracking software on the website, tracked where all the website visitors are. First on lucky orange i noticed that a99% of the users stayed on the page for exactly 7 seconds and performed the same action, when i got the IP report, i saw that the server the traffic was coming from was called \"Facebook Ireland\" took this up with Facebook support and they said Facebook will not accept the results of third party data. At the end of the day this is just a few ruppees or cents, but in volume its a lot of money Facebook is getting out of this bot nonsense",
+    "files": [
+      {
+        "id": "F03B3ST6L5S",
+        "created": 1649701450,
+        "timestamp": 1649701450,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U038L2K4R08",
+        "editable": false,
+        "size": 75931,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T02PFK13YLC-F03B3ST6L5S/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T02PFK13YLC-F03B3ST6L5S/download/image.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 76,
+        "thumb_480": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 101,
+        "thumb_160": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 151,
+        "thumb_800": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 168,
+        "thumb_960": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 201,
+        "thumb_1024": "https://files.slack.com/files-tmb/T02PFK13YLC-F03B3ST6L5S-7a5bbdd8ff/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 215,
+        "original_w": 1549,
+        "original_h": 325,
+        "thumb_tiny": "AwAKADDR20FajYnJ5oJ6UDsPwaMGmZoyf1oCw/aeOtLt96jyf1oyfWgLH//Z",
+        "permalink": "https://s11s.slack.com/files/U038L2K4R08/F03B3ST6L5S/image.png",
+        "permalink_public": "https://slack-files.com/T02PFK13YLC-F03B3ST6L5S-cc66ec01c0",
+        "is_starred": false,
+        "has_rich_preview": false
+      }
+    ],
+    "upload": false,
+    "user": "U038L2K4R08",
+    "display_as_bot": false,
+    "ts": "1649701642.033559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ltXQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This pisses me off. Years back when i just got into performance marketing, when i used to run web traffic campaigns and brand awareness campaigns and shiz and get 0 conversions i couldnt believe that our ads were so bad. They were actually really good. So i installed an ip tracking software on the website, tracked where all the website visitors are. First on lucky orange i noticed that a99% of the users stayed on the page for exactly 7 seconds and performed the same action, when i got the IP report, i saw that the server the traffic was coming from was called \"Facebook Ireland\" took this up with Facebook support and they said Facebook will not accept the results of third party data. At the end of the day this is just a few ruppees or cents, but in volume its a lot of money Facebook is getting out of this bot nonsense"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "692b48b7-1122-429b-9b23-0d6614b3e1be"
+  },
+  {
+    "client_msg_id": "99086ba7-196c-4719-8442-bd35faf44a8f",
+    "type": "message",
+    "text": "Guys , i work with a DTC brand which is a leader in its segment. Our brand keyword CPC has gone through the roof this weekend(Rs 200), the google ads account is new, and we are on maximize conversions as the bid type. Would you suggest moving this to ECPC to try to control the bids for brand keywords.",
+    "user": "U038L2K4R08",
+    "ts": "1649672188.205479",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SerC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Guys , i work with a DTC brand which is a leader in its segment. Our brand keyword CPC has gone through the roof this weekend(Rs 200), the google ads account is new, and we are on maximize conversions as the bid type. Would you suggest moving this to ECPC to try to control the bids for brand keywords."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649672188.205479",
+    "reply_count": 16,
+    "reply_users_count": 5,
+    "latest_reply": "1649701371.256689",
+    "reply_users": [
+      "U031KD0PNTX",
+      "U038L2K4R08",
+      "U02ULCHDGB0",
+      "U02USELSBRT",
+      "U0316K76612"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "0066d662-6a11-4555-9383-7b7dc0e2378b",
+    "type": "message",
+    "text": "I want to learn using Google Display ads (beyond retargeting) for B2B SaaS. What are the best sources to learn?\n\nHave you or someone you know seen success with display ads?",
+    "user": "U02ULN6EFNV",
+    "ts": "1649666305.710279",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kfh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I want to learn using Google Display ads (beyond retargeting) for B2B SaaS. What are the best sources to learn?\n\nHave you or someone you know seen success with display ads?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649666305.710279",
+    "reply_count": 6,
+    "reply_users_count": 6,
+    "latest_reply": "1649734005.677579",
+    "reply_users": [
+      "U0306HUGT6C",
+      "U038L2K4R08",
+      "U02UMJJJALA",
+      "U03AQFPP9BL",
+      "U02USELSBRT",
+      "U02V5HU4EP2"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "209d670a-4574-4c17-a156-caefb37dc69a",
+    "type": "message",
+    "text": "Does he want Marketers to go out  and market in the conventional manner?\n\nPerformance Mktg is the way ahead !!",
+    "user": "U03B4FAM9FT",
+    "ts": "1649436133.907989",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dyrS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does he want Marketers to go out  and market in the conventional manner?\n\nPerformance Mktg is the way ahead !!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649436133.907989",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1649436226.879589",
+    "reply_users": [
+      "U02TTEFFU6B"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "type": "message",
+    "text": "Just in case you guys were feeling left out…\n<https://brandequity.economictimes.indiatimes.com/news/marketing/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo/90675546>",
+    "user": "U02USELSBRT",
+    "ts": "1649390720.714069",
+    "team": "T02PFK13YLC",
+    "attachments": [
+      {
+        "from_url": "https://brandequity.economictimes.indiatimes.com/news/marketing/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo/90675546",
+        "image_url": "https://etimg.etb2bimg.com/thumb/msid-90675546,imgsize-99760,width-1200,height-628,overlay-etbrandequity/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo.jpg",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 503356,
+        "service_icon": "https://st.etb2bimg.com/Themes/Release/images/site-logos/etfavicon-brandequity-2.ico",
+        "id": 1,
+        "original_url": "https://brandequity.economictimes.indiatimes.com/news/marketing/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo/90675546",
+        "fallback": "ETBrandEquity.com: Performance marketing is polluting the Internet: MullenLowe global CEO - ET BrandEquity",
+        "text": "Alex Leikikh, global CEO at MullenLowe Group, speaks on a variety of topics from the dangers of performance marketing, the need for agency groups to b..",
+        "title": "Performance marketing is polluting the Internet: MullenLowe global CEO - ET BrandEquity",
+        "title_link": "https://brandequity.economictimes.indiatimes.com/news/marketing/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo/90675546",
+        "service_name": "ETBrandEquity.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hF8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just in case you guys were feeling left out…\n"
+              },
+              {
+                "type": "link",
+                "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/performance-marketing-is-polluting-the-internet-mullenlowe-global-ceo/90675546"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1649390720.714069",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1649417869.242329",
+    "reply_users": [
+      "U02PDC4883V",
+      "U02V22EUXM4"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "e635acbd-b8c9-487f-8a95-5af169be6290",
+    "type": "message",
+    "text": "PPC folks, do you use a tool to figure out what keywords your competitors are bidding on , on Amazon Sponsored Products Ads?",
+    "user": "U038L2K4R08",
+    "ts": "1648649403.933699",
+    "team": "T02PFK13YLC",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kaNnG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "PPC folks, do you use a tool to figure out what keywords your competitors are bidding on , on Amazon Sponsored Products Ads?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1648649403.933699",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1648658091.843359",
+    "reply_users": [
+      "U02V5HU4EP2"
+    ],
+    "is_locked": false,
+    "subscribed": false
+  }
+]
